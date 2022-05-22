@@ -20,6 +20,15 @@ h1 {
     font-size: 3rem;
 }
 
+header h2 {
+    margin-top: 1vh;
+}
+
+h3 {
+    margin: 1vh;
+    font-size: 5vmin;
+}
+
 nav ul {
     margin: 0;
     padding: 0;
@@ -41,7 +50,8 @@ nav ul li {
 nav ul li:hover {
     border: 1px solid hsl(270, 50%, 17%);
     background-color: whitesmoke;
-    color:hsl(270, 8%, 17%)
+    color:hsl(270, 8%, 17%);
+    cursor: pointer;
 }
 
 main {
@@ -52,13 +62,20 @@ main {
     background-color: hsl(270, 8%, 46%);
 }
 
+#carousel {
+    margin: auto;
+    height: 85%;
+    width: 80%;
+    overflow-x: scroll;
+    position: relative;
+}
+
 .parent {
     margin: auto;
     margin-top: 1vh;
     background-color: hsl(270, 50%, 17%);
     height: 85%;
-    width: 80%;
-    position: relative;
+    position: absolute;
     overflow-y: scroll;
     border-radius: 10px;
     box-shadow: 3px 3px 15px black;
@@ -94,7 +111,49 @@ main {
     margin: 1vh;
 }
 
+#matchessection {
+    display: none;
+}
 
+.match {
+    background-color: whitesmoke;
+    color:hsl(270, 8%, 17%);
+    padding: 2vh;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.profilepic {
+    width: 10vw;
+}
+
+.gamename {
+    font-size: 4vh;
+    padding-left: 1vw;
+}
+
+.gamestats {
+    margin: auto;
+    padding: 1vmin;
+    background-color: whitesmoke;
+    color:hsl(270, 8%, 17%);
+    padding-bottom: 2vh;
+    width: 92%;
+    border-radius: 10px;
+}
+
+.tags {
+    padding-top: 1vmin;
+}
+
+
+
+/* Custom Scroll Bar */
  .parent::-webkit-scrollbar {
      width: 12px;
  }
