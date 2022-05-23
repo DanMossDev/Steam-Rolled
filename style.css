@@ -76,6 +76,7 @@ main {
     background-color: hsl(270, 50%, 17%);
     height: 85%;
     position: absolute;
+    cursor: grab;
     overflow-y: scroll;
     border-radius: 10px;
     box-shadow: 3px 3px 15px black;
