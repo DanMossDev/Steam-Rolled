@@ -1,23 +1,24 @@
 const puppeteer = require('puppeteer')
 
-let urlTemplate = 'https://store.steampowered.com/app/'
-let currentAppID = '1222670'
-
 async function scrapePage(url, appID) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto(url + appID);
+    await page.goto('https://store.steampowered.com/app/' + appID);
 
     let movie = await page.$$('.highlight_movie');
-    let src = await movie[1].getProperty('src');
-    let srcText = src.jsonValue();
+    let movSrc = await movie[1].getProperty('src');
+    let movLink = movSrc.jsonValue();
 
-
-  //  let [screenshots] = await page.$x('//*[@id="appHubAppName"]')
-
-    console.log(srcText)
+    let images = await page.$$('.highlight_screenshot_link')
+    let img1Src = await images[0].getProperty('href');
+    let img1Link = img1Src.jsonValue();
+    let img2Src = await images[1].getProperty('href');
+    let img2Link = img2Src.jsonValue();
+    let img3Src = await images[2].getProperty('href');
+    let img3Link = img3Src.jsonValue();
 
     browser.close();
+    console.log(movLink, img1Link, img2Link, img3Link);
 }
 
-scrapePage(urlTemplate, currentAppID)
+module.exports(scrapePage);
