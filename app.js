@@ -1,4 +1,4 @@
-const scrapePage = require('./scraper')
+const scraper = require('./scraper')
 const GAMES = require('./games')
 
 //DOM cache
@@ -15,18 +15,12 @@ const GAMES = require('./games')
 
 //variables
 
-function assignMedia() {
-    let currentGameID = GAMES[Math.floor(Math.random() * GAMES.length)].ID;
-    let media = scrapePage(currentGameID);
-    let result = media.then(function(result) {
-        console.log(result)
-        return result
-    })
-    
-    // img1.innerHTML += `src="${result.img1Link}`
+async function printImgs() {
+    let imgs = then(scraper.assignMedia())
+    console.log(imgs.img1Link)
 }
 
-assignMedia();
+printImgs();
 
 // swipeButton.addEventListener('click', function() {loadSwipe()})
 // matchesButton.addEventListener('click', function() {loadMatches()})
