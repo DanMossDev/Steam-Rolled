@@ -19,19 +19,16 @@ async function scrapePage(appID) {
     let img3Link = img3Src.jsonValue();
 
     browser.close();
-    return {movLink, img1Link, img2Link, img3Link};
+    return Promise.all([movLink, img1Link, img2Link, img3Link])
 }
 
 
-function assignMedia(currentGameID) {
+async function assignMedia(currentGameID) {
     currentGameID ? currentGameID : currentGameID = GAMES[Math.floor(Math.random() * GAMES.length)].ID; //if not called with an ID, pick a random one from the GAMES object
-    let media = scrapePage(currentGameID);
-    let result = media.then(function(result) {
-        console.log(result)
-        return result
-    })
+    let media = await scrapePage(currentGameID);
+    console.log(media)
+    return media
 }
 
-assignMedia();
 
 module.exports = {assignMedia};
