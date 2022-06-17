@@ -13,7 +13,6 @@ const GAMES = require('./games')
 // const swipeSection = document.getElementById('swipesection');
 // const matchesSection = document.getElementById('matchessection');
 
-//variables
 
 async function printImgs() {
     let imgs = await scraper.assignMedia()
