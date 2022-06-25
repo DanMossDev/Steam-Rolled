@@ -16,7 +16,6 @@ const GAMES = require('./games')
 
 async function printImgs() {
     let imgs = await scraper.assignMedia()
-    console.log(imgs[0])
 }
 
 printImgs();
