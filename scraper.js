@@ -1,6 +1,5 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs/promises')
-const steamAPI = require('./steamapi')
 const axios = require('axios')
 
 
