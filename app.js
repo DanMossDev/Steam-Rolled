@@ -14,11 +14,6 @@ const GAMES = require('./games')
 // const matchesSection = document.getElementById('matchessection');
 
 
-async function printImgs() {
-    let imgs = await scraper.assignMedia()
-}
-
-printImgs();
 
 // swipeButton.addEventListener('click', function() {loadSwipe()})
 // matchesButton.addEventListener('click', function() {loadMatches()})

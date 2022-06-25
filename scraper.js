@@ -1,7 +1,12 @@
 const puppeteer = require('puppeteer')
-const GAMES = require('./games')
 const fs = require('fs/promises')
 const steamAPI = require('./steamapi')
+const axios = require('axios')
+
+
+function getAllApps() {
+    return axios.get('https://api.steampowered.com/ISteamApps/GetAppList/v2/')
+}
 
 async function scrapePage(appID, name) {
     try {
@@ -27,34 +32,33 @@ async function scrapePage(appID, name) {
         browser.close();
         return Promise.all([movLink, img1Link, img2Link, img3Link, description, name])
     }
-    catch(err) {assignMedia()}
+    catch(err) {console.log("Whoops")}
 }
 
 
 async function assignMedia() {
     try {
-        steamAPI.getAllApps()
-        .then(response => {
+        const gamesDataArray = []
+        getAllApps()
+        .then(async (response) => {
             const games = response.data.applist.apps
-            const randomGameNum = Math.floor(Math.random() * games.length)
+            for(let i = 0; i < 100; i++) {
+                try {
+                const game = games[i]
+                const [movLink, img1Link, img2Link, img3Link, description, name] = await scrapePage(game.appid, game.name)
 
-            return {id: games[randomGameNum].appid, game: games[randomGameNum].name}
-        })
-        .then((game) => {
-            console.log(game)
-            return Promise.all([scrapePage(game.id, game.game)])
-        })
-        .then((response) => {
-            const [[movLink, img1Link, img2Link, img3Link, description, name]] = response
-            console.log(movLink)
-            console.log(img1Link) 
-            console.log(img2Link)
-            console.log(img3Link)
-            console.log(description)
-            console.log(name)
+                console.log(movLink, img1Link, img2Link, img3Link, description, name)
+
+                //PLAN: From here, read a JSON file for an object of games data (sorted by game name), push new game into the object, store JSON with new game
+                }
+                catch(err) {console.log('Game not found')}
+            }
         })
     }
     catch(err) {console.log('Uh oh')}
 }
+
+assignMedia();
+
 
 module.exports = { assignMedia };
