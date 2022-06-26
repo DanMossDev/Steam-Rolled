@@ -8,8 +8,8 @@ function getAllApps() {
 }
 
 async function scrapePage(appID, name) {
+    const browser = await puppeteer.launch();
     try {
-        const browser = await puppeteer.launch();
         const page = await browser.newPage();
         await page.goto('https://store.steampowered.com/app/' + appID);
 
@@ -28,27 +28,35 @@ async function scrapePage(appID, name) {
         let preview = await page.$('.game_description_snippet')
         let descriptionSpace = await preview.evaluate(el => el.textContent)
         let description = descriptionSpace.trim()
-        browser.close();
+        await browser.close()
         return Promise.all([movLink, img1Link, img2Link, img3Link, description, name])
     }
-    catch(err) {console.log("Whoops")}
+    catch(err) {await browser.close()}
+
 }
 
 
 async function assignMedia() {
     try {
-        const gamesDataArray = []
         getAllApps()
         .then(async (response) => {
             const games = response.data.applist.apps
-            for(let i = 0; i < 100; i++) {
+            for(let i = 9405; i < games.length; i++) { //Scraped up to 9405
+                console.log(i)
                 try {
-                const game = games[i]
-                const [movLink, img1Link, img2Link, img3Link, description, name] = await scrapePage(game.appid, game.name)
+                    const game = games[i]
+                    const [movLink, img1Link, img2Link, img3Link, description, name] = await scrapePage(game.appid, game.name)
+                    
+                    fs.readFile(`${__dirname}/data/games.json`, "utf-8")
+                    .then(file => {
+                        const currentList = JSON.parse(file)
 
-                console.log(movLink, img1Link, img2Link, img3Link, description, name)
+                        if (!currentList.hasOwnProperty(`${name}`)) {
+                            currentList[name] = {links: [movLink, img1Link, img2Link, img3Link], description}
 
-                //PLAN: From here, read a JSON file for an object of games data (sorted by game name), push new game into the object, store JSON with new game
+                            fs.writeFile(`${__dirname}/data/games.json`, JSON.stringify(currentList, null, 2), "utf-8")
+                        }
+                    })
                 }
                 catch(err) {console.log('Game not found')}
             }
