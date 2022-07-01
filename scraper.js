@@ -7,29 +7,32 @@ function getAllApps() {
     return axios.get('https://api.steampowered.com/ISteamApps/GetAppList/v2/')
 }
 
-async function scrapePage(appID, name) {
+async function scrapePage(appID) {
     const browser = await puppeteer.launch();
     try {
         const page = await browser.newPage();
         await page.goto('https://store.steampowered.com/app/' + appID);
+        
+        const movie = await page.$$('.highlight_movie'); //scrape trailer from the highlight carousel
+        const movSrc = await movie[1].getProperty('src');
+        const movLink = movSrc.jsonValue();
+        
+        const images = await page.$$('.highlight_screenshot_link') //scrape images from the highlight carousel
+        const img1Src = await images[0].getProperty('href');
+        const img1Link = img1Src.jsonValue();
+        const img2Src = await images[1].getProperty('href');
+        const img2Link = img2Src.jsonValue();
+        const img3Src = await images[2].getProperty('href');
+        const img3Link = img3Src.jsonValue();
 
-        let movie = await page.$$('.highlight_movie'); //scrape trailer from the highlight carousel
-        let movSrc = await movie[1].getProperty('src');
-        let movLink = movSrc.jsonValue();
+        const preview = await page.$('.game_description_snippet')
+        const descriptionSpace = await preview.evaluate(el => el.textContent)
+        const description = descriptionSpace.trim()
 
-        let images = await page.$$('.highlight_screenshot_link') //scrape images from the highlight carousel
-        let img1Src = await images[0].getProperty('href');
-        let img1Link = img1Src.jsonValue();
-        let img2Src = await images[1].getProperty('href');
-        let img2Link = img2Src.jsonValue();
-        let img3Src = await images[2].getProperty('href');
-        let img3Link = img3Src.jsonValue();
-
-        let preview = await page.$('.game_description_snippet')
-        let descriptionSpace = await preview.evaluate(el => el.textContent)
-        let description = descriptionSpace.trim()
+        const detailsBox = await page.$('#genresAndManufacturer')
+        const details = await detailsBox.evaluate(el => el.textContent)
         await browser.close()
-        return Promise.all([movLink, img1Link, img2Link, img3Link, description, name])
+        return Promise.all([movLink, img1Link, img2Link, img3Link, description, details, appID])
     }
     catch(err) {await browser.close()}
 
@@ -41,22 +44,30 @@ async function assignMedia() {
         getAllApps()
         .then(async (response) => {
             const games = response.data.applist.apps
-            for(let i = 9405; i < games.length; i++) { //Scraped up to 9405
+            for(let i = 0; i < games.length; i++) {
                 console.log(i)
+                console.log(games[i])
                 try {
                     const game = games[i]
-                    const [movLink, img1Link, img2Link, img3Link, description, name] = await scrapePage(game.appid, game.name)
-                    
+                    const [movLink, img1Link, img2Link, img3Link, description, details, appID] = await scrapePage(game.appid)
+
+                    const detailsArray = details.replace(/\t/g, '').split('\n').join(' : ').split(': ').map(el => el.trim()).filter(el => el !== '')
+                    const detailsObject = {appID}
+                    for (let i = 0; i < detailsArray.length; i += 2) {
+                        detailsObject[detailsArray[i]] = detailsArray[i+1]
+                    }
+                    console.log(detailsObject)
                     fs.readFile(`${__dirname}/data/games.json`, "utf-8")
                     .then(file => {
                         const currentList = JSON.parse(file)
 
-                        if (!currentList.hasOwnProperty(`${name}`)) {
-                            currentList[name] = {links: [movLink, img1Link, img2Link, img3Link], description}
+
+                        if (!currentList.hasOwnProperty(`${detailsObject.Title}`)) {
+                            currentList[detailsObject.Title] = {links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, description}
 
                             fs.writeFile(`${__dirname}/data/games.json`, JSON.stringify(currentList, null, 2), "utf-8")
                         }
-                    })
+                    }).catch(err => console.log('uh oh'))
                 }
                 catch(err) {console.log('Game not found')}
             }
