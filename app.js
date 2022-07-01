@@ -1,23 +1,42 @@
-const GAMES = require('./games');
+const scraper = require('./scraper')
+const GAMES = require('./games')
 
 //DOM cache
-const title = document.getElementById('gametitle');
-const img1 = document.getElementById('img1');
-const img2 = document.getElementById('img2');
-const img3 = document.getElementById('img3');
-const bio = document.getElementById('bio');
-const swipe = document.getElementById('swipe')
-const matches = document.getElementById('matches')
-const stats = document.getElementById('stats')
-
-//variables
-let currentGame
-
-function randomGame() { //generate a random next game that the user hasn't already seen
-
-}
+// const title = document.getElementById('gametitle');
+// const img1 = document.getElementById('img1');
+// const img2 = document.getElementById('img2');
+// const img3 = document.getElementById('img3');
+// const bio = document.getElementById('bio');
+// const swipeButton = document.getElementById('swipe');
+// const matchesButton = document.getElementById('matches');
+// // const statsButton = document.getElementById('stats');
+// const swipeSection = document.getElementById('swipesection');
+// const matchesSection = document.getElementById('matchessection');
 
 
-function loadNext() {
+
+// swipeButton.addEventListener('click', function() {loadSwipe()})
+// matchesButton.addEventListener('click', function() {loadMatches()})
+
+// function loadSwipe() {
+//     swipeSection.style.display = 'block';
+//     matchesSection.style.display = 'none';
+//     //statsSection.style.display = 'none';
+// }
+
+// function loadMatches() {
+//     swipeSection.style.display = 'none';
+//     matchesSection.style.display = 'block';
+//     //statsSection.style.display = 'none';
+// }
+
+
+
+// function randomGame() { //generate a random next game that the user hasn't already seen
+
+// }
+
+
+// function loadNext() {
     
-}
+// }

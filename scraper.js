@@ -1,0 +1,92 @@
+const puppeteer = require('puppeteer')
+const fs = require('fs/promises')
+const axios = require('axios')
+
+
+function getAllApps() {
+    return axios.get('https://api.steampowered.com/ISteamApps/GetAppList/v2/')
+}
+
+async function scrapePage(appID) {
+    const browser = await puppeteer.launch();
+    try {
+        const page = await browser.newPage();
+        await page.goto('https://store.steampowered.com/app/' + appID);
+        
+        const movie = await page.$$('.highlight_movie'); //scrape trailer from the highlight carousel
+        const movSrc = await movie[1].getProperty('src');
+        const movLink = movSrc.jsonValue();
+        
+        const images = await page.$$('.highlight_screenshot_link') //scrape images from the highlight carousel
+        const img1Src = await images[0].getProperty('href');
+        const img1Link = img1Src.jsonValue();
+        const img2Src = await images[1].getProperty('href');
+        const img2Link = img2Src.jsonValue();
+        const img3Src = await images[2].getProperty('href');
+        const img3Link = img3Src.jsonValue();
+
+        const preview = await page.$('.game_description_snippet')
+        const descriptionSpace = await preview.evaluate(el => el.textContent)
+        const description = descriptionSpace.trim()
+
+        const detailsBox = await page.$('#genresAndManufacturer')
+        const details = await detailsBox.evaluate(el => el.textContent)
+        await browser.close()
+        return Promise.all([movLink, img1Link, img2Link, img3Link, description, details, appID])
+    }
+    catch(err) {await browser.close()}
+
+}
+
+
+async function assignMedia() {
+    try {
+        getAllApps()
+        .then(async (response) => {
+            const games = response.data.applist.apps
+            for(let i = 375; i < games.length; i++) { //scraped upto 375
+                console.log(i)
+                console.log(games[i])
+                try {
+                    const game = games[i]
+                    const [movLink, img1Link, img2Link, img3Link, description, details, appID] = await scrapePage(game.appid)
+
+                    const detailsArray = details.replace(/\t/g, '').split('\n').map(el => el.trim()).filter(el => el !== '')
+                    for (let i = 0; i < detailsArray.length; i++) {
+                        if (detailsArray[i].charAt(detailsArray[i].length - 1) === ':') {
+                            detailsArray[i] += ' ' + detailsArray[i+1]
+                            detailsArray.splice(i+1, 1)
+                        }
+                    }
+                    const detailsObject = {appID}
+                    detailsArray.forEach(detail => {
+                        const index = detail.indexOf(': ')
+                        const key = detail.substring(0, index)
+                        const value = detail.substring(index + 2)
+                        if (key === 'Genre') detailsObject[key] = value.split(', ')
+                        else detailsObject[key] = value
+                    })
+                    console.log(detailsObject)
+                    fs.readFile(`${__dirname}/data/games.json`, "utf-8")
+                    .then(file => {
+                        const currentList = JSON.parse(file)
+
+
+                        if (!currentList.hasOwnProperty(`${detailsObject.Title}`)) {
+                            currentList[detailsObject.appID] = {title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, description}
+
+                            fs.writeFile(`${__dirname}/data/games.json`, JSON.stringify(currentList, null, 2), "utf-8")
+                        }
+                    }).catch(err => console.log('uh oh'))
+                }
+                catch(err) {console.log('Game not found')}
+            }
+        })
+    }
+    catch(err) {console.log('Uh oh')}
+}
+
+assignMedia();
+
+
+module.exports = { assignMedia };
