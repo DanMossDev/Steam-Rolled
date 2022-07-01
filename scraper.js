@@ -44,18 +44,28 @@ async function assignMedia() {
         getAllApps()
         .then(async (response) => {
             const games = response.data.applist.apps
-            for(let i = 0; i < games.length; i++) {
+            for(let i = 375; i < games.length; i++) { //scraped upto 375
                 console.log(i)
                 console.log(games[i])
                 try {
                     const game = games[i]
                     const [movLink, img1Link, img2Link, img3Link, description, details, appID] = await scrapePage(game.appid)
 
-                    const detailsArray = details.replace(/\t/g, '').split('\n').join(' : ').split(': ').map(el => el.trim()).filter(el => el !== '')
-                    const detailsObject = {appID}
-                    for (let i = 0; i < detailsArray.length; i += 2) {
-                        detailsObject[detailsArray[i]] = detailsArray[i+1]
+                    const detailsArray = details.replace(/\t/g, '').split('\n').map(el => el.trim()).filter(el => el !== '')
+                    for (let i = 0; i < detailsArray.length; i++) {
+                        if (detailsArray[i].charAt(detailsArray[i].length - 1) === ':') {
+                            detailsArray[i] += ' ' + detailsArray[i+1]
+                            detailsArray.splice(i+1, 1)
+                        }
                     }
+                    const detailsObject = {appID}
+                    detailsArray.forEach(detail => {
+                        const index = detail.indexOf(': ')
+                        const key = detail.substring(0, index)
+                        const value = detail.substring(index + 2)
+                        if (key === 'Genre') detailsObject[key] = value.split(', ')
+                        else detailsObject[key] = value
+                    })
                     console.log(detailsObject)
                     fs.readFile(`${__dirname}/data/games.json`, "utf-8")
                     .then(file => {
@@ -63,7 +73,7 @@ async function assignMedia() {
 
 
                         if (!currentList.hasOwnProperty(`${detailsObject.Title}`)) {
-                            currentList[detailsObject.Title] = {links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, description}
+                            currentList[detailsObject.appID] = {title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, description}
 
                             fs.writeFile(`${__dirname}/data/games.json`, JSON.stringify(currentList, null, 2), "utf-8")
                         }
