@@ -1,0 +1,217 @@
+[
+  { 
+    "appID": true
+  },
+  {
+  "appID": 501180,
+  "title": "Acan's Call: Act 1",
+  "links": [
+    "https://cdn.cloudflare.steamstatic.com/steam/apps/256668507/movie480.webm?t=1470769230",
+    "https://cdn.cloudflare.steamstatic.com/steam/apps/501180/ss_d0575bdf50ea23e4cad332458a87bfbdb10e6662.1920x1080.jpg?t=1526657256",
+    "https://cdn.cloudflare.steamstatic.com/steam/apps/501180/ss_fe62daa94da9adc84d3994ed2884c9b18d3e28ec.1920x1080.jpg?t=1526657256",
+    "https://cdn.cloudflare.steamstatic.com/steam/apps/501180/ss_b6316911fe822156c82df6292920028807808039.1920x1080.jpg?t=1526657256"
+  ],
+  "details": {
+    "appID": 501180,
+    "Title": "Acan's Call: Act 1",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "Developer": "Cyberith GmbH",
+    "Publisher": "Cyberith GmbH",
+    "Release Date": "11 Aug, 2016"
+  },
+  "description": "Sword and Shield in hand, fight your way along this sword-fighting experience, exclusively for VR."
+  },
+  {
+    "appID": 501190,
+    "title": "Axis Football 2016",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256667361/movie480.webm?t=1469202998",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501190/ss_c970a557421a4daa3445f2a05d2b61347a07bf70.1920x1080.jpg?t=1470059285",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501190/ss_09bf6e32cb5db845827e24a0f4ebfcbadba038b4.1920x1080.jpg?t=1470059285",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501190/ss_7cc1f9d8aacc53d935a6803ab69d06f029d5bb7f.1920x1080.jpg?t=1470059285"
+    ],
+    "details": {
+      "appID": 501190,
+      "Title": "Axis Football 2016",
+      "Genre": [
+        "Simulation",
+        "Sports"
+      ],
+      "Developer": "Axis Games",
+      "Publisher": "Axis Games",
+      "Release Date": "29 Jul, 2016"
+    },
+    "description": "Axis Football is a an American football simulation featuring innovative aimed passing and massive customization."
+  },
+  {
+    "appID": 501210,
+    "title": "Reign of Darkness",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256808837/movie480_vp9.webm?t=1606460505",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501210/ss_be7de58b260ed813da5df248ca987736e7a53009.1920x1080.jpg?t=1611365936",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501210/ss_7460ed0bffec55648d99be41a6dfc0a3a27f6de1.1920x1080.jpg?t=1611365936",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501210/ss_6064e8d1b74fe8360ce4093b066172693c069ab9.1920x1080.jpg?t=1611365936"
+    ],
+    "details": {
+      "appID": 501210,
+      "Title": "Reign of Darkness",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy",
+        "Early Access"
+      ],
+      "Developer": "Unorthodox Studio",
+      "Publisher": "Unorthodox Studio",
+      "Release Date": "20 Nov, 2019",
+      "Early Access Release Date": "20 Nov, 2019"
+    },
+    "description": "Reign of Darkness still very much being developed but currently is a \"Tab Target\", \"Theory-Crafting\", \"Dungeon Runner\", and Online Role Playing Game. Being based on classic D&D principles & concepts, where every attack is a virtual roll of the dice, players can \"Build\" or..."
+  },
+  {
+    "appID": 501220,
+    "title": "Space Ribbon - Slipstream to the Extreme",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256687971/movie480.webm?t=1546614758",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501220/ss_fc749afabcc1ea3c8e3f4d8fec8504c9a673cfdf.1920x1080.jpg?t=1643280895",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501220/ss_12626c800e82f16ca0bbad2db6695e344e90c2e6.1920x1080.jpg?t=1643280895",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501220/ss_e28e9a910e223cbcb5e5bdb6f1954fa516ebae37.1920x1080.jpg?t=1643280895"
+    ],
+    "details": {
+      "appID": 501220,
+      "Title": "Space Ribbon - Slipstream to the Extreme",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "Developer": "Onteca Ltd",
+      "Publisher": "Applaud Productions, Onteca Ltd",
+      "Release Date": "4 Jan, 2019"
+    },
+    "description": "The ultimate slipstream racer! Chase down a giant space beast and race to enter the creature’s mouth as it spews out a series of psychedelic racetracks. Slipstream to the extreme! Modify your junked up classic car and race to the finish line as you compete to become the intergalactic winner."
+  },
+  {
+    "appID": 501240,
+    "title": "Mervils: A VR Adventure",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256673168/movie480.webm?t=1477414155",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/497460/ss_9464bda573eadc1a1c11e33c62e905e6df18263f.1920x1080.jpg?t=1507833301",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/497460/ss_cdd304a024bcd9db0e0a69330326e223f89edf84.1920x1080.jpg?t=1507833301",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/497460/ss_7320a5220963943323cdd025b0753995cf7dcc4f.1920x1080.jpg?t=1507833301"
+    ],
+    "details": {
+      "appID": 501240,
+      "Title": "Mervils: A VR Adventure",
+      "Genre": [
+        "Adventure",
+        "RPG"
+      ],
+      "Developer": "VitruviusVR",
+      "Publisher": "VitruviusVR",
+      "Release Date": "25 Oct, 2016"
+    },
+    "description": "Mervils is an open world RPG platformer built specifically for third-person VR with over 6-8 hours of gameplay. In Mervils, you are tasked to defeat Balazar the Evil and save the four picturesque Mervil worlds from imminent destruction."
+  },
+  {
+    "appID": 501270,
+    "title": "Robots In The Wild",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256677411/movie480.webm?t=1485945311",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501270/ss_fc286c42d2af21b3390e272f93fd39faf818f5a8.1920x1080.jpg?t=1488924395",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501270/ss_2b8c9bbc9cf19d00b15b3bbbdf10792a8db3fa5d.1920x1080.jpg?t=1488924395",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501270/ss_79503954fa1368e0d247e2003b60dbd8dc8e0869.1920x1080.jpg?t=1488924395"
+    ],
+    "details": {
+      "appID": 501270,
+      "Title": "Robots In The Wild",
+      "Genre": [
+        "Indie",
+        "Strategy",
+        "Early Access"
+      ],
+      "Developer": "Heatbox Games",
+      "Publisher": "Heatbox Games",
+      "Release Date": "14 Feb, 2017"
+    },
+    "description": "Robots In The Wild is a challenging puzzle/strategy game about creatively dropping Blocks to build Robot fortresses. Travel to distant planets and construct huge, interconnected Robot strongholds to protect and rescue the HEARTS from the Monsters of the Wild."
+  },
+  {
+    "appID": 501280,
+    "title": "VirZOOM Gamepad Emulator",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256667119/movie480.webm?t=1468955198",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501280/ss_3504466f33a0533bd9f07a98cf25f236ad8d5145.1920x1080.jpg?t=1469824681",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501280/ss_2f898fcbb97c4b4cb3ba0fdbc55318aac766c43e.1920x1080.jpg?t=1469824681",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501280/ss_eeb2fff06d1ecd4fd275b3b2999b43f3205009b3.1920x1080.jpg?t=1469824681"
+    ],
+    "details": {
+      "appID": 501280,
+      "Title": "VirZOOM Gamepad Emulator",
+      "Genre": [
+        "Utilities"
+      ],
+      "Developer": "VirZOOM",
+      "Publisher": "VirZOOM",
+      "Release Date": "15 Jul, 2016"
+    },
+    "description": "A tool that allows the VirZOOM bike controller to act like a normal gamepad for other games."
+  },
+  {
+    "appID": 501300,
+    "title": "What Remains of Edith Finch",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256720203/movie480.webm?t=1529339369",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/ss_5e17b98cf2effabcb74aedc537ef3d68578b5c66.1920x1080.jpg?t=1656608849",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/ss_b33a742463deb8564a382e1744febceaa91a5bab.1920x1080.jpg?t=1656608849",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/ss_cc50bb10f1858d16a4df684f4dd264bda5d432ba.1920x1080.jpg?t=1656608849"
+    ],
+    "details": {
+      "appID": 501300,
+      "Title": "What Remains of Edith Finch",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Giant Sparrow",
+      "Publisher": "Annapurna Interactive",
+      "Franchise": "Annapurna Interactive",
+      "Release Date": "24 Apr, 2017"
+    },
+    "description": "What Remains of Edith Finch is a collection of strange tales about a family in Washington state. As Edith, you’ll explore the colossal Finch house, searching for stories as she explores her family history and tries to figure out why she's the last one in her family left alive."
+  },
+  {
+    "appID": 501310,
+    "title": "Venture Forth",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256671830/movie480.webm?t=1477037617",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501310/ss_7327a762d09d0ef6446cd96a1b24d4452b30789f.1920x1080.jpg?t=1498000772",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501310/ss_f742cee25e0ed825ea75d828c02cf6032c15d0d9.1920x1080.jpg?t=1498000772",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/501310/ss_cdae4982254d46b448bff5f17864203923d5e2ed.1920x1080.jpg?t=1498000772"
+    ],
+    "details": {
+      "appID": 501310,
+      "Title": "Venture Forth",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Arclight Worlds",
+      "Publisher": "Indie Voyage",
+      "Release Date": "20 Jun, 2017"
+    },
+    "description": "Venture Forth is an extremely challenging adventure game with a retro 90s shooter vibe. Forge your own path within its labyrinthine caves but beware the danger lurking around every corner."
+  }
+]
