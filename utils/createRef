@@ -1,0 +1,5 @@
+exports.createRef = (array, property1 = "link1", property2 = "link_id") => {
+    const reference = {}
+    for (let item of array) reference[item[property1]] = item[property2]
+    return reference
+};
