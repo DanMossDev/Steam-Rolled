@@ -1,4 +1,3781 @@
 {
+  "1913520": {
+    "title": "The Last of Samual",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874388/movie480_vp9.webm?t=1645477597",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1863770/ss_95714d1485de6657ebfff95a535031167e075009.1920x1080.jpg?t=1647710687",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1863770/ss_2530360e69c8877815fe71c4f0d94691a97d25e5.1920x1080.jpg?t=1647710687",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1863770/ss_8657816d76a35f591a10ed677affbf1fda184900.1920x1080.jpg?t=1647710687"
+    ],
+    "details": {
+      "appID": 1913520,
+      "Title": "The Last of Samual",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Gordy Games",
+      "Publisher": "Gordy Games",
+      "Release Date": "TBD"
+    },
+    "description": "Welcome to a new galaxy! You are Samual, a simple farmer that lives in a small abandoned town called First Valley. You live there with your daughter Sam who is the light of your world. One day you are attacked and your daughter is taken away from you!"
+  },
+  "1913530": {
+    "title": "DopeMine Arena",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256882478/movie480_vp9.webm?t=1650094871",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913530/ss_dbdd09fc42009499dce15dfd533659bcbf97b4d8.1920x1080.jpg?t=1655921980",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913530/ss_c086c1d8c0f1500b80a32de13ad73ae343508c9f.1920x1080.jpg?t=1655921980",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913530/ss_e7d0b00753798f4089dd299b6b4a9ae25ba2772e.1920x1080.jpg?t=1655921980"
+    ],
+    "details": {
+      "appID": 1913530,
+      "Title": "DopeMine Arena",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Early Access"
+      ],
+      "Developer": "Tallon Zek",
+      "Publisher": "DopeMine Games",
+      "Release Date": "22 Jun, 2022",
+      "Early Access Release Date": "22 Jun, 2022"
+    },
+    "description": "DopeMine Arena is a Bullet-Heaven Roguelite. Simple controls and auto-firing weapons put the focus on levelling up and making good choices to survive the onslaught of enemies. Earn coins to increase the stats of your characters. Discover the weapons and items that pair together ."
+  },
+  "1913550": {
+    "title": "Aces Under the Moonlight™",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256886765/movie480_vp9.webm?t=1652730600",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913550/ss_2412d46e18c5628154c5fab6cde9cb21c382032d.1920x1080.jpg?t=1656147818",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913550/ss_e1121b76ab8633c40360f215e3bcc380fd70d6fb.1920x1080.jpg?t=1656147818",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913550/ss_6145403206cfe9098481dc60c97dcf54e14c0c5f.1920x1080.jpg?t=1656147818"
+    ],
+    "details": {
+      "appID": 1913550,
+      "Title": "Aces Under the Moonlight™",
+      "Genre": [
+        "Action",
+        "Indie",
+        "Sports"
+      ],
+      "Developer": "Inferno of Creation LLC",
+      "Publisher": "Inferno of Creation LLC",
+      "Release Date": "3 Jun, 2022"
+    },
+    "description": "Action Sports is about to get a shot of pure fire. Run, jump, and Airdash your way to victory in this hand animated, high speed, punk-inspired ball game set against backgrounds of urban decay. Get ready an absolutely electric experience."
+  },
+  "1913580": {
+    "title": "1000 hidden snails",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874611/movie480_vp9.webm?t=1645267157",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1730520/ss_c6110e7c7f3929540636d0e041fa727f95962dd4.1920x1080.jpg?t=1648913475",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1730520/ss_f106fd2984dde213d2e924314e4aabca908ae410.1920x1080.jpg?t=1648913475",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1730520/ss_a98ab68d863b3275ac5eb9054ab4013d50997f96.1920x1080.jpg?t=1648913475"
+    ],
+    "details": {
+      "appID": 1913580,
+      "Title": "1000 hidden snails",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Anatoliy Loginovskikh",
+      "Publisher": "Anatoliy Loginovskikh",
+      "Franchise": "100 hidden objects",
+      "Release Date": "summer 2022"
+    },
+    "description": "Hidden object game in a surreal style. Extremely hard!"
+  },
+  "1913600": {
+    "title": "Sanator: Elmo's Legacy",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878914/movie480_vp9.webm?t=1647947356",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913600/ss_94732078a6642808c60c9dc89ef86ba17c0ebf97.1920x1080.jpg?t=1648014641",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913600/ss_282b78ee9cd859fbb9e7092867a5b4043cefeff9.1920x1080.jpg?t=1648014641",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913600/ss_a408fca18153c11de1f5884b8166106fef123d13.1920x1080.jpg?t=1648014641"
+    ],
+    "details": {
+      "appID": 1913600,
+      "Title": "Sanator: Elmo's Legacy",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Ignis Sanat",
+      "Publisher": "Ignis Sanat",
+      "Franchise": "Sanator",
+      "Release Date": "❧ 2023 ☙"
+    },
+    "description": "Sanator: Elmo's Legacy is a branching visual novel that follows the adventures of a certain plague doctor. What secrets do the Ailur people hold, and who St. Elmo really was? Venture into the heart of the frozen Taiga and find the answers."
+  },
+  "1913610": {
+    "title": "Art of Stunt",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874814/movie480_vp9.webm?t=1646267866",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913610/ss_c351e47b4561f58481ff6036c8b91756cc87d765.1920x1080.jpg?t=1646267875",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913610/ss_84fd088b6c523c0586fb7e185c85e64b3d810596.1920x1080.jpg?t=1646267875",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913610/ss_866774aee38b714a1ac0f62cac3d4123384495f3.1920x1080.jpg?t=1646267875"
+    ],
+    "details": {
+      "appID": 1913610,
+      "Title": "Art of Stunt",
+      "Genre": [
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "ZHANG FAN",
+      "Publisher": "ZHANG FAN",
+      "Release Date": "10 Jan, 2023"
+    },
+    "description": "Become the king of stunts! Show off your stunt skills in a variety of movie scenes like a Hollywood action movie star!"
+  },
+  "1913650": {
+    "title": "WAVECADE",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256888908/movie480_vp9.webm?t=1654500747",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1848580/ss_4a4db5bde89d6829ba950af1492f26a05b6cfc7e.1920x1080.jpg?t=1655086150",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1848580/ss_3bf5e2e27684e99379d95f95504eb7b9eef6d49e.1920x1080.jpg?t=1655086150",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1848580/ss_94daa6c6780c083f36ffdefbe52f3225a4d1c8a4.1920x1080.jpg?t=1655086150"
+    ],
+    "details": {
+      "appID": 1913650,
+      "Title": "WAVECADE",
+      "Genre": [
+        "Action",
+        "Strategy"
+      ],
+      "Developer": "Andrew Spalato, Lewis Spalato",
+      "Publisher": "Andrew Spalato",
+      "Release Date": "11 Jul, 2022"
+    },
+    "description": "WAVECADE is a sci-fi, arcade-style, shoot-em-up where YOU control the speed of the game. Destroy blocks in style as you collect powerups and avoid hazards. How far can you go? Set your own rules and unlock your favourite mode to play."
+  },
+  "1913700": {
+    "title": "Netspectre",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874396/movie480_vp9.webm?t=1650491615",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913700/ss_b34306ee6049a088ff81846d8627c023dafb989f.1920x1080.jpg?t=1650647785",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913700/ss_18ce683b1fb1d347632b015888c38e2963bf9005.1920x1080.jpg?t=1650647785",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913700/ss_9cb115007f46a2b02d95e92e3af84c99766ea98c.1920x1080.jpg?t=1650647785"
+    ],
+    "details": {
+      "appID": 1913700,
+      "Title": "Netspectre",
+      "Genre": [
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Iridescence Interactive",
+      "Publisher": "Iridescence Interactive",
+      "Release Date": "TBA"
+    },
+    "description": "Netspectre is a hacker roguelike set in a ruthless, cyberpunk universe. Infiltrate networks, improve your machine, navigate the challenges of daily life as a netspectre in a futuristic megacity, and perhaps even become one of its many legends!"
+  },
+  "1913780": {
+    "title": "PI.EXE",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874341/movie480_vp9.webm?t=1646656495",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913780/ss_a63c06475d791657610a6d4744d541ddb324d7d6.1920x1080.jpg?t=1647374144",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913780/ss_20eacf2cb8cd9440d64249f6eaf9605a4fcf2962.1920x1080.jpg?t=1647374144",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913780/ss_f4d78da66d906cec6b359cc784837f906f332439.1920x1080.jpg?t=1647374144"
+    ],
+    "details": {
+      "appID": 1913780,
+      "Title": "PI.EXE",
+      "Genre": [
+        "Indie"
+      ],
+      "Developer": "Zenberry Games",
+      "Publisher": "Zenberry Games",
+      "Release Date": "7 Mar, 2022"
+    },
+    "description": "Take the role of an antivirus software within the world of an operating system, eliminating malware spawns in a challenging, platforming quest!"
+  },
+  "1913810": {
+    "title": "Beastmaster",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878579/movie480_vp9.webm?t=1648187591",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913810/ss_fc7736896d0a2c0c1b7fd4dbef11e5d527003ca5.1920x1080.jpg?t=1652928510",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913810/ss_10b676fadf8a8560d51b7f4c35b03ecb9e05edd0.1920x1080.jpg?t=1652928510",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913810/ss_0f05249cf7b46434bfdbe9795db0bdee29024007.1920x1080.jpg?t=1652928510"
+    ],
+    "details": {
+      "appID": 1913810,
+      "Title": "Beastmaster",
+      "Genre": [
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "鱼鱼游戏",
+      "Publisher": "鱼鱼游戏",
+      "Release Date": "18 May, 2022"
+    },
+    "description": "Build, explore and survive in a struggle for survival against animals and mutants on a mysterious island."
+  },
+  "1913870": {
+    "title": "Tray Racers!",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880347/movie480_vp9.webm?t=1654974076",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913870/ss_29c8f2ce1387c3bcb3c16e7c0c4cd97d3bc7c652.1920x1080.jpg?t=1654974085",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913870/ss_5dd8f6647415e90fecfcbaacf108112608e3a706.1920x1080.jpg?t=1654974085",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913870/ss_67d7738bd2a4d95bd5c9b0db94e2dcffb24f4866.1920x1080.jpg?t=1654974085"
+    ],
+    "details": {
+      "appID": 1913870,
+      "Title": "Tray Racers!",
+      "Genre": [
+        "Free to Play",
+        "Indie",
+        "Racing"
+      ],
+      "Developer": "Bit Loom",
+      "Publisher": "Bit Loom",
+      "Release Date": "2023"
+    },
+    "description": "The world ended…But the fun didn’t! Race solo, or with your pals across the adorable post-apocalyptic world of Tray Racers! Grab a tray, surf the dunes, and get ready to SLIDE, DRIFT and TRICK your way to the finish line in this cute and colorful party racer, built for online multiplayer! YAHOOOOOO!"
+  },
+  "1913900": {
+    "title": "Potatoes",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876359/movie480_vp9.webm?t=1646469429",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913900/ss_ec247b9e619d588a54cc5cb5d3b6e90aa948b0d9.1920x1080.jpg?t=1652954675",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913900/ss_81acf4c89035242c0844d7ec83a404c178c4159e.1920x1080.jpg?t=1652954675",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913900/ss_915fba686dc9e587aef16bdd235372fba8197830.1920x1080.jpg?t=1652954675"
+    ],
+    "details": {
+      "appID": 1913900,
+      "Title": "Potatoes",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "Aldo Mangione",
+      "Publisher": "Aldo Mangione",
+      "Release Date": "August 2022"
+    },
+    "description": "Potatoes is a puzzle/platformer game in which you control multiple characters by recording what should they do. Make potatoes collaborate to reach the objective in 50 different levels of increasing difficulty!"
+  },
+  "1913970": {
+    "title": "PSYCHO",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874755/movie480_vp9.webm?t=1646163768",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913970/ss_8b3eb3a7a31511ee218010642c849738c8fab74e.1920x1080.jpg?t=1647025770",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913970/ss_dc6e9c47e3f1a39b3c2db6f01af9a327a4508ba4.1920x1080.jpg?t=1647025770",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1913970/ss_3b165959c28a10bb38ce5d82aaa5f937d68bd500.1920x1080.jpg?t=1647025770"
+    ],
+    "details": {
+      "appID": 1913970,
+      "Title": "PSYCHO",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "LTZinc",
+      "Publisher": "LTZinc",
+      "Release Date": "11 Mar, 2022"
+    },
+    "description": "PSYCHO - is an exciting 3D shooter with hardcore elements where you will explore an abandoned psychiatric hospital playing as a fighter SWAT."
+  },
+  "1914060": {
+    "title": "Super Mini Mart",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256891004/movie480_vp9.webm?t=1654973525",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914060/ss_aa66903c9566da8617e7fed1fdd7ba5cb77524aa.1920x1080.jpg?t=1655393661",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914060/ss_af9a1262706e06fb6fce9e7a3c0d445845d5c44d.1920x1080.jpg?t=1655393661",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914060/ss_b70a334d7e549a1b94100b698c6e5164cfa02941.1920x1080.jpg?t=1655393661"
+    ],
+    "details": {
+      "appID": 1914060,
+      "Title": "Super Mini Mart",
+      "Genre": [
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Blazing Panda",
+      "Publisher": "Those Awesome Guys",
+      "Release Date": "Wishlist NOW!"
+    },
+    "description": "Super Mini Mart is a cozy take on the management genre with a charming 3D aesthetic and an endearing cast of characters. Stock, supervise, and manage store activities in a laid-back environment, befriending locals and turning those one-off bargain hunters into life-long loyal customers!"
+  },
+  "1914140": {
+    "title": "Orkhon Inscriptions Mongolia VR",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874765/movie480_vp9.webm?t=1645651827",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914140/ss_27baaa93c4ff8eff9e66c27c7f85ca41cb695057.1920x1080.jpg?t=1646813229",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914140/ss_e42f423fa20d701531f2dff092d605aa26702f88.1920x1080.jpg?t=1646813229",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914140/ss_cade32f314652c5091bce501ed03747a11f79612.1920x1080.jpg?t=1646813229"
+    ],
+    "details": {
+      "appID": 1914140,
+      "Title": "Orkhon Inscriptions Mongolia VR",
+      "Genre": [
+        "Simulation"
+      ],
+      "Developer": "Erkan Erat (M.A. Central Asian Studies)",
+      "Publisher": "Erkan Erat (M.A. Central Asian Studies)",
+      "Release Date": "9 Mar, 2022"
+    },
+    "description": "An animated VR tour to the Orkhon Inscriptions in Northern Mongolia. Old turkic runic inscriptions from AD 700-735. For Oculus Quest version please contact me."
+  },
+  "1914150": {
+    "title": "Gunsmith Simulator",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256889577/movie480_vp9.webm?t=1654620517",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1101120/ss_d1f53dc5d816d3ea1f1b0abdd63b26537f940976.1920x1080.jpg?t=1656572902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1101120/ss_29231c0a613ff531a27ca4ccacfce6859d5ecf71.1920x1080.jpg?t=1656572902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1101120/ss_4d55ee362fcef12bf677b7909b484c5d9b816362.1920x1080.jpg?t=1656572902"
+    ],
+    "details": {
+      "appID": 1914150,
+      "Title": "Gunsmith Simulator",
+      "Genre": [
+        "Action",
+        "Simulation"
+      ],
+      "Developer": "GameHunters",
+      "Publisher": "PlayWay S.A.",
+      "Release Date": "⚡TBA - Join Playtests!"
+    },
+    "description": "Become a gunsmith and work in your own workshop! Craft parts and make popular weapons with them. Repair and upgrade weapons in a state of damage."
+  },
+  "1914190": {
+    "title": "Sharp Trouble",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875441/movie480_vp9.webm?t=1646111530",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914190/ss_35027bf995e32f55d87e79335790c21562cac4dc.1920x1080.jpg?t=1647275313",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914190/ss_5fa9f4be2c52282b8cc6951c8b607f993fb6cfb5.1920x1080.jpg?t=1647275313",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914190/ss_2c7cb51d942b7001f3b5d8495fe25eee035fd6f1.1920x1080.jpg?t=1647275313"
+    ],
+    "details": {
+      "appID": 1914190,
+      "Title": "Sharp Trouble",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "ViniVini",
+      "Publisher": "kazakovstudios",
+      "Release Date": "14 Mar, 2022"
+    },
+    "description": "Sharp trouble - King, wake up, we're under attack! Evil barbarians have invaded your castle and are trying to take out the entire treasury - stop this outrage in this hardcore platformer!"
+  },
+  "1914200": {
+    "title": "Cosmoblaster Exodia",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875440/movie480_vp9.webm?t=1646111525",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914200/ss_ecb30f48dc5a6bd85fae1a54a2d37f1d6730149f.1920x1080.jpg?t=1647275285",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914200/ss_7306af2581ce9ad6592b5273edf6e9eaa933ce07.1920x1080.jpg?t=1647275285",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914200/ss_3b0c4228cca86673956ead4a96d51756b96392e8.1920x1080.jpg?t=1647275285"
+    ],
+    "details": {
+      "appID": 1914200,
+      "Title": "Cosmoblaster Exodia",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "ViniVini",
+      "Publisher": "kazakovstudios",
+      "Release Date": "14 Mar, 2022"
+    },
+    "description": "Cosmoblaster exodia - You are a brave captain of a galactic cruiser. Ruthlessly destroy the space pirates you meet on your way and collect bonuses that will help you in your difficult task!"
+  },
+  "1914240": {
+    "title": "Scapegoat",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877686/movie480_vp9.webm?t=1649828381",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914240/ss_9e31f05f2a12e313da6c3ac97ed1940efff7a6dd.1920x1080.jpg?t=1652260772",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914240/ss_1faf9f45ef43a1e93d13f70832d7230f6a97f4f1.1920x1080.jpg?t=1652260772",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914240/ss_64dcdff60dfe6096abe5aa04fccd26e5187d2a97.1920x1080.jpg?t=1652260772"
+    ],
+    "details": {
+      "appID": 1914240,
+      "Title": "Scapegoat",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Joseph Meering",
+      "Publisher": "JugglingJoeStudios",
+      "Release Date": "26 Apr, 2022"
+    },
+    "description": "Scapegoat is a fun 2D top-down, Action Shooter game with cartoon and beautiful hand-drawn scenery. Fight multiple enemy animals, choosing and mastering an increasing variety of weapons to advance through the levels. Designed for both Keyboard/mouse or Gamepad controllers!"
+  },
+  "1914270": {
+    "title": "Ultimate Super Bean",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256892660/movie480_vp9.webm?t=1655914545",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914270/ss_87bd7f916b0aa92f6f03ab4c11fc8d2f1c3bc21f.1920x1080.jpg?t=1655914552",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914270/ss_2249631bce3afbcb873b163cee448a0179591241.1920x1080.jpg?t=1655914552",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914270/ss_93f9ad32e3ac9825a9ab3e0c25abfa7417030e77.1920x1080.jpg?t=1655914552"
+    ],
+    "details": {
+      "appID": 1914270,
+      "Title": "Ultimate Super Bean",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Nugget Games",
+      "Publisher": "Nugget Games",
+      "Release Date": "16 Mar, 2022"
+    },
+    "description": "A First-Person Free-For-All Bean Battle! Run Around On A Map That Changes Once A Month, And Use Guns That Also Cycle Out Often! Collect The Skins To Show That You're The Ultimate BEAN!!"
+  },
+  "1914330": {
+    "title": "Sprites at Play",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879343/movie480_vp9.webm?t=1648354618",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914330/ss_758afa180279fcc5186f61160f5a6f897d0e4a71.1920x1080.jpg?t=1650492835",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914330/ss_f253e9df83c0b9857245f8d25191349698206d97.1920x1080.jpg?t=1650492835",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914330/ss_82f0b7d7cefefedea23cfcfa4858538127eb06a9.1920x1080.jpg?t=1650492835"
+    ],
+    "details": {
+      "appID": 1914330,
+      "Title": "Sprites at Play",
+      "Genre": [
+        "Action",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "Oakie Studios",
+      "Publisher": "Oakie Studios",
+      "Release Date": "20 Apr, 2022",
+      "Early Access Release Date": "20 Apr, 2022"
+    },
+    "description": "Fast platforming, people hiding, others seeking. If you are the last one to be found you win!"
+  },
+  "1914390": {
+    "title": "Déjà Drift",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256886446/movie480_vp9.webm?t=1652443524",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914390/ss_3c7bbdac58cefb41cb4271492602144866164cf0.1920x1080.jpg?t=1655822358",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914390/ss_c94f2eac9c532bc6705ea1410827a91e21e727f1.1920x1080.jpg?t=1655822358",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914390/ss_a15c60ef0d4a39cdd748ef7e95a7ba4c3012f2ca.1920x1080.jpg?t=1655822358"
+    ],
+    "details": {
+      "appID": 1914390,
+      "Title": "Déjà Drift",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports"
+      ],
+      "Developer": "BAR Interactive",
+      "Publisher": "BAR Interactive",
+      "Release Date": "Summer 2022"
+    },
+    "description": "Drift with yourself to get a high score in a vaporwave sandbox. Rack-up points to the sound of Eurobeat music."
+  },
+  "1914430": {
+    "title": "PANDO Engines",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256884126/movie480_vp9.webm?t=1651017644",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914430/ss_87eadaa4409314e2096470675e608b2a46c42ebd.1920x1080.jpg?t=1651083306",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914430/ss_1bc755368f25a2d325c1556305c7c1b3d8a8e7ad.1920x1080.jpg?t=1651083306",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914430/ss_ea44191d81406a56ad651085c83524dfb4a3128f.1920x1080.jpg?t=1651083306"
+    ],
+    "details": {
+      "appID": 1914430,
+      "Title": "PANDO Engines",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "Developer": "Backwoods Gaming",
+      "Publisher": "Backwoods Gaming",
+      "Release Date": "Q3 2023 - Wishlist the game"
+    },
+    "description": "A 2.5D, Online Co-op Party Game where players work together to create their own massive land engine. Whether the different threats by manning turrets, putting out fires, shoveling coal, repairing segments, and performing daily maintenance. How long will you survive?"
+  },
+  "1914460": {
+    "title": "Ancient Medieval Empire",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874422/movie480_vp9.webm?t=1645544205",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914460/ss_943cc7d460a6abcd40fc191d99d787995ac3ac46.1920x1080.jpg?t=1646764805",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914460/ss_ba069bad15040ef66ef7efce3afd5d62fb9986ba.1920x1080.jpg?t=1646764805",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914460/ss_6b91e735eab0a56cdbb72f1fe56472bae1b97035.1920x1080.jpg?t=1646764805"
+    ],
+    "details": {
+      "appID": 1914460,
+      "Title": "Ancient Medieval Empire",
+      "Genre": [
+        "Strategy"
+      ],
+      "Developer": "Neki4 Electronics",
+      "Publisher": "Neki4 Electronics",
+      "Release Date": "8 Mar, 2022"
+    },
+    "description": "Ancient Medieval Empire is a strategy game with RPG elements. A huge number of free castles and villages, which greatly attract the evil orcs. Manage your army, capture new castles and fight back against enemies. You have to capture as many castles as possible and drive away the orcs."
+  },
+  "1914520": {
+    "title": "SudoKube",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874425/movie480_vp9.webm?t=1645144717",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1770230/ss_e368fca826d05876d4eddf0e7cb3469a22f04833.1920x1080.jpg?t=1653692132",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1770230/ss_8d9fff56fd965bcf17bb5c73bc0bb3520f22b29c.1920x1080.jpg?t=1653692132",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1770230/ss_364ec4689edae5a66ade74a05b20d42903cb1581.1920x1080.jpg?t=1653692132"
+    ],
+    "details": {
+      "appID": 1914520,
+      "Title": "SudoKube",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "Mandinga",
+      "Publisher": "Mandinga",
+      "Franchise": "Mandinga",
+      "Release Date": "23 May, 2022"
+    },
+    "description": "An enhanced sudoku experience, 6 times more fun"
+  },
+  "1914530": {
+    "title": "The D-T.E.A.M.",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256886369/movie480_vp9.webm?t=1652389168",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914530/ss_c5971cf696d633482a69525bfd1953945ac3bc69.1920x1080.jpg?t=1653581644",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914530/ss_580b237988a2529ceca8025c1f3e6158d10587df.1920x1080.jpg?t=1653581644",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914530/ss_174c8696e92dd78fe31cb5575f6303dbf31ea2a8.1920x1080.jpg?t=1653581644"
+    ],
+    "details": {
+      "appID": 1914530,
+      "Title": "The D-T.E.A.M.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "Bottled Games Interactive",
+      "Publisher": "Bottled Games Interactive",
+      "Release Date": "15 Apr, 2022",
+      "Early Access Release Date": "15 Apr, 2022"
+    },
+    "description": "Dwarves. Tanks. Energy. Ammo. MMMGold! In this 3D Tank Blaster Platformer, you will take down an enemy mining facility, all the while finding energy pickups and collecting sweet gold. Double jump, speed boost, and blast your way to earn performance stars and achieve a personal best in time!"
+  },
+  "1914540": {
+    "title": "Parkonauts",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874984/movie480_vp9.webm?t=1645478895",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1720020/ss_68712f80af90c56b942735010e16c896fd902395.1920x1080.jpg?t=1645478902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1720020/ss_1341b245e5b5c9cfc4ca0e094e0bf90bf8921c98.1920x1080.jpg?t=1645478902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1720020/ss_c64298637b021a6b4628f985702bbb66b66dbaf6.1920x1080.jpg?t=1645478902"
+    ],
+    "details": {
+      "appID": 1914540,
+      "Title": "Parkonauts",
+      "Genre": [
+        "Casual",
+        "Massively Multiplayer",
+        "Racing",
+        "Simulation"
+      ],
+      "Developer": "Clirgo Games",
+      "Publisher": "Clirgo Games",
+      "Release Date": "2022"
+    },
+    "description": "Parkonauts is a physics-based co-op game for one to four players. Park cars, refuel and wash them to collect money for the next day!"
+  },
+  "1914550": {
+    "title": "Ruin or Victory",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256889316/movie480_vp9.webm?t=1654037626",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1800010/ss_54a8e9ca169001aec2b3760e4cf21aeb1089b921.1920x1080.jpg?t=1655594322",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1800010/ss_b94970b76cc8439ba9536d443e8c239a9091d731.1920x1080.jpg?t=1655594322",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1800010/ss_0f12ce9fd3e45acc45e52672e7fe7173fe89f89c.1920x1080.jpg?t=1655594322"
+    ],
+    "details": {
+      "appID": 1914550,
+      "Title": "Ruin or Victory",
+      "Genre": [
+        "Strategy"
+      ],
+      "Developer": "Wedge End Games",
+      "Publisher": "Wedge End Games",
+      "Release Date": "27 May, 2022"
+    },
+    "description": "Ruin or Victory is a modern take on the classic RTS genre with added detail, continuity, and strategic depth while remaining accessible and well-paced."
+  },
+  "1914570": {
+    "title": "Take the Throne",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881642/movie480_vp9.webm?t=1649891795",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914570/ss_4cd4290362febea6553a65fd84ad42fc0fb4af76.1920x1080.jpg?t=1651249607",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914570/ss_39b448d2ef53f4753f6a9b727f546039875cccb2.1920x1080.jpg?t=1651249607",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914570/ss_6a3daa94fd389d1d3eb77164cc0cd7f6c78ec077.1920x1080.jpg?t=1651249607"
+    ],
+    "details": {
+      "appID": 1914570,
+      "Title": "Take the Throne",
+      "Genre": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer"
+      ],
+      "Developer": "TopVR",
+      "Publisher": "TopVR",
+      "Release Date": "20 Apr, 2022"
+    },
+    "description": "Take the Throne is a massively multiplayer battle royale game with up to 25 players in a free-for-all bloody fight to be the last one alive."
+  },
+  "1914580": {
+    "title": "Spirit Hunters: Infinite Horde",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256886462/movie480_vp9.webm?t=1652446858",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914580/ss_d93abccfc83ea5885c01273bcf1b023a79cb6c28.1920x1080.jpg?t=1655842646",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914580/ss_e9a50e94b01efa9d349382c60e150185ce631a40.1920x1080.jpg?t=1655842646",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914580/ss_3d19c218aa8fb336dd69f281bf81ce41277e25f9.1920x1080.jpg?t=1655842646"
+    ],
+    "details": {
+      "appID": 1914580,
+      "Title": "Spirit Hunters: Infinite Horde",
+      "Genre": [
+        "Action",
+        "Early Access"
+      ],
+      "Developer": "Creature Cauldron",
+      "Publisher": "Creature Cauldron",
+      "Release Date": "25 May, 2022",
+      "Early Access Release Date": "25 May, 2022"
+    },
+    "description": "You are the Spirit Hunters in this action rogue-lite. Slay huge waves of monsters and harvest their souls for ever increasing power. Unlock many playable characters, abilities, maps and more through a deep progression system."
+  },
+  "1914630": {
+    "title": "Draft Day Sports: College Basketball 2022",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876579/movie480_vp9.webm?t=1646976459",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914630/ss_90854f0ebb285f4b9adf9fe7794b4578ec3ca089.1920x1080.jpg?t=1646976466",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914630/ss_82b771583bc371196999233a5f735947057bf9de.1920x1080.jpg?t=1646976466",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914630/ss_1268475af012fdc9816ba57bc75762cea9f26fa4.1920x1080.jpg?t=1646976466"
+    ],
+    "details": {
+      "appID": 1914630,
+      "Title": "Draft Day Sports: College Basketball 2022",
+      "Genre": [
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Strategy"
+      ],
+      "Developer": "Wolverine Studios",
+      "Publisher": "Wolverine Studios",
+      "Release Date": "10 Mar, 2022"
+    },
+    "description": "Draft Day Sports: College Basketball 2022 puts you in the role of head coach of your favorite college basketball team. Every decision can be made by you from staff hiring, recruiting, scouting and all the way to making each substitution to lead your team to tournament glory and becoming a dynasty."
+  },
+  "1914700": {
+    "title": "Elteria Hunter",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877362/movie480_vp9.webm?t=1646945440",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914700/ss_cd4ff6509c5dd8aeddb2b14b976cb0b6c9921807.1920x1080.jpg?t=1655498985",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914700/ss_e7cadbb4fbfee414021392bad7ea36128c715c53.1920x1080.jpg?t=1655498985",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914700/ss_bf0fde370f8df4eb7671cab99177e0e2a542b212.1920x1080.jpg?t=1655498985"
+    ],
+    "details": {
+      "appID": 1914700,
+      "Title": "Elteria Hunter",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+      ],
+      "Developer": "CH-Gaming Studio",
+      "Publisher": "CH-Gaming Studio",
+      "Franchise": "Elteria Hunter",
+      "Release Date": "10 Mar, 2022",
+      "Early Access Release Date": "10 Mar, 2022"
+    },
+    "description": "The world of Elteria is full of magic and monsters, And the Elteria Hunters are there to fight these monsters and protect the regions from evil. Level up your skill grind for equipment and become the strongest hunter!"
+  },
+  "1914740": {
+    "title": "A HERO AND A GARDEN",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874475/movie480_vp9.webm?t=1648556376",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914740/ss_ff40f2c43f6c7da812a25da29a453f2e79dcbb3b.1920x1080.jpg?t=1651740356",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914740/ss_833fdbed13274a374c02df3788dd2cc73b4a9ac9.1920x1080.jpg?t=1651740356",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914740/ss_119db61f16498939da58f2273a86903ab19242bb.1920x1080.jpg?t=1651740356"
+    ],
+    "details": {
+      "appID": 1914740,
+      "Title": "A HERO AND A GARDEN",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "npckc",
+      "Publisher": "npckc",
+      "Franchise": "npckc",
+      "Release Date": "5 May, 2022"
+    },
+    "description": "Play as a fairytale hero and help him garden, since saving the princess didn't go that well. A fantasy gardening visual novel and clicker game."
+  },
+  "1914770": {
+    "title": "TumbleWeed",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256883440/movie480_vp9.webm?t=1650907721",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914770/ss_3e735328257be371f381473aaa1582dad1a194c8.1920x1080.jpg?t=1652472936",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914770/ss_561f2610f37d7f647e85ffa74efc3979babf694c.1920x1080.jpg?t=1652472936",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914770/ss_4ece16c1b5d2046971f76b8ddb776011089e7777.1920x1080.jpg?t=1652472936"
+    ],
+    "details": {
+      "appID": 1914770,
+      "Title": "TumbleWeed",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "JustCuzGaming",
+      "Publisher": "JustCuzGaming",
+      "Release Date": "13 May, 2022"
+    },
+    "description": "An inventive merge of classic tower defense and roguelike looting. Towers are loot! Tower enhancements are loot! Consumables are loot! Adapt and use your resources wisely to make it to the end!"
+  },
+  "1914790": {
+    "title": "R'lyeh",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874462/movie480_vp9.webm?t=1650620107",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914790/ss_b0327954ee087afa293fd69336e89530dabf53ac.1920x1080.jpg?t=1652565109",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914790/ss_4d75065dd840daf9a45ba34ee456bf8a35d43386.1920x1080.jpg?t=1652565109",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914790/ss_a3fcbd3f4a4d856d19ccaa29c5c0563e05b828ad.1920x1080.jpg?t=1652565109"
+    ],
+    "details": {
+      "appID": 1914790,
+      "Title": "R'lyeh",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "Developer": "R'lyehDev",
+      "Publisher": "R'lyehDev",
+      "Release Date": "Aug 2022"
+    },
+    "description": "A story-driven, open-world, Lovecraftian Horror and Survival game with a scifi twist."
+  },
+  "1914850": {
+    "title": "Bubbles & Pearls",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875951/movie480_vp9.webm?t=1646431336",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914850/ss_5520c36dbe9eb17dfabd2fc1321282c9f6741791.1920x1080.jpg?t=1648905860",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914850/ss_be1aff98aad3df5512ff908324dd4e0a8e32a92f.1920x1080.jpg?t=1648905860",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914850/ss_bbe846b7e9ebac2c2c833ada1e40f2ededb0530f.1920x1080.jpg?t=1648905860"
+    ],
+    "details": {
+      "appID": 1914850,
+      "Title": "Bubbles & Pearls",
+      "Genre": [
+        "Casual",
+        "Simulation",
+        "Sports"
+      ],
+      "Developer": "Hot Cocoa Games",
+      "Publisher": "Hot Cocoa Games",
+      "Release Date": "31 Mar, 2022"
+    },
+    "description": "A VR arcade game that immerses you into an underwater experience, compete with your friends and family to achieve the longest dive and collect the highest number of pearls by collecting the bubbles that emerge from the abyss!"
+  },
+  "1914860": {
+    "title": "Overbowed",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875732/movie480_vp9.webm?t=1645895754",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1776840/ss_d056ee552c48de389a55b58ea1f27506fbbe087a.1920x1080.jpg?t=1645921169",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1776840/ss_a54ed827d9c4bbe219b087e19be30bda7d420c01.1920x1080.jpg?t=1645921169",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1776840/ss_8db9bf293ede130692ebe2deaaac10b36fc95719.1920x1080.jpg?t=1645921169"
+    ],
+    "details": {
+      "appID": 1914860,
+      "Title": "Overbowed",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Klardonics Digital, Ltd, tsuwami",
+      "Publisher": "Klardonics Digital, Ltd",
+      "Release Date": "2022"
+    },
+    "description": "Explore a kingdom overrun by evil magic as you fight foes with your own magical bow."
+  },
+  "1914890": {
+    "title": "Torden",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881097/movie480_vp9.webm?t=1649731391",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914890/ss_68fd42820c6740ece422b40b5a4513205703df24.1920x1080.jpg?t=1650870824",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914890/ss_6b7cf3f11f3ad8dbf0630e60296a462648786ce8.1920x1080.jpg?t=1650870824",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914890/ss_ece2cb344f0c7f09a05fbcc29b17d256f8ec91ca.1920x1080.jpg?t=1650870824"
+    ],
+    "details": {
+      "appID": 1914890,
+      "Title": "Torden",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Early Access"
+      ],
+      "Developer": "gamester",
+      "Publisher": "gamester",
+      "Release Date": "25 Apr, 2022",
+      "Early Access Release Date": "25 Apr, 2022"
+    },
+    "description": "A stylized 3rd person action fantasy game. Slash your way with many but simple attack mechanics. Select from dozens of spells to help in your battle. Featuring a wide array of enemies with different quirks that need your quick reflexes and patience to deal with."
+  },
+  "1914900": {
+    "title": "Dragons On Desktop",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874518/movie480_vp9.webm?t=1645232760",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914900/ss_aa42a57292403fe17bc39420c3913c7e0d160e04.1920x1080.jpg?t=1646407024",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914900/ss_03789d8c89766c97302dee4d7237a7046d7790d1.1920x1080.jpg?t=1646407024",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914900/ss_65a42e7c3bd3bd04bc3df70ba00653143c59d9d4.1920x1080.jpg?t=1646407024"
+    ],
+    "details": {
+      "appID": 1914900,
+      "Title": "Dragons On Desktop",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "岗成年",
+      "Publisher": "岗成年",
+      "Release Date": "4 Mar, 2022"
+    },
+    "description": "Looking at these lovely dragons on Desktop makes me feel relaxed, free and happy. I hope to bring these emotions to you..."
+  },
+  "1914930": {
+    "title": "OZARK",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875628/movie480_vp9.webm?t=1645814633",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1130380/ss_7e3555ef2b7e82d2d361b85cffdd7e7caf7b0243.1920x1080.jpg?t=1655081098",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1130380/ss_c84e31bd10ac719edc0d40e18031c205c19623f7.1920x1080.jpg?t=1655081098",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1130380/ss_f83c5875377ce9319706c5429b3bbdf0e371be86.1920x1080.jpg?t=1655081098"
+    ],
+    "details": {
+      "appID": 1914930,
+      "Title": "OZARK",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "ALTER-BOY",
+      "Publisher": "ALTER-BOY",
+      "Release Date": "TBD"
+    },
+    "description": "A search and rescue gone wrong, crash landing in a remote mountain. A derelict facility, signals lost. Nothing is quite as it seems. Fight for your life in this side-scrolling action adventure and unravel the mysteries that lie beneath."
+  },
+  "1914940": {
+    "title": "Zhijiang Town",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881668/movie480_vp9.webm?t=1649668100",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914940/ss_f86f5bca993068c6984c1976db341764dc60503e.1920x1080.jpg?t=1655520698",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914940/ss_95c9464bb65d1da85e7bafa54b75c7f233ffd2fc.1920x1080.jpg?t=1655520698",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914940/ss_4b1e55aff3ff77af58c0997eece9c1f679215702.1920x1080.jpg?t=1655520698"
+    ],
+    "details": {
+      "appID": 1914940,
+      "Title": "Zhijiang Town",
+      "Genre": [
+        "Free to Play",
+        "RPG"
+      ],
+      "Developer": "冒险制作组",
+      "Publisher": "冒险制作组",
+      "Release Date": "13 Jul, 2022"
+    },
+    "description": "你是然比，在架空的小镇上肆无忌惮地和妹子们玩耍（绝对清纯）"
+  },
+  "1914950": {
+    "title": "Xpraize Beta for GameMaster",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881339/movie480_vp9.webm?t=1649744115",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914950/ss_56ed3df1e00f4764e2ad6aa0d8761aa7254319f3.1920x1080.jpg?t=1654061810",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914950/ss_8a8e9230136552d63158820fd5a4a088e4fb207e.1920x1080.jpg?t=1654061810",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914950/ss_b54501b8d2f160bd38aeca2aeceffe231a01700b.1920x1080.jpg?t=1654061810"
+    ],
+    "details": {
+      "appID": 1914950,
+      "Title": "Xpraize Beta for GameMaster",
+      "Genre": [
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Early Access"
+      ],
+      "Developer": "RedefineArts.Inc",
+      "Publisher": "RedefineArts.Inc",
+      "Release Date": "31 May, 2022",
+      "Early Access Release Date": "31 May, 2022"
+    },
+    "description": "An innovative game to play a tabletop role-playing game in VR ! Let’s experience another side of RPGs. There are Game Master version and VR version. In this Game Master version, let's make VR players enjoy the game! You can also record players’ adventures like a movie director with various cameras."
+  },
+  "1914970": {
+    "title": "Help Me Remember, Satori-sama!",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874488/movie480_vp9.webm?t=1654168864",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914970/ss_e1057c126d53f3aa84a3e78a0dbed62eeb3953bd.1920x1080.jpg?t=1654168875",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914970/ss_9fd39f35b1e9b18670afae06290efe38f5ba2dd1.1920x1080.jpg?t=1654168875",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914970/ss_67bced7d8a5fa992b815d6ab75d867a01ef58495.1920x1080.jpg?t=1654168875"
+    ],
+    "details": {
+      "appID": 1914970,
+      "Title": "Help Me Remember, Satori-sama!",
+      "Genre": [
+        "Casual"
+      ],
+      "Developer": "ISY",
+      "Publisher": "ISY",
+      "Release Date": "7 Mar, 2022"
+    },
+    "description": "Satori's overworked herself into bed, but Okuu needs help remembering things! You can't use her heart-reading power, and will instead have to ask questions and use her power of recollection to correct wrong info, all while enduring visits from Orin and Koishi as you deduce what Okuu's forgotten!"
+  },
+  "1914980": {
+    "title": "Golfing In Aether",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256886078/movie480_vp9.webm?t=1652239355",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914980/ss_4687c898d496a2d6ec25430e056a5d575b3a9542.1920x1080.jpg?t=1655087041",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914980/ss_80dba7c40eaf4ed05f54348c6a953bc03f275881.1920x1080.jpg?t=1655087041",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1914980/ss_49fba16a1beb9eb12c6545a92469fd8fb000a37b.1920x1080.jpg?t=1655087041"
+    ],
+    "details": {
+      "appID": 1914980,
+      "Title": "Golfing In Aether",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports"
+      ],
+      "Developer": "Vetron",
+      "Publisher": "Vetron",
+      "Franchise": "Golfing In Aether",
+      "Release Date": "Fall 2022"
+    },
+    "description": "Multiplayer minigolf designed around a procedural course layout allowing you to experience something different everytime you play. Support for both online play and four player split screen."
+  },
+  "1915040": {
+    "title": "无畏海域：征途",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880267/movie480_vp9.webm?t=1653385180",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915040/ss_85e5b6021205bb32ebf570fdda4669c8e70b692b.1920x1080.jpg?t=1655194257",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915040/ss_09f10d2966cb1f0c867fa671105467f7931d98ed.1920x1080.jpg?t=1655194257",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915040/ss_4b8c3b36203a71a6a910d81dbd4cc1c040bff965.1920x1080.jpg?t=1655194257"
+    ],
+    "details": {
+      "appID": 1915040,
+      "Title": "无畏海域：征途",
+      "Genre": [
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "Developer": "无锡上宸信息科技有限公司",
+      "Publisher": "HiGame",
+      "Release Date": "即将上线"
+    },
+    "description": "In a certain sea area in the future, when your fleet is invincible, you will praise yourself for discovering this game!"
+  },
+  "1915050": {
+    "title": "End it, please ...",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256883143/movie480_vp9.webm?t=1650482422",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915050/ss_b74f905192152176a3eac8d1b098b4c7c507382c.1920x1080.jpg?t=1650482432",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915050/ss_374a059afa8df3b4d3a2aa736957b8e2ec231b96.1920x1080.jpg?t=1650482432",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915050/ss_33d33524f06bd9e267650c7a96224a886cc7e48a.1920x1080.jpg?t=1650482432"
+    ],
+    "details": {
+      "appID": 1915050,
+      "Title": "End it, please ...",
+      "Genre": [
+        "Adventure",
+        "Casual"
+      ],
+      "Developer": "Tiger games",
+      "Publisher": "Tiger games",
+      "Release Date": "9 Mar, 2022"
+    },
+    "description": "End it, please ... is a casual and challenging sci-fi platformer game where you have to find your ship to escape."
+  },
+  "1915140": {
+    "title": "Malice in Magic Tower -玲鈴魔塔-",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879434/movie480_vp9.webm?t=1648220743",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915140/ss_286230001ee918792fcce8a829d395c7adaa43db.1920x1080.jpg?t=1648220751",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915140/ss_d68bb12f6f409c95fc8f1f432b138529bb85fcdd.1920x1080.jpg?t=1648220751",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915140/ss_d7cb8f771a4201fbc162057d26bacde2350b6c8d.1920x1080.jpg?t=1648220751"
+    ],
+    "details": {
+      "appID": 1915140,
+      "Title": "Malice in Magic Tower -玲鈴魔塔-",
+      "Genre": [
+        "RPG",
+        "Strategy"
+      ],
+      "Developer": "RingRingSoft",
+      "Publisher": "RingRingSoft",
+      "Franchise": "玲鈴魔塔",
+      "Release Date": "4 Mar, 2022"
+    },
+    "description": "\"Malice in MagicTower -玲鈴魔塔-\" is a magic tower (fixed-value strategy RPG) game. It's simple yet deep, and it's fun to improve your score through trial and error. Strengthen the main character, Malice, and defeat various enemies."
+  },
+  "1915160": {
+    "title": "Night Blood : Avenger's Tide",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256891761/movie480_vp9.webm?t=1655432764",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915160/ss_57224f13f79e4c7eb1ce4b0955e217366e8a2544.1920x1080.jpg?t=1655459633",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915160/ss_e5176613e79ca79666ae24b9d9879477f2220c13.1920x1080.jpg?t=1655459633",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915160/ss_39f72840dfbf92c67cc3f4e95b009d3301d4a7b6.1920x1080.jpg?t=1655459633"
+    ],
+    "details": {
+      "appID": 1915160,
+      "Title": "Night Blood : Avenger's Tide",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Midnight Fantasy",
+      "Publisher": "Midnight Fantasy",
+      "Release Date": "Jul 2022"
+    },
+    "description": "\"Night Blood: Avenger's Tide\" is a side-scrolling action game that takes place in the world's most prosperous city, Atlandi. Players need to control Mark to find his own past, break through the enemy's siege, and finally uncover the huge conspiracy hidden behind the crisis."
+  },
+  "1915170": {
+    "title": "Four Winds Fantasy",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875301/movie480_vp9.webm?t=1645670125",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915170/ss_fbfbf139a2fa221f81e3d08e4afac0e9a59506f0.1920x1080.jpg?t=1646816530",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915170/ss_84da06d4b0db219499615997b9dc0b1ab721907b.1920x1080.jpg?t=1646816530",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915170/ss_f03aad19795257a3f0ece4c187ed44483f463f2c.1920x1080.jpg?t=1646816530"
+    ],
+    "details": {
+      "appID": 1915170,
+      "Title": "Four Winds Fantasy",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "Developer": "GHXYK2, bankbank",
+      "Publisher": "Wainstop James",
+      "Release Date": "9 Mar, 2022"
+    },
+    "description": "The speedrunning action/RPG you've been dreaming of! Take control of an elderly man who has been banished by the only town he's ever known. Discover insane secrets and multiple endings, compete on the leaderboards, now with full gamepad support!"
+  },
+  "1915180": {
+    "title": "模拟医院-Simulated hospital",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878919/movie480_vp9.webm?t=1652423236",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915180/ss_1e2d7de9f803dbb24ace4fea79542b38bdfdc3d1.1920x1080.jpg?t=1655433433",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915180/ss_72fe6e1f0c34f95d71a455fc70165114bcbab53b.1920x1080.jpg?t=1655433433",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915180/ss_f9aeb4271d576cd71d7b86f15dad025bd5df7381.1920x1080.jpg?t=1655433433"
+    ],
+    "details": {
+      "appID": 1915180,
+      "Title": "模拟医院-Simulated hospital",
+      "Genre": [
+        "Casual",
+        "Simulation",
+        "Strategy"
+      ],
+      "Developer": "welike",
+      "Publisher": "welike",
+      "Release Date": "近期"
+    },
+    "description": "模拟医院是一款模拟医院经营的沙盒养成游戏，整体风格轻松，硬核模仿医院运行，治病救人，救死扶伤，还要不断提升医院等级，最终达到三级特等医院水平。"
+  },
+  "1915210": {
+    "title": "The Mensional",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878960/movie480_vp9.webm?t=1647957250",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915210/ss_165fdbee5f8a39528cb28593faff527c1df63c3b.1920x1080.jpg?t=1652103194",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915210/ss_0f3444616c5811fc140c25e7e49569e09f948708.1920x1080.jpg?t=1652103194",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915210/ss_6af04ba23acad5ee70d83da948ffd66c2507b323.1920x1080.jpg?t=1652103194"
+    ],
+    "details": {
+      "appID": 1915210,
+      "Title": "The Mensional",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Delil Timurtaş",
+      "Publisher": "Delil Timurtaş",
+      "Release Date": "21 Apr, 2022"
+    },
+    "description": "Adventures of different characters with their unique atmosphere and puzzles."
+  },
+  "1915220": {
+    "title": "SpectrumGames",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874849/movie480_vp9.webm?t=1646201902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915220/ss_be77937dcb23d9614185a13e3ca97537aada27dd.1920x1080.jpg?t=1653039240",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915220/ss_1f3e3dc27a380d0dcb7a9c87695ded1c1fec1469.1920x1080.jpg?t=1653039240",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915220/ss_40ff0a08220b283a83f17963e31855db77d025da.1920x1080.jpg?t=1653039240"
+    ],
+    "details": {
+      "appID": 1915220,
+      "Title": "SpectrumGames",
+      "Genre": [
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+      ],
+      "Developer": "Omega Company Limited",
+      "Publisher": "Omega Company Limited",
+      "Release Date": "21 Mar, 2022",
+      "Early Access Release Date": "21 Mar, 2022"
+    },
+    "description": "The good old Mafia in a virtual space, as close to the offline version. Become the Game Master, invite players and build the game atmosphere as in real life! Or find an open room to join as a player."
+  },
+  "1915300": {
+    "title": "Gematombe",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874528/movie480_vp9.webm?t=1645200307",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1774060/ss_7f595b208b731bcbafe5118115ed13095c791d86.1920x1080.jpg?t=1652817431",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1774060/ss_9d7ee54c4ef4aaab72a03764c7b5936f3e08c6ed.1920x1080.jpg?t=1652817431",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1774060/ss_a0051a7cf28581a66f5108e160dc5cf63b64a200.1920x1080.jpg?t=1652817431"
+    ],
+    "details": {
+      "appID": 1915300,
+      "Title": "Gematombe",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "Route 5 Games",
+      "Publisher": "Ratalaika Games S.L.",
+      "Release Date": "2022"
+    },
+    "description": "Gematombe is an action-puzzle-vs-game where you can play one-on-one matches against your friends or the computer."
+  },
+  "1915330": {
+    "title": "The Castle Of Time",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256888593/movie480_vp9.webm?t=1653600719",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915330/ss_225d1b52c975ef67f543e30c2426fd4a8ca4792a.1920x1080.jpg?t=1655131881",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915330/ss_a059055290566cd05a0ef3666aa20aab9dcb8895.1920x1080.jpg?t=1655131881",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915330/ss_858fb91e589a92609d70755e00c945f8044a6da1.1920x1080.jpg?t=1655131881"
+    ],
+    "details": {
+      "appID": 1915330,
+      "Title": "The Castle Of Time",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "ant_game_projects",
+      "Publisher": "ant_game_projects",
+      "Release Date": "12 Jun, 2022"
+    },
+    "description": "This is a fighting platformer with a dynamic combat system where you have to fight enemies with your sword."
+  },
+  "1915390": {
+    "title": "Empty War",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256873874/movie480_vp9.webm?t=1644960568",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1910630/ss_3fcc93b8bffc4b784825cd9c6305dcdfe676171e.1920x1080.jpg?t=1655145489",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1910630/ss_bedab3c5511e50ce049b9784dbf47aa813bc0b28.1920x1080.jpg?t=1655145489",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1910630/ss_76d167fd05e47e794388547d6d3a06a207bf059e.1920x1080.jpg?t=1655145489"
+    ],
+    "details": {
+      "appID": 1915390,
+      "Title": "Empty War",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual"
+      ],
+      "Developer": "VS Entertaiment",
+      "Publisher": "VS Entertaiment",
+      "Release Date": "20 Sep, 2022"
+    },
+    "description": "\"You're the best warrior in your planet. Now your race want to conquert everything, and you're the only one to stop them.\""
+  },
+  "1915400": {
+    "title": "Cardbuster",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256890049/movie480_vp9.webm?t=1654517743",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915400/ss_4e16f76591563a5d2c8be832438cb2f9724d1212.1920x1080.jpg?t=1654517750",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915400/ss_594fa8a49b19f3cd6340bd2f8e6332933629499e.1920x1080.jpg?t=1654517750",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915400/ss_aa7ffe8791ddb1c8b7c0466eb9631eece9cf5025.1920x1080.jpg?t=1654517750"
+    ],
+    "details": {
+      "appID": 1915400,
+      "Title": "Cardbuster",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Developer": "Vikka Games",
+      "Publisher": "Vikka Games",
+      "Release Date": "TBA"
+    },
+    "description": "Collect and use the power of countless cards in a mysterious post apocalyptic town in this action-adventure-deckbuilder game."
+  },
+  "1915410": {
+    "title": "Arachnophobia",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879488/movie480_vp9.webm?t=1649787929",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915410/ss_f8e7811e2d7cd68a10e2d9a3fe2086e20ddde83b.1920x1080.jpg?t=1650990097",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915410/ss_4298f91c02f7a9ff2afc52a5f8ee74ed4d2d2e6d.1920x1080.jpg?t=1650990097",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915410/ss_deb20bb893ec9d57a339a94c1c184e4649a33955.1920x1080.jpg?t=1650990097"
+    ],
+    "details": {
+      "appID": 1915410,
+      "Title": "Arachnophobia",
+      "Genre": [
+        "Action",
+        "Indie"
+      ],
+      "Developer": "Maker Games",
+      "Publisher": "Maker Games",
+      "Release Date": "26 Apr, 2022"
+    },
+    "description": "Arachnophobia is a single-player first-person horror game. Find a way to escape the creepy crawlers that haunt the abandoned hotel. In this short indie horror game, the objective is to find the missing parts and build the equipment required to take down \"Arachne\""
+  },
+  "1915420": {
+    "title": "Tiny Hill",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875436/movie480_vp9.webm?t=1645764940",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915420/ss_507604618362039cd50fc3c0ec16e47f3193c68e.1920x1080.jpg?t=1654492700",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915420/ss_231e034bafcc574d57e12b86f0ff2371a2916b62.1920x1080.jpg?t=1654492700",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915420/ss_d941b2cf26153ef9f2b6a8884622e4ae8cea4182.1920x1080.jpg?t=1654492700"
+    ],
+    "details": {
+      "appID": 1915420,
+      "Title": "Tiny Hill",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Dekada",
+      "Publisher": "Gales Corp.",
+      "Release Date": "10 Mar, 2022"
+    },
+    "description": "Tiny hill - Are you ready to learn the story of a small hill? In this quirky hardcore platformer, you take on the role of a microscopic inhabitant of a small hill who is trying to collect as many coins as possible to fulfill his dream.."
+  },
+  "1915460": {
+    "title": "Retro three kingdoms : Special edition",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876193/movie480_vp9.webm?t=1648101186",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915460/ss_351d192152d881970c8e13eefcbb3e9784389ae6.1920x1080.jpg?t=1653665512",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915460/ss_6bdaa2562e7d55b1d15e7628e0df1fd0c735640f.1920x1080.jpg?t=1653665512",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915460/ss_510bcbf83408ab768a5e2fd15a866871840f911a.1920x1080.jpg?t=1653665512"
+    ],
+    "details": {
+      "appID": 1915460,
+      "Title": "Retro three kingdoms : Special edition",
+      "Genre": [
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+      ],
+      "Developer": "Retro Republic LLC",
+      "Publisher": "Retro Republic LLC",
+      "Release Date": "11 Apr, 2022"
+    },
+    "description": "We made the fun of MMORPG, the fun of hack and slash, and the fun of MOBA. We will do our best to become a game that records the history that players write. We do not provide auto-combat."
+  },
+  "1915570": {
+    "title": "Kayak VR: Mirage",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874129/movie480_vp9.webm?t=1645009189",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1683340/ss_4f2b98880edca79f45ec6a9c7059db35c0b7f94b.1920x1080.jpg?t=1656664941",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1683340/ss_1902c3ae4a8a06bbd26b24130dda69e9574cb141.1920x1080.jpg?t=1656664941",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1683340/ss_98e55ddd2e9eaa767e85fc8ec442d4bc0bb41c41.1920x1080.jpg?t=1656664941"
+    ],
+    "details": {
+      "appID": 1915570,
+      "Title": "Kayak VR: Mirage",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation"
+      ],
+      "Developer": "Better Than Life",
+      "Publisher": "Better Than Life B.V.",
+      "Release Date": "12 Jul, 2022"
+    },
+    "description": "Kayak VR: Mirage is a jaw-dropping and exhilarating journey through beautiful locations, made for Virtual Reality. Maneuver our fully physically accurate kayak around checkpoints and crown yourself the fastest, or take it easy and use the free roam mode and enjoy the scenery."
+  },
+  "1915580": {
+    "title": "Jumping Horses Champions",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875157/movie480_vp9.webm?t=1646843876",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915580/ss_6a58e4de09a564b83a6cde89a1c68a5b0a4c08fb.1920x1080.jpg?t=1652361343",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915580/ss_797f5f169977b4a73b4305b7b8ba5d590a22ddea.1920x1080.jpg?t=1652361343",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915580/ss_097ee11d361566ef267007749ebb6539c412c2cf.1920x1080.jpg?t=1652361343"
+    ],
+    "details": {
+      "appID": 1915580,
+      "Title": "Jumping Horses Champions",
+      "Genre": [
+        "Indie",
+        "Racing"
+      ],
+      "Developer": "BerkBox Games",
+      "Publisher": "BerkBox Games",
+      "Release Date": "12 May, 2022"
+    },
+    "description": "Raise Horses Champions and Manage your stud farm in a fun and challenging game. Join the Show Jumping World!"
+  },
+  "1915640": {
+    "title": "BrightSeeker",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256868259/movie480_vp9.webm?t=1643187256",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1491950/ss_8567358847ae263653a589033ec7d49defcb08d6.1920x1080.jpg?t=1655548620",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1491950/ss_a05f306b8e183ddcb949cb713cc0d06e276893b6.1920x1080.jpg?t=1655548620",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1491950/ss_abe03d9f0faec4eb9432a3d2f76bd03d242d2ec9.1920x1080.jpg?t=1655548620"
+    ],
+    "details": {
+      "appID": 1915640,
+      "Title": "BrightSeeker",
+      "Genre": [
+        "Action",
+        "RPG"
+      ],
+      "Developer": "Miroslav Prokop",
+      "Publisher": "Miroslav Prokop",
+      "Release Date": "2022"
+    },
+    "description": "SHOOT, SLASH, BLOCK and DASH! Defeat dangerous war-mechs, upgrade your abilities and vanquish mystical and mechanical bosses on your journey through a world where magic and technology are at war."
+  },
+  "1915660": {
+    "title": "Vamps For The Memories",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875323/movie480_vp9.webm?t=1646156038",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915660/ss_b15a766b8671f7f5e07cc89dd3bcc2646f70bbeb.1920x1080.jpg?t=1648873061",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915660/ss_3e0499e27f34a7d652e0d7235063ea8cb6453773.1920x1080.jpg?t=1648873061",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915660/ss_7aa4f7170633ebd93f24ec0fac4029162474783f.1920x1080.jpg?t=1648873061"
+    ],
+    "details": {
+      "appID": 1915660,
+      "Title": "Vamps For The Memories",
+      "Genre": [
+        "Adventure",
+        "Free to Play",
+        "RPG"
+      ],
+      "Developer": "CGG",
+      "Publisher": "CGG",
+      "Release Date": "10 Mar, 2022"
+    },
+    "description": "Banter or die! Play two hunters who are racing to kill a vampire in a 90s JRPG style comedy. Solve puzzles, kill rats, and tolerate puns. It's like classic LucasArts made a Final Fantasy knock-off. The key to survival is exploring the world and finding things to talk about!"
+  },
+  "1915690": {
+    "title": "Burning Skies",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256893747/movie480_vp9.webm?t=1656329538",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915690/ss_c69c9d83aa3705126458c8e05faeda234d31573f.1920x1080.jpg?t=1656329550",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915690/ss_d7e04f3ad4e1cabdc80e8f68df7504feb50513d2.1920x1080.jpg?t=1656329550",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915690/ss_18e7e394a20cd56be34fdf968ac147b55c0a55a4.1920x1080.jpg?t=1656329550"
+    ],
+    "details": {
+      "appID": 1915690,
+      "Title": "Burning Skies",
+      "Genre": [
+        "Action"
+      ],
+      "Developer": "NukGames",
+      "Publisher": "NukGames",
+      "Franchise": "NukGames",
+      "Release Date": "TBD"
+    },
+    "description": "'Son, you are the last hope of the resistance to free the mankind from the claws of the General BLODMESTER and his terrible War Machines.'BURNING SKIES is a frantic roguelite vertical shmup, with huge boss fights, tons of threats, weapons and a unique atmosphere."
+  },
+  "1915700": {
+    "title": "Immortal Love: True Treasure Collector's Edition",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874568/movie480_vp9.webm?t=1646255711",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915700/ss_726ddf491eb446665e21351a6cd318255bcbe6a9.1920x1080.jpg?t=1646255719",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915700/ss_a67d1c286564a6f9e157ba4ec8c2b801647f81f6.1920x1080.jpg?t=1646255719",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915700/ss_081cfcbce58d1e9b633120d35e91346fb76b85af.1920x1080.jpg?t=1646255719"
+    ],
+    "details": {
+      "appID": 1915700,
+      "Title": "Immortal Love: True Treasure Collector's Edition",
+      "Genre": [
+        "Adventure",
+        "Casual"
+      ],
+      "Developer": "Friendly Fox",
+      "Publisher": "Big Fish Games",
+      "Franchise": "Immortal Love",
+      "Release Date": "2 Mar, 2022"
+    },
+    "description": "Not all that glitters is gold..."
+  },
+  "1915720": {
+    "title": "My Friendly Neighborhood",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874887/movie480_vp9.webm?t=1645449726",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1574260/ss_fecca969e1bfdf2a1c63300032589fea21c6fc8a.1920x1080.jpg?t=1651160378",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1574260/ss_37629f660bec6444fb20475c32ab1f5e48536b11.1920x1080.jpg?t=1651160378",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1574260/ss_7c03a47bea2bc5da244630299de511cf9e13eaae.1920x1080.jpg?t=1651160378"
+    ],
+    "details": {
+      "appID": 1915720,
+      "Title": "My Friendly Neighborhood",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "John Szymanski, Evan Szymanski",
+      "Publisher": "DreadXP",
+      "Release Date": "Coming Soon"
+    },
+    "description": "Something scary is happening with everyone's favorite Saturday morning puppet show, Our Friendly Neighborhood! Play as Gordon, a repairman sent to get to the bottom of this disturbing dilemma. Fend off puppets and solve puzzles in this survival horror adventure."
+  },
+  "1915750": {
+    "title": "Looking Inside Cells",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874452/movie480_vp9.webm?t=1645547507",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1889880/ss_eea88ef82a6ab3506560acf7c80d484600e5be55.1920x1080.jpg?t=1646192541",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1889880/ss_8dff5049c906d369c45b47cf057b97b8e0d544f4.1920x1080.jpg?t=1646192541",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1889880/ss_efd36a4ff04deb861670522c1ba4ff2e218c28fc.1920x1080.jpg?t=1646192541"
+    ],
+    "details": {
+      "appID": 1915750,
+      "Title": "Looking Inside Cells",
+      "Genre": [
+        "Simulation"
+      ],
+      "Developer": "NYU CREATE Lab, NYU Future Reality Lab",
+      "Publisher": "New York University"
+    },
+    "description": "Looking Inside Cells is a set of interactive Virtual Reality simulations for learning about cellular biology. Users can build cells by arranging their organelles, as well as transform them into specialized cells, such as red blood cells and e. coli bacteria."
+  },
+  "1915800": {
+    "title": "Sahara's Underworld",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256883949/movie480_vp9.webm?t=1650925619",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915800/ss_b6be1895303696b23faa56085668292ec392ef0c.1920x1080.jpg?t=1651518580",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915800/ss_d336d51a328416d7dbe32a8d68fb1c491bb9a852.1920x1080.jpg?t=1651518580",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915800/ss_1971b0f3dc9353b1e730af7e3d19f9f096110cfc.1920x1080.jpg?t=1651518580"
+    ],
+    "details": {
+      "appID": 1915800,
+      "Title": "Sahara's Underworld",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Hernan Perez",
+      "Publisher": "Hernan Perez",
+      "Release Date": "2 May, 2022"
+    },
+    "description": "Sahara's Underworld is a roguelike dungeon crawler game with a mixture of procedural generated and predefined maps. Explore a forgotten temple in search of the Relics of Horus. Make your way through the mysterious rooms of the temple and face a variety of enemies, puzzles and other challenges..."
+  },
+  "1915810": {
+    "title": "Employee A",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256873852/movie480_vp9.webm?t=1644871782",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1815690/ss_3080e481a048e19ff43f1a790d75728858f43e32.1920x1080.jpg?t=1649173648",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1815690/ss_2d3bdc7e36806bacfd8f97fd377e6bc329ff3721.1920x1080.jpg?t=1649173648",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1815690/ss_26ed02a2f953b190d682375a585ebdf9465038b6.1920x1080.jpg?t=1649173648"
+    ],
+    "details": {
+      "appID": 1915810,
+      "Title": "Employee A",
+      "Genre": [
+        "Adventure"
+      ],
+      "Developer": "cross_couloir",
+      "Publisher": "cross_couloir",
+      "Release Date": "Coming Soon"
+    },
+    "description": "A pixel art point-and-click adventure set in the heart of the modern-day high tech industry, which will test your logic and deductive reasoning skills as you investigate the murder mystery that's upturned your life."
+  },
+  "1915900": {
+    "title": "Eftu",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877095/movie480_vp9.webm?t=1646800344",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915900/ss_ea3fdee79919c31e6635573653d49eccaea6673a.1920x1080.jpg?t=1646892152",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915900/ss_4f419138a0e874a3a33b370e7c0a9a7c8106fa03.1920x1080.jpg?t=1646892152",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915900/ss_7c626f88421e12fee81a3f224a342a28dbc7a37f.1920x1080.jpg?t=1646892152"
+    ],
+    "details": {
+      "appID": 1915900,
+      "Title": "Eftu",
+      "Genre": [
+        "Action",
+        "Early Access"
+      ],
+      "Developer": "Ticking Candle LLC",
+      "Publisher": "Ticking Candle LLC",
+      "Release Date": "Fall 2022"
+    },
+    "description": "In a world threatened by a mysterious interdimensional entity, pick your guild, pick your ship, and pick your battles! Compete with other guilds for resources in a variety of game modes, including Team Versus, Battle Royale, and Racing!"
+  },
+  "1915940": {
+    "title": "Hidden World Top-Down 3D",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874586/movie480_vp9.webm?t=1645472961",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915940/ss_045f4936216e8f4e704d7a556f53a91ee616cf11.1920x1080.jpg?t=1646653202",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915940/ss_a455d932c5d01077190bbdcb03330724600365dc.1920x1080.jpg?t=1646653202",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1915940/ss_63f47b9286929e2e1ddae91676bfb4bbea49c501.1920x1080.jpg?t=1646653202"
+    ],
+    "details": {
+      "appID": 1915940,
+      "Title": "Hidden World Top-Down 3D",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Strategy"
+      ],
+      "Developer": "Top-Down Games",
+      "Publisher": "Hede",
+      "Release Date": "7 Mar, 2022"
+    },
+    "description": "Find the objects that are hidden on the map."
+  },
+  "1916000": {
+    "title": "Divine Combat",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256883965/movie480_vp9.webm?t=1652191714",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916000/ss_d44405826b11df4c6b45d7f31f3d3a3ff160e763.1920x1080.jpg?t=1653425116",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916000/ss_8bdd63496ddacdf633f2675ce92cc114557d649a.1920x1080.jpg?t=1653425116",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916000/ss_d16cf558374bf22a7e6c69e7b130522ae5dcc4f7.1920x1080.jpg?t=1653425116"
+    ],
+    "details": {
+      "appID": 1916000,
+      "Title": "Divine Combat",
+      "Genre": [
+        "Free to Play",
+        "Strategy"
+      ],
+      "Developer": "Primordial Pistols",
+      "Publisher": "Primordial Pistols",
+      "Release Date": "24 May, 2022"
+    },
+    "description": "Divine Combat is a turn-based strategy game wherein you lead a team to victory against another team. The fights are in top-down view on a grid, much like similar turn-based unit management games. There is no penalty for losing."
+  },
+  "1916020": {
+    "title": "SworLd",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256872617/movie480_vp9.webm?t=1656047269",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1901740/ss_359ed5bfef86758ddc56d7943375d72c9cb29f2a.1920x1080.jpg?t=1656051051",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1901740/ss_1cd4ce78594ddd1c40a183b4b53ddfacf4c197ad.1920x1080.jpg?t=1656051051",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1901740/ss_586095147df594c873f918c4facc3bf34d669d10.1920x1080.jpg?t=1656051051"
+    ],
+    "details": {
+      "appID": 1916020,
+      "Title": "SworLd",
+      "Genre": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Early Access"
+      ],
+      "Developer": "VRYXZ",
+      "Publisher": "VRYXZ",
+      "Release Date": "26 Feb, 2022",
+      "Early Access Release Date": "26 Feb, 2022"
+    },
+    "description": "SworLd is a physics-based VR action game. You can compete with other players with cold weapons like swords and spears."
+  },
+  "1916090": {
+    "title": "Dial-In",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874604/movie480_vp9.webm?t=1646085965",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916090/ss_32630a5c774980ee0248f29a087157f6d79061c1.1920x1080.jpg?t=1656501058",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916090/ss_67127105405119ae1df6df316412aab79add9b62.1920x1080.jpg?t=1656501058",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916090/ss_9d2b526ebbe9fd4e60e1cdecef524f9bb6b499c5.1920x1080.jpg?t=1656501058"
+    ],
+    "details": {
+      "appID": 1916090,
+      "Title": "Dial-In",
+      "Genre": [
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Opalescent Games",
+      "Publisher": "Opalescent Games",
+      "Release Date": "15 Jul, 2022"
+    },
+    "description": "Traverse the analogue signals of an old TV in Dial-In! A reflex-based puzzle platformer that takes you through many varying channels, each with their own unique themes and music. Explore Over 100 Stages with classic and modern takes on platforming formulas, all in an immersive 2D style."
+  },
+  "1916150": {
+    "title": "SnakeByte",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878325/movie480_vp9.webm?t=1647532942",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916150/ss_0f2b9b208ef71594de558cd11493d3e869be437c.1920x1080.jpg?t=1647690037",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916150/ss_6ef27ec596cfa8132eb89d6a7150cb5551045974.1920x1080.jpg?t=1647690037",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916150/ss_3650faa70da310f20f2ec0c798dd9fd071072e77.1920x1080.jpg?t=1647690037"
+    ],
+    "details": {
+      "appID": 1916150,
+      "Title": "SnakeByte",
+      "Genre": [
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Happy Sphinx Studios",
+      "Publisher": "Happy Sphinx Studios",
+      "Release Date": "19 Mar, 2022"
+    },
+    "description": "Snakebyte is a fast-pace Snake-like arcade game that will bring back couch-based multiplayer and make your friends scream 'BYTE ME!'. Plenty of bits for every snake.... or are there?"
+  },
+  "1916180": {
+    "title": "零之战线",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875050/movie480_vp9.webm?t=1645752562",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916180/ss_6aaa27c7262cee5ab037f807715559b442f01bb3.1920x1080.jpg?t=1656557613",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916180/ss_e3873f7daeb7dc3b4498006a6bf8cf8545e440b0.1920x1080.jpg?t=1656557613",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916180/ss_72b194a01877a482fac6e06da6087ac8b021d26f.1920x1080.jpg?t=1656557613"
+    ],
+    "details": {
+      "appID": 1916180,
+      "Title": "零之战线",
+      "Genre": [
+        "Casual",
+        "Free to Play"
+      ],
+      "Developer": "零之战线",
+      "Publisher": "零之战线",
+      "Release Date": "29 Mar, 2022",
+      "Early Access Release Date": "10 Mar, 2022"
+    },
+    "description": "《零之战线》是一款二次元放置类的竖版游戏，玩家作为军校毕业的优等生，将指挥武器少女战队与被污染的机械兽战斗，在夺回地面控制权的同时，迎击与调查隐藏在深处的秘密。请一起守护这个世界！战斗吧！"
+  },
+  "1916250": {
+    "title": "Magic crystals 2",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875270/movie480_vp9.webm?t=1645699120",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916250/ss_d4e199413d59901850e192adf478c740ce86c92b.1920x1080.jpg?t=1656275200",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916250/ss_0d791b57856d0d6f9ac243a1a4061531ef1020b3.1920x1080.jpg?t=1656275200",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916250/ss_11cc650607fd75f138e1d93e076788765c5ac724.1920x1080.jpg?t=1656275200"
+    ],
+    "details": {
+      "appID": 1916250,
+      "Title": "Magic crystals 2",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "Rex Junior",
+      "Publisher": "Rex Junior",
+      "Release Date": "13 Mar, 2022"
+    },
+    "description": "\"Magic Crystals 2\" is the second game of fun tower defense franchise with very unique mechanics - during the game you need to move crystals to the best places for the best defense. Don't forget to upgrade your crystals because enemies are stronger with every new wave!"
+  },
+  "1916260": {
+    "title": "NFT",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881539/movie480_vp9.webm?t=1649582284",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916260/ss_eb20320c03dbe7fdf60a6685ff2b320c29b52616.1920x1080.jpg?t=1649582291",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916260/ss_3fe5e2d96b2f48fffa32d98e2f467568eb1e61dc.1920x1080.jpg?t=1649582291",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916260/ss_1d3b09785ddebdfe9b788bb8dcfabf5688197211.1920x1080.jpg?t=1649582291"
+    ],
+    "details": {
+      "appID": 1916260,
+      "Title": "NFT",
+      "Genre": [
+        "Action",
+        "Indie"
+      ],
+      "Developer": "n00dbeaver Studios",
+      "Publisher": "n00dbeaver Studios",
+      "Release Date": "18 Apr, 2022"
+    },
+    "description": "Showcasing the power of n00dFighter Template! A comprehensive, ever growing, fighting game template, built with Unreal Engine!"
+  },
+  "1916280": {
+    "title": "Swords Fantasy: Battlefield",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875141/movie480_vp9.webm?t=1645558625",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916280/ss_5afb19145ee7ed1ef3a84fc02bd3026c51a43ad8.1920x1080.jpg?t=1645558632",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916280/ss_8cf2a8b8459c8faf8e3900fca7d2ead424e38bfb.1920x1080.jpg?t=1645558632",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916280/ss_7235f3166ecfc6e5a5412f2781a1d0b7f18d78ff.1920x1080.jpg?t=1645558632"
+    ],
+    "details": {
+      "appID": 1916280,
+      "Title": "Swords Fantasy: Battlefield",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+      ],
+      "Developer": "SF World",
+      "Publisher": "SF World",
+      "Release Date": "5 Mar, 2022"
+    },
+    "description": "Swords Fantasy: Battlefield is a game from the 3rd person, including battles with swords."
+  },
+  "1916310": {
+    "title": "Remnant Records",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256884559/movie480_vp9.webm?t=1651240778",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916310/ss_0127f33fc7ce0a08680dd322e6eacff7add82002.1920x1080.jpg?t=1656371651",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916310/ss_321c1d5533a37e75714e26ff5ed49578ee54b202.1920x1080.jpg?t=1656371651",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916310/ss_06213a14299072f693cc69b081e83b98c8683c59.1920x1080.jpg?t=1656371651"
+    ],
+    "details": {
+      "appID": 1916310,
+      "Title": "Remnant Records",
+      "Genre": [
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "EraKles",
+      "Publisher": "EraKles",
+      "Release Date": "July 2022"
+    },
+    "description": "Remnant Records is a horror investigation game for 1 to 4 players. As an exorcist, explore places haunted by the dead to find clues that will help you solve thousands of unique generated mysteries."
+  },
+  "1916370": {
+    "title": "Tower of Ascension",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256863685/movie480_vp9.webm?t=1638836489",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1827060/ss_5823ed4ad9369965e4915c0041f7f0113e3f7e5c.1920x1080.jpg?t=1656502652",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1827060/ss_3764d8cc00078444f02c6fc4611529cebc3eec0f.1920x1080.jpg?t=1656502652",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1827060/ss_7e2c12971a3a3e82e5b04eb8b28805929cf10e06.1920x1080.jpg?t=1656502652"
+    ],
+    "details": {
+      "appID": 1916370,
+      "Title": "Tower of Ascension",
+      "Genre": [
+        "Strategy",
+        "Early Access"
+      ],
+      "Developer": "OwOInteractive",
+      "Publisher": "OwOInteractive",
+      "Release Date": "Early - Mid 2022"
+    },
+    "description": "Tower of Ascension is a roguelite tower defense game. Grow your build, solve levels in unique ways, and ascend the tower."
+  },
+  "1916420": {
+    "title": "Secrets of the Temple",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874667/movie480_vp9.webm?t=1646075783",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916420/ss_0165cccd6ff082ccdd2e062362c473404eacc53e.1920x1080.jpg?t=1652548180",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916420/ss_cb7936f59e717a18db002dacab8796c56418b40f.1920x1080.jpg?t=1652548180",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916420/ss_b429cab63a7a6be53b2fb3dd0428883056fd5089.1920x1080.jpg?t=1652548180"
+    ],
+    "details": {
+      "appID": 1916420,
+      "Title": "Secrets of the Temple",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "Matt Cusworth",
+      "Publisher": "Rhinocorp Games",
+      "Release Date": "14 Mar, 2022",
+      "Early Access Release Date": "14 Mar, 2022"
+    },
+    "description": "Secrets of the Temple is a single player puzzle platformer adventure game. Traverse the Pharaoh's labyrinthian temple and locate and collect the Eye of Ra before it's too late!"
+  },
+  "1916450": {
+    "title": "Summer With You",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879774/movie480_vp9.webm?t=1648476283",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916450/ss_e0352e6d0696b1fca5c2f3e24a74bb772188ff70.1920x1080.jpg?t=1652261534",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916450/ss_bce9aac74d339bdca8341933df2ba8951b96d3ef.1920x1080.jpg?t=1652261534",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916450/ss_91924a9ac0bd5fdebb5ffe07601ae4ac196c7184.1920x1080.jpg?t=1652261534"
+    ],
+    "details": {
+      "appID": 1916450,
+      "Title": "Summer With You",
+      "Genre": [
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "Aleksey Izimov",
+      "Publisher": "Aleksey Izimov",
+      "Release Date": "11 May, 2022"
+    },
+    "description": "A Japanese-style visual novel. A gripping story with four endings, a huge number of choices, 10+ CG, 5+ BG, original music and animated sprites of the main characters will allow you to immerse yourself in a cruel world of deception and sincerity, betrayal and loyalty, happiness and despair."
+  },
+  "1916510": {
+    "title": "Pop Top Adventure",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874645/movie480_vp9.webm?t=1645735270",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916510/ss_f659973f2bac7a09979a65a36f9cda5905b54ba5.1920x1080.jpg?t=1647375444",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916510/ss_f65dbd05f5c5ab96148ac18a64b9f07c11a76104.1920x1080.jpg?t=1647375444",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916510/ss_a6a5232f85921f9050aa5511fcd5301e677b2e42.1920x1080.jpg?t=1647375444"
+    ],
+    "details": {
+      "appID": 1916510,
+      "Title": "Pop Top Adventure",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Juliano P Moraes",
+      "Publisher": "Juliano P Moraes",
+      "Release Date": "15 Mar, 2022"
+    },
+    "description": "POP TOP ADVENTURE is a platform game, about the adventure with PEP POP, the hero who will need your help to recover the stolen trophies. Jump, climb, swim... Collect coins and emeralds... Defeat enemies and level bosses.. And enjoy the best of POP TOP ADVENTURE!"
+  },
+  "1916540": {
+    "title": "Valley Dash",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875824/movie480_vp9.webm?t=1646266577",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916540/ss_b8ac14bab187f183c13981e36fd4d3f2f49c8170.1920x1080.jpg?t=1653000604",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916540/ss_1d0f40ee677ee6bf89b3e1c699a9bb45903c0ca1.1920x1080.jpg?t=1653000604",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916540/ss_dcbc8271266f89a30cd0ff4a7d445a1345137c73.1920x1080.jpg?t=1653000604"
+    ],
+    "details": {
+      "appID": 1916540,
+      "Title": "Valley Dash",
+      "Genre": [
+        "Indie"
+      ],
+      "Developer": "Levi Isaac, White Rose",
+      "Publisher": "White Rose",
+      "Release Date": "21 Mar, 2022"
+    },
+    "description": "Dash! Dash! Dash as far as you can in this NES inspired arcade take on action command RPG battle action! Pick a dasher, collect gear, build your party and gather upgrades to dash as far as you possibly can."
+  },
+  "1916560": {
+    "title": "Feisty Fauna",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877529/movie480_vp9.webm?t=1650614037",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916560/ss_717f6e165a7b42d410a01785493f6b9dfb14eb62.1920x1080.jpg?t=1651447662",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916560/ss_8c4fee2876098810d6842c85dafa1054ab754292.1920x1080.jpg?t=1651447662",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916560/ss_11f7a490b774c425c96e0271e200c2d7708dce9b.1920x1080.jpg?t=1651447662"
+    ],
+    "details": {
+      "appID": 1916560,
+      "Title": "Feisty Fauna",
+      "Genre": [
+        "Action",
+        "Casual"
+      ],
+      "Developer": "Atas Fun",
+      "Publisher": "Atas Fun",
+      "Release Date": "Coming soon"
+    },
+    "description": "Feisty Fauna is a casual roguelite where you're a cute animal trying to survive. Whether it's by laying traps, being a ninja, or charming minions, you will hunt other cute animals in this eat-or-be-eaten animal world."
+  },
+  "1916580": {
+    "title": "Red Yet Capers: Math vs Mayhem",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876560/movie480_vp9.webm?t=1646595410",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916580/ss_b28303c696f7cb1d4f3e169d1e5dee93ddb244ad.1920x1080.jpg?t=1651439581",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916580/ss_83f48a160dabdb86721e1261bd027ff8ca3e8fa9.1920x1080.jpg?t=1651439581",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916580/ss_c63ece63d7c77ea095d4d8692cf3dfd06037b48d.1920x1080.jpg?t=1651439581"
+    ],
+    "details": {
+      "appID": 1916580,
+      "Title": "Red Yet Capers: Math vs Mayhem",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "GameMaker Studios, Tazzz Web Designs",
+      "Publisher": "Tazzz Web Designs",
+      "Release Date": "20 Mar, 2022"
+    },
+    "description": "Red Yet Capers is a mix of mathematics, and fun-filled running, jumping, shooting, and ducking. For ages 8 and up."
+  },
+  "1916610": {
+    "title": "Frame - Portals on Steroids",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874728/movie480_vp9.webm?t=1653066380",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916610/ss_3287386fc4d78a412135c421d8e7ce3fc7c50168.1920x1080.jpg?t=1656357508",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916610/ss_2b8105491b24fefb94fe8364d560554671761762.1920x1080.jpg?t=1656357508",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916610/ss_5219b0f086fcf4463b3ffac0d9ccf09e9eadf0a7.1920x1080.jpg?t=1656357508"
+    ],
+    "details": {
+      "appID": 1916610,
+      "Title": "Frame - Portals on Steroids",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "MechanicsDriven",
+      "Publisher": "MechanicsDriven",
+      "Release Date": "November 2022"
+    },
+    "description": "Frames are devices that can stitch two parts in space together. And they can do much more: They can move, change size and gravity of objects and appear in any size or number... All these mechanics are used to provide mind-bending levels in this logic-based physics-puzzler."
+  },
+  "1916620": {
+    "title": "Chest Mate",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878958/movie480_vp9.webm?t=1647954667",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1889790/ss_0f61ffbff16320dc48c4fd2ffff9bb741dbcc09c.1920x1080.jpg?t=1649428751",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1889790/ss_160f57c00605e396385cbbdf79f081930a445f82.1920x1080.jpg?t=1649428751",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1889790/ss_495b6c990c33310914a1e49ad885ce36a14bea12.1920x1080.jpg?t=1649428751"
+    ],
+    "details": {
+      "appID": 1916620,
+      "Title": "Chest Mate",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Strategy"
+      ],
+      "Developer": "OptizOnion",
+      "Publisher": "OptizOnion",
+      "Release Date": "8 Apr, 2022"
+    },
+    "description": "A precision based tower defense/puzzle game that focuses on optimization! Control your cannon, optimize your defenses and defend your mate! Chest Mate is a challenging aim-based strategy game."
+  },
+  "1916630": {
+    "title": "THE_ABYSS_HAS_WALLS",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877848/movie480_vp9.webm?t=1647321490",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916630/ss_d49ef7608a6715867324f3e62688eb8d6d6657f5.1920x1080.jpg?t=1648450223",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916630/ss_9c827c271f1c494d18228edec621bb516cf3d844.1920x1080.jpg?t=1648450223",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916630/ss_6128ebacac4d9c86ce5b2c5ebc4f601eda2b283b.1920x1080.jpg?t=1648450223"
+    ],
+    "details": {
+      "appID": 1916630,
+      "Title": "THE_ABYSS_HAS_WALLS",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Developer": "James Madsen Digital Enterprises",
+      "Publisher": "James Madsen Digital Enterprises",
+      "Release Date": "27 Mar, 2022"
+    },
+    "description": "THE_ABYSS_HAS_WALLS takes you into Ad Infinitum (also known as \"The Backrooms\") like never seen before. Review footage. Document fate."
+  },
+  "1916680": {
+    "title": "WTC : Recruitment Day",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874663/movie480_vp9.webm?t=1646573694",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916660/ss_fcca0707360c010004f47650e4b4e132bad8dd31.1920x1080.jpg?t=1656532185",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916660/ss_714ead3189dae23d78248c483b92fc257f46ba30.1920x1080.jpg?t=1656532185",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916660/ss_feee430c2ca12eb95089481c2b2ea597c1bdc437.1920x1080.jpg?t=1656532185"
+    ],
+    "details": {
+      "appID": 1916680,
+      "Title": "WTC : Recruitment Day",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "Triority Interactive Novels",
+      "Publisher": "Triority Interactive Novels",
+      "Franchise": "Welcome To... Chichester",
+      "Release Date": "7 Mar, 2022"
+    },
+    "description": "After Grendel Jinx is mugged, she chases after the thief, determined to retrieve her possessions - and also recruit the person responsible"
+  },
+  "1916710": {
+    "title": "Synthwave Racers",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256885457/movie480_vp9.webm?t=1651855158",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916710/ss_c7fac4c16ff585725b2205a61f3aa3e25277a664.1920x1080.jpg?t=1653671734",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916710/ss_62f8d47579a0e4a623eb3718c27534a8e0f7c69e.1920x1080.jpg?t=1653671734",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916710/ss_27c026c38e3f33498978ff6c440d906f15de9f52.1920x1080.jpg?t=1653671734"
+    ],
+    "details": {
+      "appID": 1916710,
+      "Title": "Synthwave Racers",
+      "Genre": [
+        "Action",
+        "Indie",
+        "Racing"
+      ],
+      "Developer": "Corrtex Games",
+      "Publisher": "Corrtex Games",
+      "Release Date": "July 2022"
+    },
+    "description": "Race at hypersonic speeds through retro-inspired courses in Synthwave RacersⓇ, an indie-arcade racing game with melodic 80's-inspired synthwave tracks, and tight percision-based action racing gameplay."
+  },
+  "1916720": {
+    "title": "Babba Yagga: Woodboy",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256864828/movie480_vp9.webm?t=1639598471",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1835310/ss_59e857fa6428c22085d43bdeedf6f765736190b1.1920x1080.jpg?t=1645993908",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1835310/ss_ae856f9bf2eff4f2a5e37c8c86f7981cee14d928.1920x1080.jpg?t=1645993908",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1835310/ss_59f7abe91390652a4c09c93999cbdc273d75becf.1920x1080.jpg?t=1645993908"
+    ],
+    "details": {
+      "appID": 1916720,
+      "Title": "Babba Yagga: Woodboy",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Marginal act",
+      "Publisher": "Marginal act",
+      "Release Date": "27 Feb, 2022"
+    },
+    "description": "Baba Yaga is a horror game, where you play as a wooden boy who needs to bring sleeping herbs for his mum, but on the way, he meets the BABA YAGA! After that everything becomes more brutal and scary."
+  },
+  "1916800": {
+    "title": "More Ore - The Incremental Idle RPG",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256887645/movie480_vp9.webm?t=1653170682",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916800/ss_9ddd489dbc2d22bf9e988a7e967b2f264095b2e4.1920x1080.jpg?t=1653170692",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916800/ss_d2ee6f6b902821e761a86606415b1d5bd04477e2.1920x1080.jpg?t=1653170692",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916800/ss_a020bc3c532ce2d462052f3348fe786bc44dc2ec.1920x1080.jpg?t=1653170692"
+    ],
+    "details": {
+      "appID": 1916800,
+      "Title": "More Ore - The Incremental Idle RPG",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+      ],
+      "Developer": "Syn's Studio",
+      "Publisher": "Syn's Studio",
+      "Release Date": "When the game is fully fleshed out."
+    },
+    "description": "The idle incremental game of your dreams... if you dream about ores. Do whatever it takes to mine More Ore while conquering the world in your spare time."
+  },
+  "1916830": {
+    "title": "Aftermath",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876704/movie480_vp9.webm?t=1646572303",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916830/ss_95d94783137201b43a692b3256672dc03540d9dc.1920x1080.jpg?t=1653195677",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916830/ss_77294dfb32f5d037b6e2c8f7d4c03819b8e03b20.1920x1080.jpg?t=1653195677",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916830/ss_cfb4c2c270706f3af21fefc7ca739ac150f5c21c.1920x1080.jpg?t=1653195677"
+    ],
+    "details": {
+      "appID": 1916830,
+      "Title": "Aftermath",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Deeppink man",
+      "Publisher": "PsychoFlux Entertainment",
+      "Franchise": "PsychoFlux Presents, 1맵1치킨 알만툴 대회",
+      "Release Date": "July 2022"
+    },
+    "description": "홀로 벙커에 남은 한 군인의 이야기."
+  },
+  "1916840": {
+    "title": "Aftermath",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876704/movie480_vp9.webm?t=1646572303",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916830/ss_95d94783137201b43a692b3256672dc03540d9dc.1920x1080.jpg?t=1653195677",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916830/ss_77294dfb32f5d037b6e2c8f7d4c03819b8e03b20.1920x1080.jpg?t=1653195677",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916830/ss_cfb4c2c270706f3af21fefc7ca739ac150f5c21c.1920x1080.jpg?t=1653195677"
+    ],
+    "details": {
+      "appID": 1916840,
+      "Title": "Aftermath",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Deeppink man",
+      "Publisher": "PsychoFlux Entertainment",
+      "Franchise": "PsychoFlux Presents, 1맵1치킨 알만툴 대회",
+      "Release Date": "July 2022"
+    },
+    "description": "홀로 벙커에 남은 한 군인의 이야기."
+  },
+  "1916850": {
+    "title": "Doomed to Hell",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875283/movie480_vp9.webm?t=1647021618",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916850/ss_65230c525eb59698d6f11d0686a24708c9f105ae.1920x1080.jpg?t=1648217940",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916850/ss_8abf2139aa28a64dd1c14f4181a965074a126c45.1920x1080.jpg?t=1648217940",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916850/ss_69c46c05a1ae5a0440e037ca418c83c4bff428c6.1920x1080.jpg?t=1648217940"
+    ],
+    "details": {
+      "appID": 1916850,
+      "Title": "Doomed to Hell",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Developer": "Gagonfe, Ulon, Rhowsl",
+      "Publisher": "Gagonfe",
+      "Release Date": "25 Mar, 2022"
+    },
+    "description": "Doomed to Hell is a roguelike-like top-down shooter where you play as Rose, a human in hell who will need to fight all of its monsters in waves of enemies, defeat bosses, and get new weapons to earn back his life on earth."
+  },
+  "1916860": {
+    "title": "『絵話 -kaiwa-』",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875773/movie480_vp9.webm?t=1645956589",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916860/ss_a5a7e99ad2028a918a78032ae11cf8ee05796a8b.1920x1080.jpg?t=1655783808",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916860/ss_152d403bdc66c974cc6341842dafa0700fc0d402.1920x1080.jpg?t=1655783808",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916860/ss_0d32dda7933647ace2d423a3b4ccaccda26b8447.1920x1080.jpg?t=1655783808"
+    ],
+    "details": {
+      "appID": 1916860,
+      "Title": "『絵話 -kaiwa-』",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "852話",
+      "Publisher": "852話",
+      "Release Date": "7 Jun, 2022"
+    },
+    "description": "こわいえのはなし。貴方はこの絵を恐いと感じるでしょう。異常だと思うでしょう。あるいは貴方を幸せにしてくれる絵もあるかもしれない。"
+  },
+  "1916890": {
+    "title": "Slider",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881653/movie480_vp9.webm?t=1649983341",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916890/ss_ea39d53394d96622174cda2f9bbe49374946c670.1920x1080.jpg?t=1656519200",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916890/ss_f263595afdab8084008e7b34bcb61803c98f2364.1920x1080.jpg?t=1656519200",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916890/ss_2761e512b8d8fddbea5c35d710a87e8c3d6f7b4c.1920x1080.jpg?t=1656519200"
+    ],
+    "details": {
+      "appID": 1916890,
+      "Title": "Slider",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie"
+      ],
+      "Developer": "randomerz",
+      "Publisher": "randomerz",
+      "Release Date": "Winter 2022"
+    },
+    "description": "Manipulate the world in order to solve puzzles and help others. You will manage an ever-growing set of tiles and mechanics as you explore unique areas and unravel the mysteries of the universe."
+  },
+  "1916900": {
+    "title": "Heaven's Fox",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256888544/movie480_vp9.webm?t=1653595861",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916900/ss_a55ff542ec2490a958e4292430e8356e43d83a16.1920x1080.jpg?t=1656050752",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916900/ss_9aa641a98c9049c3c34e425c37403bb1031867ee.1920x1080.jpg?t=1656050752",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916900/ss_a552f5072db70a8b0b4599f7c63960ebba479eed.1920x1080.jpg?t=1656050752"
+    ],
+    "details": {
+      "appID": 1916900,
+      "Title": "Heaven's Fox",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "HCGstudio",
+      "Publisher": "HCGstudio",
+      "Release Date": "TBA"
+    },
+    "description": "After a staunch materialist boy witnesses the ghosts and spirits, how will his world view be shaken? The nine-tailed fox who is high above, the classmates who laugh and play, the mysterious girl in the dream, which one of them would you like to start a thrilling and exciting adventure with?"
+  },
+  "1916920": {
+    "title": "The Doll Beneath",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874769/movie480_vp9.webm?t=1645670061",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916920/ss_d4d01b410090c270dc58534ed374e8466038bc11.1920x1080.jpg?t=1650957002",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916920/ss_e7f97f31f8dec0b7b0c3a7b8b5c76b4ee16b58d4.1920x1080.jpg?t=1650957002",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916920/ss_3074268ed73cb65b6f395a17a81a7438f650bda5.1920x1080.jpg?t=1650957002"
+    ],
+    "details": {
+      "appID": 1916920,
+      "Title": "The Doll Beneath",
+      "Genre": [
+        "Adventure",
+        "Free to Play",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "SurvivalMyths",
+      "Publisher": "SurvivalMyths",
+      "Release Date": "17 Aug, 2022"
+    },
+    "description": "Awakened from a deep slumber, six students find themselves trapped inside an abandoned research facility, otherwise known as the \"Losinglight\". Delve deep into the trenches of the black eclipse, and search for a way out. Just remember, you're not alone."
+  },
+  "1916930": {
+    "title": "Astral Slider",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874729/movie480_vp9.webm?t=1645547167",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916930/ss_90776aa0fa942471e7350706184516690130978d.1920x1080.jpg?t=1646948292",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916930/ss_59dfd9248e3eae636034578159caaa473ddd9cad.1920x1080.jpg?t=1646948292",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916930/ss_cf8163fd731867d466629afc1c032149c52ef638.1920x1080.jpg?t=1646948292"
+    ],
+    "details": {
+      "appID": 1916930,
+      "Title": "Astral Slider",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Racing",
+        "Sports"
+      ],
+      "Developer": "Kyle Rodgers",
+      "Publisher": "Kyle Rodgers",
+      "Release Date": "10 Mar, 2022"
+    },
+    "description": "Astral Slider is an immersive time-attack laser racer. Slide through a number of different astral cyberworlds and blast your way past obstacles to increase your speed and beat your top scores. Play flatscreen or in VR."
+  },
+  "1916940": {
+    "title": "Harriet: From Slave To Hero",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878389/movie480_vp9.webm?t=1648895719",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916940/ss_b18b36b1a03532889e1612d77ca200c3160a1fa6.1920x1080.jpg?t=1648898813",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916940/ss_bc09eb670b8342c91be720069c0633d657283fbd.1920x1080.jpg?t=1648898813",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916940/ss_b897bd61cd613bf3d73ee4da7eecb6fb14791d89.1920x1080.jpg?t=1648898813"
+    ],
+    "details": {
+      "appID": 1916940,
+      "Title": "Harriet: From Slave To Hero",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Free to Play",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "KKO Team",
+      "Publisher": "KKO Team",
+      "Release Date": "2 Apr, 2022"
+    },
+    "description": "Harriet: From Slave to Hero is based on the life of Harriet Tubman, an African-American slave who would become the most famous fighter for the freedom of American slaves, in the years before the American Civil War. It is a 2.5 D turn-based strategy game with puzzle and stealth components."
+  },
+  "1916950": {
+    "title": "GoodNight",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875997/movie480_vp9.webm?t=1646194492",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916950/ss_4914eb960aaad9b35293d948d0626b591eca9f9d.1920x1080.jpg?t=1647434092",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916950/ss_3c91b2df343406d8974b67670cb6b3a28a0f81a0.1920x1080.jpg?t=1647434092",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916950/ss_ead3273fa88dd3a98f04cf044624ea800b4c6bb0.1920x1080.jpg?t=1647434092"
+    ],
+    "details": {
+      "appID": 1916950,
+      "Title": "GoodNight",
+      "Genre": [
+        "Indie"
+      ],
+      "Developer": "Solitary Studios",
+      "Publisher": "Lamina Studios",
+      "Release Date": "16 Mar, 2022"
+    },
+    "description": "A psychological horror game about a girl named Veronica who experiences intense paranormal activities after her family's tragic death in a fire."
+  },
+  "1916970": {
+    "title": "Tree Simulator 2023",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874727/movie480_vp9.webm?t=1645546161",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916970/ss_4fa738c59f47793148ae56e23e3059d5225f68b7.1920x1080.jpg?t=1648810788",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916970/ss_f54f8a2379dc22b7243f6811dbc3fd7c4bd23ac2.1920x1080.jpg?t=1648810788",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916970/ss_4e679891ee75c87531a87048cdaaa2c060c3688c.1920x1080.jpg?t=1648810788"
+    ],
+    "details": {
+      "appID": 1916970,
+      "Title": "Tree Simulator 2023",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "Revmatek",
+      "Publisher": "Remvatek",
+      "Release Date": "1 Apr, 2022"
+    },
+    "description": "It's exactly what it sounds like! Have you ever wanted to be a tree? Do you like odd numbers? How about multiplayer, weather, seasons and more!? Well then this is the game for you! Come on down to a place where you will never want to leaf. Relax and be the best tree you can be. 1-250 players."
+  },
+  "1917010": {
+    "title": "Frozen Memories",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875675/movie480_vp9.webm?t=1645847817",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1224840/ss_77cfc38002d319f7e1aa40610a3f92e79bd6fc37.1920x1080.jpg?t=1647054270",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1224840/ss_5962903f2f2634ab374f0ff13e2b767c0f651be9.1920x1080.jpg?t=1647054270",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1224840/ss_ae23a9ddce9207eed307130d0a0dd7e83f0e1d72.1920x1080.jpg?t=1647054270"
+    ],
+    "details": {
+      "appID": 1917010,
+      "Title": "Frozen Memories",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "SKT STUDIO",
+      "Publisher": "SKT STUDIO",
+      "Franchise": "青鸟计划",
+      "Release Date": "11 Mar, 2022"
+    },
+    "description": "Is what is recorded in a photograph necessarily true? I don't think so. \"But I think that even if it's a fake photo, the emotions of its creator are real after all.\" She said. So, your memories, then, must be real? Visual novel \"Frozen Memories\" gives you a fictionalised version of a real memory."
+  },
+  "1917070": {
+    "title": "Unblocking",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880046/movie480_vp9.webm?t=1648596812",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1908260/ss_5cf33005f61c3a4ee1774e2a11d58088263064a2.1920x1080.jpg?t=1648596813",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1908260/ss_02e0edf1defd0f45289e8dadfaf81aea2c74037b.1920x1080.jpg?t=1648596813",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1908260/ss_2881eeea7beba847ea72b30e249de4adaf0e8d7e.1920x1080.jpg?t=1648596813"
+    ],
+    "details": {
+      "appID": 1917070,
+      "Title": "Unblocking",
+      "Genre": [
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Cristiano Santos, Yanick Trindade",
+      "Publisher": "Cristiano Santos",
+      "Release Date": "2022"
+    },
+    "description": "Unblocking is a casual VR game based on dragging piece blocks to clear lines/boards. It supports 3 game modes: Puzzle (multiple levels), Relax (time limit mode) and Arcade (lifes based mode)"
+  },
+  "1917100": {
+    "title": "Zofia",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256889616/movie480_vp9.webm?t=1654189851",
+      "https://cdn.akamai.steamstatic.com/steam/apps/652770/ss_5edd1540ff1cdcacc63585daae0b326a779a2413.1920x1080.jpg?t=1656352808",
+      "https://cdn.akamai.steamstatic.com/steam/apps/652770/ss_831f04f5fc657be4a8f17498be3792cbaa930030.1920x1080.jpg?t=1656352808",
+      "https://cdn.akamai.steamstatic.com/steam/apps/652770/ss_2e705098d76405585e543102b9a6545eb0ea17c5.1920x1080.jpg?t=1656352808"
+    ],
+    "details": {
+      "appID": 1917100,
+      "Title": "Zofia",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "74 Ninjas, LLC",
+      "Publisher": "74 Ninjas, LLC",
+      "Release Date": "TBA"
+    },
+    "description": "Zofia is a first person online and/or split screen cooperative RPG. Branded as a heretic and an outcast, you manage to escape the northern empire and take up work as a Seeker."
+  },
+  "1917170": {
+    "title": "Ink'n'Think",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877445/movie480_vp9.webm?t=1646998229",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917170/ss_5270f861834f28c2460036d4946a91dcd4c0d3a3.1920x1080.jpg?t=1656421918",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917170/ss_68b300740c0b2810ed929671c0563df55b432182.1920x1080.jpg?t=1656421918",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917170/ss_5c6d4b8f766d8f4d8d00fbf59907fe013eeddb68.1920x1080.jpg?t=1656421918"
+    ],
+    "details": {
+      "appID": 1917170,
+      "Title": "Ink'n'Think",
+      "Genre": [
+        "Casual"
+      ],
+      "Developer": "Yakaru Studios",
+      "Publisher": "Yakaru Studios",
+      "Release Date": "11 Mar, 2022"
+    },
+    "description": "Ink'n'Think is a local co-op game. Solve puzzles, open doors, activate platforms, teleport, discover secrets and more in this colorful puzzle game."
+  },
+  "1917180": {
+    "title": "INCISION",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256867455/movie480_vp9.webm?t=1641247538",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1734680/ss_1f123c40506e4339308c02cbce5d75a87b7fffa8.1920x1080.jpg?t=1652546759",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1734680/ss_644ff7e7f4cd0aa12108fbb3fc8a66e01cc34eb6.1920x1080.jpg?t=1652546759",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1734680/ss_ac0c9487c0ead9caef067877d792a17cb862e879.1920x1080.jpg?t=1652546759"
+    ],
+    "details": {
+      "appID": 1917180,
+      "Title": "INCISION",
+      "Genre": [
+        "Action",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "SmoothBrainDev",
+      "Publisher": "SmoothBrainDev",
+      "Release Date": "2022"
+    },
+    "description": "Slaughter your way through nightmarish industrial mazes, transformed cityscapes and surreal alien structures to cut down the Growth in this ultraviolent, fast-paced, and merciless retro-styled first person shooter."
+  },
+  "1917200": {
+    "title": "Fey: Distant Daydream",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875362/movie480_vp9.webm?t=1645655767",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1773160/ss_d20c2dc6c36ecc477b4d182fc623ce9881624aef.1920x1080.jpg?t=1652456618",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1773160/ss_e9aca1107b37278fabbfe391c727c4e6ac99ee95.1920x1080.jpg?t=1652456618",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1773160/ss_9460fbcba9fb8f508547d4d2678dcafdcef0216d.1920x1080.jpg?t=1652456618"
+    ],
+    "details": {
+      "appID": 1917200,
+      "Title": "Fey: Distant Daydream",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "secret industries",
+      "Publisher": "secret industries",
+      "Release Date": "2022"
+    },
+    "description": "An old mansion, a mysterious letter, a box of old memorabilia. Explore the present and past to uncover the secrets of the extraordinary family that lived here. Remember a time long gone as you set foot in this late 1990s-inspired mystery with intricate puzzles and eccentric characters."
+  },
+  "1917220": {
+    "title": "the machine that BREATHES",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876974/movie480_vp9.webm?t=1646747471",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1126210/ss_92cd09c32cc0f7447e0ce55912ddb5808533c918.1920x1080.jpg?t=1656007613",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1126210/ss_4d4c6a6a4e9c24ecdf37806a5debe21d1ede6a01.1920x1080.jpg?t=1656007613",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1126210/ss_d2ea5a9bd9b3d24ecac36439fe1e74f0744d887d.1920x1080.jpg?t=1656007613"
+    ],
+    "details": {
+      "appID": 1917220,
+      "Title": "the machine that BREATHES",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Shweep Games",
+      "Publisher": "Shweep Games",
+      "Release Date": "2022"
+    },
+    "description": "Your advanced AI mind has been put into a cyborg body. When you awake, you find yourself in a post-apocalyptic underground city. Scavenge for ammo, analyze terminals, solve puzzles, fight off enemies, and exist."
+  },
+  "1917230": {
+    "title": "The Outer Radius",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874991/movie480_vp9.webm?t=1645757462",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917230/ss_ee6314cd5469f3af326063a5dd5a51933ea910bd.1920x1080.jpg?t=1649081902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917230/ss_248c4219054498c76c2bce7813cf8e092c150aa9.1920x1080.jpg?t=1649081902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917230/ss_e5e4e52b1685988316ebb4c8874bc16d38a2d22a.1920x1080.jpg?t=1649081902"
+    ],
+    "details": {
+      "appID": 1917230,
+      "Title": "The Outer Radius",
+      "Genre": [
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "Developer": "Sappy Game Studio",
+      "Publisher": "Sappy Game Studio",
+      "Release Date": "TBA"
+    },
+    "description": "Lead a caravan of survivors through a world on the brink of collapse. Scavenge for resources, form bonds with your fellow survivors, and make difficult choices in this turn-based strategy roguelite. Will you survive long enough to reach the Outer Radius?"
+  },
+  "1917250": {
+    "title": "Grief like a stray dog",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256861949/movie480_vp9.webm?t=1638463385",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1831800/ss_3a1e68e6e04f8ca4ede6f2e39dec1c48b6add1e3.1920x1080.jpg?t=1655302480",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1831800/ss_60bbcc1fd10c615eee9022de9f6ce4427d04ffd3.1920x1080.jpg?t=1655302480",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1831800/ss_323bf7fb54945ee1fc243133415d19e84d01b3e5.1920x1080.jpg?t=1655302480"
+    ],
+    "details": {
+      "appID": 1917250,
+      "Title": "Grief like a stray dog",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Rayonist",
+      "Publisher": "Rayonist",
+      "Release Date": "2022. ADD TO WISHLIST"
+    },
+    "description": "An isolated Russian village, 1942. Men leave one by one, along the winding forest path painted crimson by distant fires, and do not return. Young Nadia becomes a part-time postwoman filling in for her sick mother. She is now a messenger of hope and of trouble."
+  },
+  "1917260": {
+    "title": "Catharsis",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877689/movie480_vp9.webm?t=1648156267",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917260/ss_3e70b4d25362a2314ea9cd55ede2c657af7a7a48.1920x1080.jpg?t=1655583060",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917260/ss_216da68e02975e45b26d3eb05349eaddcf06ff9c.1920x1080.jpg?t=1655583060",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917260/ss_c0c99de935c7476ee47ed1642c5c48f2aaefa48d.1920x1080.jpg?t=1655583060"
+    ],
+    "details": {
+      "appID": 1917260,
+      "Title": "Catharsis",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "Developer": "Cathartic Games",
+      "Publisher": "Cathartic Games",
+      "Release Date": "7 Apr, 2022"
+    },
+    "description": "Descend deep in the dungeons of Catharsis to reclaim what you've lost. Dive into this First Person Dungeon Crawler featuring a grim aesthetic with a heavy focus on character growth, exploration and customization!"
+  },
+  "1917300": {
+    "title": "Counter Chaos",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256865539/movie480_vp9.webm?t=1639724681",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1835160/ss_a06a5e92ac8e27b86aaf37c2d00ed4f933cdd3d5.1920x1080.jpg?t=1655948703",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1835160/ss_2364e36ee48bcf5edf31307697cde7a2d9e5b5e2.1920x1080.jpg?t=1655948703",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1835160/ss_64248a97dd519fc73c5efdc340771a59e71276f5.1920x1080.jpg?t=1655948703"
+    ],
+    "details": {
+      "appID": 1917300,
+      "Title": "Counter Chaos",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "Developer": "slimer37",
+      "Publisher": "slimer37",
+      "Release Date": "Probably October"
+    },
+    "description": "Counter Chaos is a simulation game where you work a growing store of your very own, without the hassle of helping hands. It's stressful, but at least you're self-employed."
+  },
+  "1917310": {
+    "title": "Who is the hero of this Game",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877649/movie480_vp9.webm?t=1647183631",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917310/ss_1380d273986b69db5ed0794a89ebcf126078480c.1920x1080.jpg?t=1647982933",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917310/ss_8443312d265086788d2cffc5800629bee7f4ac7b.1920x1080.jpg?t=1647982933",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917310/ss_31c9b130800cf8e8a205c437c00a3fc3b85eb1f6.1920x1080.jpg?t=1647982933"
+    ],
+    "details": {
+      "appID": 1917310,
+      "Title": "Who is the hero of this Game",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Early Access"
+      ],
+      "Developer": "Dnovel",
+      "Publisher": "Dnovel",
+      "Release Date": "17 Mar, 2022",
+      "Early Access Release Date": "17 Mar, 2022"
+    },
+    "description": "Will you be able to go beyond the mundane and beat the routine in this adventure in the genre of the walking simulator?"
+  },
+  "1917320": {
+    "title": "A Slit of Joy",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880746/movie480_vp9.webm?t=1649062463",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917320/ss_8db64fe78843652c7e8a9d5ec1f015d29bfbb6b5.1920x1080.jpg?t=1649062468",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917320/ss_e0eb54af8c81ab4033b0b21fbaf07f385c6f9ac6.1920x1080.jpg?t=1649062468",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917320/ss_625f0980304dae07e37d012ef5e4e264f6101f6d.1920x1080.jpg?t=1649062468"
+    ],
+    "details": {
+      "appID": 1917320,
+      "Title": "A Slit of Joy",
+      "Genre": [
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "GameMaker8YT",
+      "Publisher": "GameMaker8YT, Nicsa Studios",
+      "Release Date": "3 Apr, 2022"
+    },
+    "description": "Finn was sad, so he killed himself. But he was greeted by Aoi a mysterious girl who granted him one wish before he gets reincarnated. Finn's wish, he wanted to see if anyone cared at all that he had committed suicide. Even though he knows no one ever cared about him."
+  },
+  "1917350": {
+    "title": "Mysterious Island - A Hidden Object Adventure",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256889913/movie480_vp9.webm?t=1654426972",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917350/ss_110898bf8bfabdf6bae31993f9c3715f87dd339d.1920x1080.jpg?t=1654426979",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917350/ss_623844b866535c503b15ba5901cf4f40024f7354.1920x1080.jpg?t=1654426979",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917350/ss_c1a8a1cc2b8847939630d1fcbc5c54e502f8bb66.1920x1080.jpg?t=1654426979"
+    ],
+    "details": {
+      "appID": 1917350,
+      "Title": "Mysterious Island - A Hidden Object Adventure",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Dnovel",
+      "Publisher": "Studio2760",
+      "Franchise": "Hidden Object",
+      "Release Date": "26 Mar, 2022",
+      "Early Access Release Date": "26 Mar, 2022"
+    },
+    "description": "A game in the genre of \"hidden object\" - look for supplies, fight with predators, explore the surroundings. Discover all the secrets of the Mysterious Island!"
+  },
+  "1917370": {
+    "title": "HyperPortals",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878043/movie480_vp9.webm?t=1647405449",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917370/ss_28338d9143f2fa113eab95b0c32514c3ab942027.1920x1080.jpg?t=1647985198",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917370/ss_ba83d850ec31182f781265c9047b7e59994a7ade.1920x1080.jpg?t=1647985198",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917370/ss_4a8d18bee4f2b351526d6b33ba36648ff06477ef.1920x1080.jpg?t=1647985198"
+    ],
+    "details": {
+      "appID": 1917370,
+      "Title": "HyperPortals",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "Dnovel",
+      "Publisher": "Dnovel",
+      "Release Date": "17 Mar, 2022",
+      "Early Access Release Date": "17 Mar, 2022"
+    },
+    "description": "Read the text, answer questions, control the beam of light rushing through the void, collect parts of the story - \"Hyper Portals\" offers a journey into several dimensions at once."
+  },
+  "1917380": {
+    "title": "Maze Slaughter",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256818763/movie480_vp9.webm?t=1618475557",
+      "https://cdn.akamai.steamstatic.com/steam/apps/941140/ss_8704c85da4cc76798d7b5e0662a0c61eee74d456.1920x1080.jpg?t=1654614877",
+      "https://cdn.akamai.steamstatic.com/steam/apps/941140/ss_56f3632297e3a4d135673b08c3da662c5db35e47.1920x1080.jpg?t=1654614877",
+      "https://cdn.akamai.steamstatic.com/steam/apps/941140/ss_ea7c4f9427c06693dbd02b761573f1a39d5074aa.1920x1080.jpg?t=1654614877"
+    ],
+    "details": {
+      "appID": 1917380,
+      "Title": "Maze Slaughter",
+      "Genre": [
+        "Action",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "Giant Gun Games",
+      "Publisher": "n/a",
+      "Release Date": "In Development"
+    },
+    "description": "Maze slaughter is a fast paced, rogue-lite first person shooter in a maze with piling bodies. It's like running man, in an american gladiator arena setting. Loud, gory and funny."
+  },
+  "1917390": {
+    "title": "Roxy Raccoon's Bowling Bash",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256886055/movie480_vp9.webm?t=1652229978",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917390/ss_ce6516856855e60329facc4d3c3eefa89b6455ac.1920x1080.jpg?t=1656477621",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917390/ss_b518cb1441320c01f7ea3b847e2ca3b50e07c028.1920x1080.jpg?t=1656477621",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917390/ss_20ee82c40105eec9365744aa4a20d93b2d58837d.1920x1080.jpg?t=1656477621"
+    ],
+    "details": {
+      "appID": 1917390,
+      "Title": "Roxy Raccoon's Bowling Bash",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports"
+      ],
+      "Developer": "Sinomod Studios",
+      "Publisher": "Sinomod Studios",
+      "Franchise": "Roxy Raccoon",
+      "Release Date": "23 Aug, 2022"
+    },
+    "description": "10-Pin Bowling where you are the ball! Watch the time and avoid obstacles as you aim for the high-score and conquer the ever-changing landscapes. The next chapter in the Roxy Raccoon Saga awaits as a new foe approaches!"
+  },
+  "1917410": {
+    "title": "Elemental Angel Ⅱ",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874781/movie480_vp9.webm?t=1645542764",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917410/ss_893a3dd63016dba3e66c08012cff74ce3bab3434.1920x1080.jpg?t=1647519180",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917410/ss_6274e8b57e4ef47231f5991a45dfa21f15354397.1920x1080.jpg?t=1647519180",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917410/ss_ec55ef841165ae568211fd8bc364f972e58cd3e3.1920x1080.jpg?t=1647519180"
+    ],
+    "details": {
+      "appID": 1917410,
+      "Title": "Elemental Angel Ⅱ",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Small Game",
+      "Publisher": "Small Game",
+      "Release Date": "17 Mar, 2022",
+      "Early Access Release Date": "9 Mar, 2022"
+    },
+    "description": "\"Elemental Angel II\" is a vertical scrolling flight shooting game. The player controls the protagonist fighter to fight the enemy in the universe."
+  },
+  "1917430": {
+    "title": "Heaven's Fox",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256888544/movie480_vp9.webm?t=1653595861",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916900/ss_a55ff542ec2490a958e4292430e8356e43d83a16.1920x1080.jpg?t=1656050752",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916900/ss_9aa641a98c9049c3c34e425c37403bb1031867ee.1920x1080.jpg?t=1656050752",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1916900/ss_a552f5072db70a8b0b4599f7c63960ebba479eed.1920x1080.jpg?t=1656050752"
+    ],
+    "details": {
+      "appID": 1917430,
+      "Title": "Heaven's Fox",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "HCGstudio",
+      "Publisher": "HCGstudio",
+      "Release Date": "TBA"
+    },
+    "description": "After a staunch materialist boy witnesses the ghosts and spirits, how will his world view be shaken? The nine-tailed fox who is high above, the classmates who laugh and play, the mysterious girl in the dream, which one of them would you like to start a thrilling and exciting adventure with?"
+  },
+  "1917460": {
+    "title": "Underground Lords",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874809/movie480_vp9.webm?t=1648706938",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917460/ss_ecf6073d7cc7c18b9c23ace461955dcae4bf2a34.1920x1080.jpg?t=1655878758",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917460/ss_9a4ea0d4e18ad9dd19fa812d5dd8bbdd4ba98c1c.1920x1080.jpg?t=1655878758",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917460/ss_a63586ca4ad3110a4731d54bcd68cc7a94c6e7c1.1920x1080.jpg?t=1655878758"
+    ],
+    "details": {
+      "appID": 1917460,
+      "Title": "Underground Lords",
+      "Genre": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Pixel Muffin Studios",
+      "Publisher": "Pixel Muffin Studios",
+      "Release Date": "21 Jun, 2022"
+    },
+    "description": "Purge the underworld from the demons!. Underground Lords is a hardcore action rogue-like dungeon crawler with procedurally generated levels. Chose one from the 3 characters, gather equipment, and mow the lords that rule the underground!"
+  },
+  "1917480": {
+    "title": "Rules: Politically Incorrect",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256862213/movie480_vp9.webm?t=1638367279",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1628170/ss_c418d3ed4ec91a3966331e2272f77b4c776fbf91.1920x1080.jpg?t=1646403713",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1628170/ss_b9affc839032e639b1b63f34a125ada4dea8f9ea.1920x1080.jpg?t=1646403713",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1628170/ss_8ca9f2a4cf6cc986786f3ee45c9c29dc71c22f56.1920x1080.jpg?t=1646403713"
+    ],
+    "details": {
+      "appID": 1917480,
+      "Title": "Rules: Politically Incorrect",
+      "Genre": [
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "Titanite Games",
+      "Publisher": "Titanite Games"
+    },
+    "description": "In this crazy world you are becoming a leader of democracy and your task will be to maintain a balance between development, budget, equality and power. Choose whether you prefer to be seen as a brutal capitalist or a gentle social democrat. Your choices will be written on the pages of history."
+  },
+  "1917540": {
+    "title": "目的地：火星",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256883968/movie480_vp9.webm?t=1650939746",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917540/ss_390315caaae71aade78973dca0edda8d2d90754e.1920x1080.jpg?t=1650939755",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917540/ss_e5bdb2c56016f50745861e4056136ddae3688d2a.1920x1080.jpg?t=1650939755",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917540/ss_2ce55336aae0e48f791375e7cf3715f4a71924b6.1920x1080.jpg?t=1650939755"
+    ],
+    "details": {
+      "appID": 1917540,
+      "Title": "目的地：火星",
+      "Genre": [
+        "Education"
+      ],
+      "Developer": "Wemake",
+      "Publisher": "Wemake",
+      "Release Date": "20 Apr, 2022"
+    },
+    "description": "An exploration type of science-fi education content. In the digital world of virtual reality, players will play passengers who carry out journeys in Mars and unique travel and exploration in Mars. Mars will be open to the travel route of each landform, make friends, and recognize Mars."
+  },
+  "1917550": {
+    "title": "The Renovator: Origins",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874855/movie480_vp9.webm?t=1646120066",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917550/ss_4495b53881f6bfe5c926eb3b23d0442d0ac44490.1920x1080.jpg?t=1646120074",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917550/ss_f7b2ec3b61c485bafb75b8d45da6213e17da7f22.1920x1080.jpg?t=1646120074",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917550/ss_d1b4f3f7afa5caa964e0bf9a2f42f7e0fbed093c.1920x1080.jpg?t=1646120074"
+    ],
+    "details": {
+      "appID": 1917550,
+      "Title": "The Renovator: Origins",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Peace_Studio",
+      "Publisher": "Peace_Studio",
+      "Release Date": "TBD"
+    },
+    "description": "We play as the son of a restorer, a museum worker who died tragically. While searching for the memorabilia, the door suddenly closes and strange things begin to happen. The hero is waiting for immersion in the world of art and the paranormal."
+  },
+  "1917610": {
+    "title": "Twin Mind: Ghost Hunter Collector's Edition",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876080/movie480_vp9.webm?t=1646413365",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917610/ss_e2354802819007566fe6a3d047ad8c986a8bfa47.1920x1080.jpg?t=1652949620",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917610/ss_a37f91fb5d8ca4fbcbd63950c4cd728e1865a57a.1920x1080.jpg?t=1652949620",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917610/ss_51b9630f4971b7aee3987644a602066aad604c03.1920x1080.jpg?t=1652949620"
+    ],
+    "details": {
+      "appID": 1917610,
+      "Title": "Twin Mind: Ghost Hunter Collector's Edition",
+      "Genre": [
+        "Adventure",
+        "Casual"
+      ],
+      "Developer": "DominiGames",
+      "Publisher": "DominiGames",
+      "Release Date": "29 Mar, 2022"
+    },
+    "description": "Can the twin detectives solve a new case? You are the only one who can help them catch the killer. Are you up for the challenge?"
+  },
+  "1917660": {
+    "title": "A Factory Job",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875772/movie480_vp9.webm?t=1646294131",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917660/ss_60e476768c27c477fbd62654ff4e5014f8c951fd.1920x1080.jpg?t=1647500540",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917660/ss_60ed1f46b27bd39fc64d5780f9682c58686421d9.1920x1080.jpg?t=1647500540",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917660/ss_369639ac295530b2d82ce18b975c8ac5e3646bcc.1920x1080.jpg?t=1647500540"
+    ],
+    "details": {
+      "appID": 1917660,
+      "Title": "A Factory Job",
+      "Genre": [
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Mitchell Hartwell",
+      "Publisher": "Mellow Day Games",
+      "Release Date": "17 Mar, 2022"
+    },
+    "description": "A short psychological horror game"
+  },
+  "1917690": {
+    "title": "Any World",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256890454/movie480_vp9.webm?t=1654682158",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1881280/ss_3ade17b98535634e3054ff1345964d1ad2372ddd.1920x1080.jpg?t=1656701979",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1881280/ss_eed65daf80184709b651c4967dbcf39b52a94adb.1920x1080.jpg?t=1656701979",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1881280/ss_645d7986cca36ea8061799950ac3e3b2918239a2.1920x1080.jpg?t=1656701979"
+    ],
+    "details": {
+      "appID": 1917690,
+      "Title": "Any World",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "IdeaGame",
+      "Publisher": "IdeaGame",
+      "Release Date": "31 Mar, 2023"
+    },
+    "description": "Any World is a game that tells about the adventure of an alien named Ottis, who was forced to go to the planet Emria and explore it. In addition to Emria, you will find many worlds and locations, a huge number of puzzles, tasks and quests! Hurry up, go ahead for adventures!"
+  },
+  "1917710": {
+    "title": "Riki's Risky Ride",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876545/movie480_vp9.webm?t=1646421389",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917710/ss_a627dd0ad51df49591529316609387003668f701.1920x1080.jpg?t=1647331888",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917710/ss_886d4e861398628c998d1a68956f590830381c61.1920x1080.jpg?t=1647331888",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917710/ss_d3c2d796455df747af1b3363e3d2b7ec4f35da35.1920x1080.jpg?t=1647331888"
+    ],
+    "details": {
+      "appID": 1917710,
+      "Title": "Riki's Risky Ride",
+      "Genre": [
+        "Casual",
+        "Free to Play",
+        "Racing"
+      ],
+      "Developer": "Riki Klein",
+      "Publisher": "Riki Klein",
+      "Release Date": "15 Mar, 2022"
+    },
+    "description": "Riki’s Risky Ride is a challenging 2.5D Platformer. Drive, spin, jump your car to reach the top of the city."
+  },
+  "1917720": {
+    "title": "Two Sedans Driving Simulator",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875119/movie480_vp9.webm?t=1645627644",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917720/ss_7e1061c76bd680ef43f0d609068548fd42e0d2c2.1920x1080.jpg?t=1648196178",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917720/ss_610ad1ac9849b5e42b6834024d15a6b0b002bb64.1920x1080.jpg?t=1648196178",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917720/ss_bae89ab6182c6b34844830249d41a7800d5b40db.1920x1080.jpg?t=1648196178"
+    ],
+    "details": {
+      "appID": 1917720,
+      "Title": "Two Sedans Driving Simulator",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Strategy"
+      ],
+      "Developer": "Cristian Manolachi, Atomic Fabrik",
+      "Publisher": "Cristian Manolachi, Atomic Fabrik",
+      "Release Date": "25 Mar, 2022"
+    },
+    "description": "Your goal is to drive them without accidents and reach the end of each level with both cars."
+  },
+  "1917740": {
+    "title": "The Ultimate Shot",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874917/movie480_vp9.webm?t=1645596274",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917740/ss_ce6ee5fd9831920baf38cf0f8860a24eefafd7ec.1920x1080.jpg?t=1647334117",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917740/ss_abf607269f54428b4814216c29ff357d2864354a.1920x1080.jpg?t=1647334117",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917740/ss_4cf254f784f5cbfa5325257d337742f7a901adcf.1920x1080.jpg?t=1647334117"
+    ],
+    "details": {
+      "appID": 1917740,
+      "Title": "The Ultimate Shot",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "Developer": "Cristian Manolachi, Atomic Fabrik",
+      "Publisher": "Cristian Manolachi, Atomic Fabrik",
+      "Release Date": "15 Mar, 2022"
+    },
+    "description": "You are the only hope, but thanks to your rich experience we are sure you will do well!"
+  },
+  "1917760": {
+    "title": "Through the Kill Screen",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880165/movie480_vp9.webm?t=1648653495",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917760/ss_f55ec10c7ceed93f1dc104d11d5de3f19e5857ca.1920x1080.jpg?t=1650453933",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917760/ss_627059fbf9b6bf4d92638fa3bba0068ef26ba216.1920x1080.jpg?t=1650453933",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917760/ss_871fa92298e857f243900e26a1a5d1c48d3c792f.1920x1080.jpg?t=1650453933"
+    ],
+    "details": {
+      "appID": 1917760,
+      "Title": "Through the Kill Screen",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "James K. Isaac",
+      "Publisher": "James K. Isaac",
+      "Release Date": "20 Apr, 2022"
+    },
+    "description": "Through the Kill Screen, an Adventure-RPG about 1980s kids discovering what slumbers beyond the final levels of their favourite computer games. Drink a Slushie, win a Thumb War and save Snoring Town from a sinister conspiracy."
+  },
+  "1917770": {
+    "title": "Computer Developing Simulator 2022",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876499/movie480_vp9.webm?t=1646396133",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1815200/ss_e13db0c91161606a44e2e8bd6680a71754847c1f.1920x1080.jpg?t=1650376091",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1815200/ss_a21608d5f415fc257353b3d2d0ffb3cb6e43258b.1920x1080.jpg?t=1650376091",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1815200/ss_67ba1e299737114620b0e73ee991ebec92baa185.1920x1080.jpg?t=1650376091"
+    ],
+    "details": {
+      "appID": 1917770,
+      "Title": "Computer Developing Simulator 2022",
+      "Genre": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "Developer": "Technologies&Simulators",
+      "Publisher": "Technologies&Simulators",
+      "Franchise": "Computer Develop Simulator",
+      "Release Date": "7 Mar, 2022"
+    },
+    "description": "Computer Developing Simulator 2022 - it's inovation simulator there you can create your own company for computer construction. You can choose some ready components from other hardware companies or develop it yourself. You can choose parameters and some unique technologies for you computer."
+  },
+  "1917780": {
+    "title": "Humans vs Tigers",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876201/movie480_vp9.webm?t=1646292870",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917780/ss_c6e740d62cc3a74226fcaef6ffc7fc788027d666.1920x1080.jpg?t=1648706831",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917780/ss_5d0209c2886f9293ef97b5bf8a2c83a7c8aa5927.1920x1080.jpg?t=1648706831",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917780/ss_8ba71f9550fa70c7bbacb1aeaf48dcdc235000a6.1920x1080.jpg?t=1648706831"
+    ],
+    "details": {
+      "appID": 1917780,
+      "Title": "Humans vs Tigers",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports"
+      ],
+      "Developer": "Beam Bong Games",
+      "Publisher": "Cristian Manolachi, Atomic Fabrik",
+      "Release Date": "30 Mar, 2022"
+    },
+    "description": "Your goal is to increase your team of hunters until you reach the tiger. Gather them but be very careful in same time to the very dangerous obstacles that you will encounter in your way."
+  },
+  "1917800": {
+    "title": "Parasite",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878218/movie480_vp9.webm?t=1647487460",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917800/ss_923b7254c94494a8160fb659cc7e525769fc3436.1920x1080.jpg?t=1651733497",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917800/ss_833e438f375437b5dd8bc6d6e586993f456ac7da.1920x1080.jpg?t=1651733497",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917800/ss_60e92aa584cc84ca42543a000ed14128717fdb1c.1920x1080.jpg?t=1651733497"
+    ],
+    "details": {
+      "appID": 1917800,
+      "Title": "Parasite",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "George Grigoriadis",
+      "Publisher": "ValkyriaPH studio",
+      "Release Date": "18 Mar, 2022"
+    },
+    "description": "It doesn't matter if you scare, run immediately. Is creepy, dark, and scary place you have no idea what is going on, because you don't remember anything. Find the proper answers and remember who you are and why you are down there. Are you alone there? or you are not? Let's find out."
+  },
+  "1917810": {
+    "title": "Rooms of Realities",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874868/movie480_vp9.webm?t=1650527721",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917810/ss_50f6053ab1f4ed09bfc770688496a7695e157336.1920x1080.jpg?t=1652336694",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917810/ss_838ad67f7d1f3a77b46b39a34d78ac89e5e061a5.1920x1080.jpg?t=1652336694",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917810/ss_fb0fbf267fe276fd23e0c83c0051d6dacc9247cd.1920x1080.jpg?t=1652336694"
+    ],
+    "details": {
+      "appID": 1917810,
+      "Title": "Rooms of Realities",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "Bluekey",
+      "Publisher": "Gamedust",
+      "Franchise": "Gamedust",
+      "Release Date": "2022"
+    },
+    "description": "Rooms of Realities is an anthology of virtual Escape Rooms that you can enjoy in co-op or solo mode. Discover the secret that connects all the rooms."
+  },
+  "1917820": {
+    "title": "Strongloween: The Escape",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874989/movie480_vp9.webm?t=1646260349",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917820/ss_c7210a49bfe23599c175c901d123cdde3fb9a6df.1920x1080.jpg?t=1646347196",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917820/ss_b159ff86919477d18b6d8688b5b3e18b210a179c.1920x1080.jpg?t=1646347196",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917820/ss_631ebe32475898fe02579a09f9c625e00a01458f.1920x1080.jpg?t=1646347196"
+    ],
+    "details": {
+      "appID": 1917820,
+      "Title": "Strongloween: The Escape",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "François Linck",
+      "Publisher": "François Linck Games",
+      "Release Date": "Coming in 2022"
+    },
+    "description": "Live the adventure of Torkin, prisoner of STRONGLOWEEN. Discover powerful items and fight bosses that will prevent you and other prisoners from escaping. Strongloween holds many secrets, will you discover them all?"
+  },
+  "1917830": {
+    "title": "The Safe Place",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877170/movie480_vp9.webm?t=1647078698",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917830/ss_892b24a8bbc1779f3681816d4718bfd6d75d46a5.1920x1080.jpg?t=1651963640",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917830/ss_19feaddb918b5825776b414effa50fc877566487.1920x1080.jpg?t=1651963640",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917830/ss_7daf0dabea3e5deed8a6795b45d7f88fc4cb3653.1920x1080.jpg?t=1651963640"
+    ],
+    "details": {
+      "appID": 1917830,
+      "Title": "The Safe Place",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Anate Studio",
+      "Publisher": "Anate Studio",
+      "Release Date": "2022"
+    },
+    "description": "This is a dramatic deep social point&click adventure about tough childhood and self-sacrifice."
+  },
+  "1917840": {
+    "title": "Funny Village",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874881/movie480_vp9.webm?t=1645622202",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917840/ss_c452b208f3e45229f8c37cd6fcd9b135b4d5f14d.1920x1080.jpg?t=1647809227",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917840/ss_351e1f2e13236853197d67daf2147daa2d292d55.1920x1080.jpg?t=1647809227",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917840/ss_7f041c3541fd8a92eb7638f79cdc57e7bab436bd.1920x1080.jpg?t=1647809227"
+    ],
+    "details": {
+      "appID": 1917840,
+      "Title": "Funny Village",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Quarlellle",
+      "Publisher": "Quarlellle",
+      "Release Date": "20 Mar, 2022"
+    },
+    "description": "Funny Village is an open world third person shooter. In this game you have to fight with a real mafia. Ride different cars, earn money and buy different weapons to destroy the damned mafia. Be the hero of this village!"
+  },
+  "1917850": {
+    "title": "Haunted House Renovator",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876490/movie480_vp9.webm?t=1647852050",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917850/ss_3c2801b663ecaa9035b58381b306513c1836e090.1920x1080.jpg?t=1655133302",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917850/ss_799300fa8bcc085e60a1ae0a46bcfafa05fdb87f.1920x1080.jpg?t=1655133302",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917850/ss_2ea7380ca2dcab47d793bbbc334a07e8f63460da.1920x1080.jpg?t=1655133302"
+    ],
+    "details": {
+      "appID": 1917850,
+      "Title": "Haunted House Renovator",
+      "Genre": [
+        "Adventure",
+        "Simulation",
+        "Strategy"
+      ],
+      "Developer": "Image Power S.A.",
+      "Publisher": "Image Power S.A., PlayWay S.A.",
+      "Franchise": "Image Power S.A., PlayWay S.A.",
+      "Release Date": "TBA"
+    },
+    "description": "Get ready to fight evil entities that roam in abandoned houses! Become the world's first paranormal renovator and set off to restore haunted mansions to their former glory. Make sure that the houses you work on look pleasing to your customers... even if you have to hide a few skeletons in a closet."
+  },
+  "1917870": {
+    "title": "STAY ALIVE",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256889945/movie480_vp9.webm?t=1654455772",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917870/ss_54f98b73998e8e8a075d3b7e2085eb6ae0702a5e.1920x1080.jpg?t=1656231727",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917870/ss_a5dca6ff514d68582e8180cefdc6e94b7543e4c2.1920x1080.jpg?t=1656231727",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917870/ss_a439496670e44257fb2906d1e7f6fc2a3e8fdb36.1920x1080.jpg?t=1656231727"
+    ],
+    "details": {
+      "appID": 1917870,
+      "Title": "STAY ALIVE",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "Mad Games Studio",
+      "Publisher": "Mad Games Company",
+      "Franchise": "STAY ALIVE",
+      "Release Date": "8 Jun, 2022",
+      "Early Access Release Date": "8 Jun, 2022"
+    },
+    "description": "STAY ALIVE - survival in the open world. You are an operational journalist, your task is to go to Russia and take a couple of pictures about fires in the forest."
+  },
+  "1917880": {
+    "title": "With Good Intentions",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256887773/movie480_vp9.webm?t=1653224077",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1903720/ss_351fe649c54bc69bbc5dea41f22244d9f7be2ac9.1920x1080.jpg?t=1655720397",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1903720/ss_f5ec971176271ad1f80953160e47854afae081fe.1920x1080.jpg?t=1655720397",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1903720/ss_c6c9e7a2a1e262ac34ab331caaa363bf44b8a622.1920x1080.jpg?t=1655720397"
+    ],
+    "details": {
+      "appID": 1917880,
+      "Title": "With Good Intentions",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Brezg Studio",
+      "Publisher": "Brezg Studio"
+    },
+    "description": "The Age of Blade and the Age of Gun entwined. The master of the knights and the imperial captain are separated by centuries, but bound by memory. Solve the mysteries of the cursed abbey and its immortal lord. Rejoin the link of time. Find out where the road will take thee with good intentions."
+  },
+  "1917920": {
+    "title": "Polda 7",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879473/movie480_vp9.webm?t=1648235969",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917920/ss_ecbe4f1a952e33dfabc2dca94a7d10ff5f2092be.1920x1080.jpg?t=1650441579",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917920/ss_ca1b526fd3684df2c8fe098b892b0122a544afee.1920x1080.jpg?t=1650441579",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917920/ss_afc1e13efe5a944d6b3b0e3c19dd76791f3a70a7.1920x1080.jpg?t=1650441579"
+    ],
+    "details": {
+      "appID": 1917920,
+      "Title": "Polda 7",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Zima software",
+      "Publisher": "Zima software",
+      "Release Date": "14 Apr, 2022"
+    },
+    "description": "Polda Pankrác v podání Luďka Soboty se vrací již posedmé. A je to návrat jaksepatří. Záhadná zpráva Temného lorda Vedra a havárie kosmické lodi odstartují kolotoč událostí, které může vyřešit jen náš elitní detektiv Pankrác."
+  },
+  "1917950": {
+    "title": "Spiriat",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256877324/movie480_vp9.webm?t=1646957243",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917950/ss_1c3c07da3f630b4af6d1ee35ad222e8980b6518c.1920x1080.jpg?t=1654643952",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917950/ss_f2661fe02a3d9206c21ef5fc7866ad36c95ac043.1920x1080.jpg?t=1654643952",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917950/ss_88437087816f1d0614597561e9ebcf1a620ef486.1920x1080.jpg?t=1654643952"
+    ],
+    "details": {
+      "appID": 1917950,
+      "Title": "Spiriat",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "LomaLort",
+      "Publisher": "LomaLort",
+      "Release Date": "2 Aug, 2022"
+    },
+    "description": "Fly at high speed! Escape from the darkness that haunts you. Absorb as many light orbs as you can to unlock the different graphic stories. Dodge the orbs of darkness that will delay you on your way! Only then you will meet the masters who will guide you to your destiny."
+  },
+  "1917970": {
+    "title": "Laruaville 12",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876006/movie480_vp9.webm?t=1647496546",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917970/ss_1e636b80a1f45b4f5365fbf009d634d8c01fff8b.1920x1080.jpg?t=1647496548",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917970/ss_9a8b3dbd08fba2689fff845ef742f358d07cff0e.1920x1080.jpg?t=1647496548",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917970/ss_05d872b04d151588786d5cc197c0a94b5fed190a.1920x1080.jpg?t=1647496548"
+    ],
+    "details": {
+      "appID": 1917970,
+      "Title": "Laruaville 12",
+      "Genre": [
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "LGT SIA",
+      "Publisher": "LGT SIA",
+      "Release Date": "16 Mar, 2022"
+    },
+    "description": "Recreate the Wild West in its former glory by playing Match-3 levels and solving puzzles!"
+  },
+  "1917990": {
+    "title": "Being and Becoming",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256882018/movie480_vp9.webm?t=1649979518",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917990/ss_4bfed7ce2860736b96ba59d1337be6ac39e7031a.1920x1080.jpg?t=1651245660",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917990/ss_bdec6fbd67d680ab5004cb46421ec965bda43692.1920x1080.jpg?t=1651245660",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1917990/ss_457a46fb4e68bd1a27eb29b2e595315caa0a46e7.1920x1080.jpg?t=1651245660"
+    ],
+    "details": {
+      "appID": 1917990,
+      "Title": "Being and Becoming",
+      "Genre": [
+        "Action",
+        "Indie"
+      ],
+      "Developer": "Ichthys",
+      "Publisher": "CRITICAL REFLEX",
+      "Release Date": "Wishlist Now"
+    },
+    "description": "Being & Becoming is an atmospheric metroidvania, set in a kingdom corrupted by a Collective Dream. Take on the role of the Lucid Dreamer, defeat and consume the souls of the corrupted, then use them as weapons to break the world free from endless slumber."
+  },
+  "1918080": {
+    "title": "Path Of Destruction",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876886/movie480_vp9.webm?t=1647060693",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918080/ss_4a9485d320501f16984f73e86526bcd04005a35a.1920x1080.jpg?t=1651515989",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918080/ss_d4a20f782253cf821c4ce330914ef09d988cd6db.1920x1080.jpg?t=1651515989",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918080/ss_614bfadc0c61a9b5ee8ba5325d073b12ebdc9623.1920x1080.jpg?t=1651515989"
+    ],
+    "details": {
+      "appID": 1918080,
+      "Title": "Path Of Destruction",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Early Access"
+      ],
+      "Developer": "TaskHunter",
+      "Publisher": "CastagnaroDigital",
+      "Release Date": "25 Mar, 2022",
+      "Early Access Release Date": "25 Mar, 2022"
+    },
+    "description": "Face other opponents inside a unknow labyrinth. Follow the path to no where or destroy the walls to give a end for your enemies. Path of Destruction is a top-down 2D multiplayer PVP focused game."
+  },
+  "1918100": {
+    "title": "Mythic Defender",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879026/movie480_vp9.webm?t=1647991038",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918100/ss_d7e94ace8a69e3da29d4bc0345602d83d784411c.1920x1080.jpg?t=1655990775",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918100/ss_a382e754d9d8447131480d9d6e4cd4d2f4cf22e1.1920x1080.jpg?t=1655990775",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918100/ss_59eed221eb989c67fd4e7685803d35c87bc775bd.1920x1080.jpg?t=1655990775"
+    ],
+    "details": {
+      "appID": 1918100,
+      "Title": "Mythic Defender",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+      ],
+      "Developer": "Hexware Studio",
+      "Publisher": "Hexware Studio",
+      "Release Date": "23 Apr, 2022",
+      "Early Access Release Date": "23 Apr, 2022"
+    },
+    "description": "In this VR game combining Tower Defense & Archery, dexterity and strategy will be your best allies to help the gods to protect their kingdom against mythological creatures! Grab your bow and join this epic fight. Will you be able to defeat all enemies and keep the treasure of the gods safe?!"
+  },
+  "1918110": {
+    "title": "Simultaneous Control",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256878501/movie480_vp9.webm?t=1648770198",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918110/ss_0bdc42477aa7407a2be4f7e7dafb4098cbce4e2a.1920x1080.jpg?t=1654798845",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918110/ss_bb7b5b9338c712c3c4a3d5ad83f20302e0f824d6.1920x1080.jpg?t=1654798845",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918110/ss_befb31a227fcc8c9cbd3729c43121a1272da9a5d.1920x1080.jpg?t=1654798845"
+    ],
+    "details": {
+      "appID": 1918110,
+      "Title": "Simultaneous Control",
+      "Genre": [
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Playable Pictures",
+      "Publisher": "Playable Pictures",
+      "Release Date": "18 Apr, 2022"
+    },
+    "description": "Move two cats at the same time: one character with normal movement control, and one character with inverted movement control. Besides controlling both characters, you must search for a key to open the gate and complete each level!"
+  },
+  "1918120": {
+    "title": "zakon",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880937/movie480_vp9.webm?t=1649272309",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918120/ss_4849c0f80056ffd092988ce890dd9e100d15c97b.1920x1080.jpg?t=1649280367",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918120/ss_7e212ce44451d828d185fad663a6b1a745432e60.1920x1080.jpg?t=1649280367",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918120/ss_224388497e17db37c76c4bf8a8f5b3843fa8d621.1920x1080.jpg?t=1649280367"
+    ],
+    "details": {
+      "appID": 1918120,
+      "Title": "zakon",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Mishanya",
+      "Publisher": "Mishanya",
+      "Release Date": "Coming soon"
+    },
+    "description": "Dear soldier, Because of your recent achievements with terrorists, your social score is high enough to give you the opportunity to to be a first pilot of our new combat jet for special operations within the motherland. Keep us proud and don't let them move. GLORY TO VOZD!"
+  },
+  "1918130": {
+    "title": "Grim Quest - Old School RPG",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875019/movie480_vp9.webm?t=1646320750",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918130/ss_04be10bc1f2446cbb4d95e2c9c2d7353c159e97f.1920x1080.jpg?t=1649929199",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918130/ss_e7d5adaba66a97b3f03b9f66e9061961045fa555.1920x1080.jpg?t=1649929199",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918130/ss_49a2995ccad5f021f8f11504229da3e817787823.1920x1080.jpg?t=1649929199"
+    ],
+    "details": {
+      "appID": 1918130,
+      "Title": "Grim Quest - Old School RPG",
+      "Genre": [
+        "RPG"
+      ],
+      "Developer": "Monomyth",
+      "Publisher": "Monomyth",
+      "Release Date": "1 Apr, 2022"
+    },
+    "description": "Grim Quest is a classic turn-based RPG / Dungeon Crawler with minimalist aesthetics and a retro vibe. Set in a dark fantasy world with elements of Lovecraftian horror, it puts a lot of emphasis on atmosphere and immersion, with sombre visuals, melancholy music and lots of written text."
+  },
+  "1918260": {
+    "title": "The World is Binary: Why Love is the Answer",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256874976/movie480_vp9.webm?t=1645582804",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918260/ss_9e530de44d4fb3594d86ac51cced16e31f8fdd0c.1920x1080.jpg?t=1646762009",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918260/ss_74bb68e85847fae983b74fa08d2c69ce99770d39.1920x1080.jpg?t=1646762009",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918260/ss_21b1be8ce7865e03dcf0795d9cfabc19f03f1439.1920x1080.jpg?t=1646762009"
+    ],
+    "details": {
+      "appID": 1918260,
+      "Title": "The World is Binary: Why Love is the Answer",
+      "Genre": [
+        "Indie"
+      ],
+      "Developer": "cybereality",
+      "Publisher": "cybereality",
+      "Release Date": "8 Mar, 2022"
+    },
+    "description": "The World is Binary, a 3D visual novel, takes you on a journey of good and evil, science and religion, and questions what is true or false. The experience explores the ideas of love and fear, and offers practical steps on how you can improve your life and change the world."
+  },
+  "1918270": {
+    "title": "Gastro Force",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881206/movie480_vp9.webm?t=1649349208",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918270/ss_8e53ecb3e47c1492d73cd05366a59e45434066bc.1920x1080.jpg?t=1655145920",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918270/ss_088375d7835daace88149f161b4ac9e5b177509e.1920x1080.jpg?t=1655145920",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918270/ss_42a4c31348ee6caf10f6199830f961554779a6c1.1920x1080.jpg?t=1655145920"
+    ],
+    "details": {
+      "appID": 1918270,
+      "Title": "Gastro Force",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "Somepx, Fernando Araujo",
+      "Publisher": "Ratalaika Games S.L.",
+      "Release Date": "2022"
+    },
+    "description": "The player takes the role of the last soldier of the highly specialized \"Gastro Force\", elite troopers trained to infiltrate the enormous alien guts to fight them from the inside!"
+  },
+  "1918320": {
+    "title": "TactiCats",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880338/movie480_vp9.webm?t=1648741069",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918320/ss_90752fa0c1866051cfc0ad3bdd47db65301bb98b.1920x1080.jpg?t=1655914280",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918320/ss_909cda9ca53f99137cde1aa4481742c8f6beb3a6.1920x1080.jpg?t=1655914280",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918320/ss_a6e3bee27003b823d90658e95b6f228dd42d1ba7.1920x1080.jpg?t=1655914280"
+    ],
+    "details": {
+      "appID": 1918320,
+      "Title": "TactiCats",
+      "Genre": [
+        "Casual"
+      ],
+      "Developer": "HungryDingo",
+      "Publisher": "HungryDingo",
+      "Release Date": "2022 Q2"
+    },
+    "description": "Knock down your enemies and collect all the cats and achievements in this pixel art party game for true cat lovers. Use different power-ups and survive the dangerous traps to show your friends who's the fluffiest of them all!"
+  },
+  "1918340": {
+    "title": "Voxquest: The Firebird",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875384/movie480_vp9.webm?t=1646175509",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918340/ss_33bc4cbf29c839ff6e832deaef3d85b201066ff3.1920x1080.jpg?t=1647528842",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918340/ss_15586cce7230fd49a83f7270be0937db3502a534.1920x1080.jpg?t=1647528842",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918340/ss_182d2ebd96f933fcc1554d4e22936aa4949683d8.1920x1080.jpg?t=1647528842"
+    ],
+    "details": {
+      "appID": 1918340,
+      "Title": "Voxquest: The Firebird",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "Developer": "Lierinwait",
+      "Publisher": "Lierinwait Games",
+      "Release Date": "17 Mar, 2022"
+    },
+    "description": "An open world fantasy adventure in a voxel art style! Explore a massive, continuous overworld with puzzles, upgrades, a variety of weapon aspects and six dungeons. Play with keyboard or XBOX-style controller."
+  },
+  "1918400": {
+    "title": "SECOND WORLD",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875011/movie480_vp9.webm?t=1645578027",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918400/ss_f924494641a5175d3a016f5aac089df266f49920.1920x1080.jpg?t=1646767727",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918400/ss_52375e06a2fc0e6c47e0ff34f0ea9afa6973c6cb.1920x1080.jpg?t=1646767727",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918400/ss_4acd3f432cf94def69628d0d01dcfdfda5f8c80b.1920x1080.jpg?t=1646767727"
+    ],
+    "details": {
+      "appID": 1918400,
+      "Title": "SECOND WORLD",
+      "Genre": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "Max Pedro",
+      "Publisher": "Louie Inc",
+      "Release Date": "8 Mar, 2022"
+    },
+    "description": "In Second World, you have to take on the role of a little demon who needs to get out of the lost world and return home. On a way you will meet a lot of deadly traps and monsters that will do anything for you to stay in this strange and at the same time frightening world."
+  },
+  "1918410": {
+    "title": "Ball Pain",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875016/movie480_vp9.webm?t=1645693737",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918410/ss_dd1286c7f9de92c234f40810b0376d6c731c6d82.1920x1080.jpg?t=1653475326",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918410/ss_f6592f55eb4a3f755f08a5cda507808c152e9f2f.1920x1080.jpg?t=1653475326",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918410/ss_24757d084ba3b646829bf5c4d80f7959e1733c93.1920x1080.jpg?t=1653475326"
+    ],
+    "details": {
+      "appID": 1918410,
+      "Title": "Ball Pain",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Racing",
+        "Sports",
+        "Strategy"
+      ],
+      "Developer": "Farther Gamer",
+      "Publisher": "Farther Gamer",
+      "Release Date": "14 Mar, 2022"
+    },
+    "description": "Ball Pain is next in line to join the ranks of Rage Games, Can you get to the top before you rage ?"
+  },
+  "1918420": {
+    "title": "Order from Caos 2",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879574/movie480_vp9.webm?t=1648520705",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918420/ss_0ddbbfd7a8b9dd4de11ed962d39d7dbc811b60eb.1920x1080.jpg?t=1648950316",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918420/ss_d92d9e3193adbc2df03bbc33e75c7dcf7983ff03.1920x1080.jpg?t=1648950316",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918420/ss_4d557d4f17e236b14702e63f214956ff665c6c4c.1920x1080.jpg?t=1648950316"
+    ],
+    "details": {
+      "appID": 1918420,
+      "Title": "Order from Caos 2",
+      "Genre": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "White Vortex",
+      "Publisher": "White Vortex",
+      "Franchise": "White Vortex RPG series",
+      "Release Date": "2022/2023 -- Wishlist Now!"
+    },
+    "description": "Order from Caos 2 tells the story of Thomas, a man who lost his family, murdered by a cruel knight known as Asmodeus. Thomas embarks on a journey of revenge, vowing to destroy his most merciless enemy. However, one detail could change everything, his family might've simply never existed at all."
+  },
+  "1918440": {
+    "title": "Championship Wrestling Promoter",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881923/movie480_vp9.webm?t=1649804700",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918440/ss_b9dd56ae6a85829e3afa178df489c600c88782ff.1920x1080.jpg?t=1649804707",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918440/ss_f7fc5b6a5603f6b11c140128b0d3f08eaaad9edc.1920x1080.jpg?t=1649804707",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918440/ss_2b98dc207a24e5aedca203fcc21ee4c434c3e864.1920x1080.jpg?t=1649804707"
+    ],
+    "details": {
+      "appID": 1918440,
+      "Title": "Championship Wrestling Promoter",
+      "Genre": [
+        "Simulation",
+        "Sports",
+        "Strategy"
+      ],
+      "Developer": "Pykrete Games",
+      "Publisher": "Pykrete Games",
+      "Release Date": "2022"
+    },
+    "description": "Book shows, build feuds, manage your finances, and win the TV ratings war in Championship Wrestling Promoter, a professional wrestling management strategy game. Coming 2022!"
+  },
+  "1918450": {
+    "title": "HunterX",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256880877/movie480_vp9.webm?t=1649140811",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918450/ss_1e9444e5464000ea187e1593469f65858122be49.1920x1080.jpg?t=1655398196",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918450/ss_85e3238918b887aaa101069ab7d5e870ad01602b.1920x1080.jpg?t=1655398196",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918450/ss_e43931ae97ef3fe6bd17fbf8a53699dc357b904b.1920x1080.jpg?t=1655398196"
+    ],
+    "details": {
+      "appID": 1918450,
+      "Title": "HunterX",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "ORANGE POPCORN",
+      "Publisher": "ORANGE POPCORN",
+      "Release Date": "28 Apr, 2022"
+    },
+    "description": "HunterX is an action-adventure game full of spirited battles. Use various styles of weapons and magic to experience your own fighting style and explore a great world."
+  },
+  "1918470": {
+    "title": "Vacation Paradise: California Collector's Edition",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875109/movie480_vp9.webm?t=1645644368",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918470/ss_beb8be25ab9b9030a0bf2a8ef1524b207ce2c2c1.1920x1080.jpg?t=1646841123",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918470/ss_b657763097b700c16d6916a3271609ad7d68784c.1920x1080.jpg?t=1646841123",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918470/ss_8d1810ef010f828fb4595431a3fceacb5c29840b.1920x1080.jpg?t=1646841123"
+    ],
+    "details": {
+      "appID": 1918470,
+      "Title": "Vacation Paradise: California Collector's Edition",
+      "Genre": [
+        "Adventure",
+        "Casual"
+      ],
+      "Developer": "Point8 Games Inc.",
+      "Publisher": "Point8 Games Inc.",
+      "Franchise": "Vacation Paradise",
+      "Release Date": "9 Mar, 2022"
+    },
+    "description": "Let's take a vacation across stunning California, with fun trivia."
+  },
+  "1918520": {
+    "title": "Ninja Village",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256883795/movie480_vp9.webm?t=1650853459",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918520/ss_951a3a1cf44fe443b7ee5a034425bac5a8adfa26.1920x1080.jpg?t=1655410330",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918520/ss_527fc44bf18e3a3ab4b8ada83f63e4626206d3cc.1920x1080.jpg?t=1655410330",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918520/ss_b01888c57d809b39e2198f41d2c682d099e6eab1.1920x1080.jpg?t=1655410330"
+    ],
+    "details": {
+      "appID": 1918520,
+      "Title": "Ninja Village",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "Developer": "Kairosoft Co.,Ltd",
+      "Publisher": "Kairosoft Co.,Ltd",
+      "Franchise": "Kairosoft Co.,Ltd",
+      "Release Date": "22 May, 2022"
+    },
+    "description": "Lead a ninja clan in the war to unify feudal Japan!"
+  },
+  "1918550": {
+    "title": "London Ripper",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875158/movie480_vp9.webm?t=1645669395",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918550/ss_f0dff7b571268a63d7bf97dd8514dab1e9548edd.1920x1080.jpg?t=1652376672",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918550/ss_69c689cd4737923cbdf7a02c6257731e4ba66504.1920x1080.jpg?t=1652376672",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918550/ss_e4692c6f890a00679e29282b59329d51fbfb15ec.1920x1080.jpg?t=1652376672"
+    ],
+    "details": {
+      "appID": 1918550,
+      "Title": "London Ripper",
+      "Genre": [
+        "Indie"
+      ],
+      "Developer": "Purple Thunder Games",
+      "Publisher": "Purple Thunder Games",
+      "Release Date": "19 Mar, 2022"
+    },
+    "description": "Escape the London Ripper while you work as a night girl."
+  },
+  "1918580": {
+    "title": "Pluto's Island",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256871178/movie480_vp9.webm?t=1643397585",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1881290/ss_9ebe9a223b378f9c91794f83952ac4f43e6a90b2.1920x1080.jpg?t=1647131796",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1881290/ss_c264621139c4dc6c712d7e39aa68519c18f3764f.1920x1080.jpg?t=1647131796",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1881290/ss_69e766bc8fc31ab1f8b12145e43eaa0fcaf3350a.1920x1080.jpg?t=1647131796"
+    ],
+    "details": {
+      "appID": 1918580,
+      "Title": "Pluto's Island",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "Developer": "Valentino Quijano-Moeckel",
+      "Publisher": "Valentino Quijano-Moeckel",
+      "Release Date": "Summer - 2022"
+    },
+    "description": "Harvest souls and cast them into a volcano to appease petty local deities."
+  },
+  "1918590": {
+    "title": "Planet-A",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256884334/movie480_vp9.webm?t=1651797365",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918590/ss_726ea4bee6bdb9d6fad5845d5adae30cd15fec0c.1920x1080.jpg?t=1652998024",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918590/ss_56cb9470cee191b29ac3abc7fe12a768bc919024.1920x1080.jpg?t=1652998024",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918590/ss_70387493018cc20105ca5ba127c9be6415131889.1920x1080.jpg?t=1652998024"
+    ],
+    "details": {
+      "appID": 1918590,
+      "Title": "Planet-A",
+      "Genre": [
+        "Casual",
+        "Free to Play",
+        "Racing",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+      ],
+      "Developer": "Virtual Method",
+      "Publisher": "Virtual Method, Lendlease",
+      "Release Date": "19 May, 2022",
+      "Early Access Release Date": "19 May, 2022"
+    },
+    "description": "Planet A is a purposeful Metaverse. A geo-spatially correct Digital Twin that has been created created for gameplay and education, and getting to know places that may or may not-yet exist in the real world. This is just the beginning - start your journey."
+  },
+  "1918640": {
+    "title": "Meiro Master",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256881594/movie480_vp9.webm?t=1649736553",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918640/ss_06582fe1f8f2f11931607c0ef8b1277843c85b52.1920x1080.jpg?t=1656561021",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918640/ss_b904c357e52a318a1441910ef5b20664072f6df9.1920x1080.jpg?t=1656561021",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918640/ss_faa0764a2a22b93fc667ceef4f74873cc9f7779f.1920x1080.jpg?t=1656561021"
+    ],
+    "details": {
+      "appID": 1918640,
+      "Title": "Meiro Master",
+      "Genre": [
+        "Adventure"
+      ],
+      "Developer": "Space Sheep Gaming Ltd",
+      "Publisher": "Space Sheep Gaming Ltd",
+      "Release Date": "30 Sep, 2022"
+    },
+    "description": "An epic puzzle- platformer RPG adventure with the goal of becoming the Meiro Master! Earn your way in to the history books and become the Meiro Master the people want!"
+  },
+  "1918650": {
+    "title": "The Supermarket Hunter",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875443/movie480_vp9.webm?t=1650525134",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918650/ss_9ebb90efa2ef07dd2eacd1c7ea282db042c7d8cd.1920x1080.jpg?t=1650631881",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918650/ss_2b5e4545349687ef0bd2c7d4ab80f89c703c11a5.1920x1080.jpg?t=1650631881",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1918650/ss_e6d60c95692834c51b65e21917f168b6b4ce53c3.1920x1080.jpg?t=1650631881"
+    ],
+    "details": {
+      "appID": 1918650,
+      "Title": "The Supermarket Hunter",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "10Days Hunters",
+      "Publisher": "Morning Bird Studio",
+      "Release Date": "10 Aug, 2022"
+    },
+    "description": "--!FLEX!--BUY EVERYTHING, BUY MORE, AND BUY!"
+  },
   "1918670": {
     "title": "Dulce et Decorum",
     "links": [
@@ -175,6 +3952,95 @@
       "Release Date": "November 2022"
     },
     "description": "Explore a ruined open world of caverns and settlements. Hack and slash your way through missions: patrol, repair, scavenge - choose your quests and dialogue. Or go fishing, forage mushrooms, and race the clock! The old world is gone - the future is up to you."
+  },
+  "1918990": {
+    "title": "Magnet Crusher",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256876178/movie480_vp9.webm?t=1646207176",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1810620/ss_204155fafb5a88a6d7a33e19dccb5263cabe7522.1920x1080.jpg?t=1649260886",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1810620/ss_38c1411ac322e58e4d1081110cbffbb09910aa02.1920x1080.jpg?t=1649260886",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1810620/ss_e04b9d14a27aafd42af769e89864092f1ef8aaf3.1920x1080.jpg?t=1649260886"
+    ],
+    "details": {
+      "appID": 1918990,
+      "Title": "Magnet Crusher",
+      "Genre": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "Developer": "ToccGames",
+      "Publisher": "ToccGames",
+      "Release Date": "6 Apr, 2022"
+    },
+    "description": "Master the magnetic force to fend off waves of enemies in this fast-paced arcade game. With only two magnets and a puck, you'll need to control your speed to destroy any incoming threats. Be quick, be precise and survive !"
+  },
+  "1919030": {
+    "title": "Trench Warfare",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256879680/movie480_vp9.webm?t=1648424902",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919030/ss_1a58ca1033e49ca587e42c1bc1ba14b3da3fad66.1920x1080.jpg?t=1648426998",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919030/ss_00e0e9436187611769e24944bca78261c0783ee1.1920x1080.jpg?t=1648426998",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919030/ss_d58802c69c67fc6d806e990ab1bf0e9ed57ac94d.1920x1080.jpg?t=1648426998"
+    ],
+    "details": {
+      "appID": 1919030,
+      "Title": "Trench Warfare",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "Developer": "恺哥",
+      "Publisher": "恺哥",
+      "Release Date": "I feel it coming"
+    },
+    "description": "This is a first-person shooter game set in the First World War, where players can find and destroy enemies by digging trenches in the battlefield. You can team up with friends and arm yourself with a variety of weapons scattered throughout the trenches."
+  },
+  "1919060": {
+    "title": "Kly-Kly",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875438/movie480_vp9.webm?t=1645802678",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919060/ss_bc121328794bf70a9c2b39ed2e781fcf1b0b920d.1920x1080.jpg?t=1647275365",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919060/ss_8e29f14b17f3f9796d79828c89f6f71cc02f0ae5.1920x1080.jpg?t=1647275365",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919060/ss_4b43c0bd5e9d1f2a0fe2164122a260b510615db3.1920x1080.jpg?t=1647275365"
+    ],
+    "details": {
+      "appID": 1919060,
+      "Title": "Kly-Kly",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "GeoTECH",
+      "Publisher": "kovalevviktor",
+      "Release Date": "14 Mar, 2022"
+    },
+    "description": "help the magical creature named Kly-Kly defeat 4 monsters"
+  },
+  "1919070": {
+    "title": "Iron Age",
+    "links": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/256875437/movie480_vp9.webm?t=1645764908",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919070/ss_9724fe6484a79dbf4648534c2b6563f127a21324.1920x1080.jpg?t=1647596548",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919070/ss_f1e87ac0c6986ef8ad69460b45a15d18319dc5b0.1920x1080.jpg?t=1647596548",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1919070/ss_127910eb105d8be5c3a2e01ea3eba78e8faa5256.1920x1080.jpg?t=1647596548"
+    ],
+    "details": {
+      "appID": 1919070,
+      "Title": "Iron Age",
+      "Genre": [
+        "Adventure",
+        "Indie"
+      ],
+      "Developer": "GeoTECH",
+      "Publisher": "kovalevviktor",
+      "Release Date": "18 Mar, 2022"
+    },
+    "description": "Iron Age is a real-time strategy game (RTS)."
   },
   "1919080": {
     "title": "Farmer's Defence",
