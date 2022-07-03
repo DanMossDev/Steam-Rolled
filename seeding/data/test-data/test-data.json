@@ -1,217 +1,143 @@
 [
-  { 
-    "appID": true
+  {
+    "1924820": true,
+    "1924850": true,
+    "1924910": true,
+    "1924930": true,
+    "1924960": true
   },
   {
-  "appID": 501180,
-  "title": "Acan's Call: Act 1",
-  "links": [
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/256668507/movie480.webm?t=1470769230",
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/501180/ss_d0575bdf50ea23e4cad332458a87bfbdb10e6662.1920x1080.jpg?t=1526657256",
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/501180/ss_fe62daa94da9adc84d3994ed2884c9b18d3e28ec.1920x1080.jpg?t=1526657256",
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/501180/ss_b6316911fe822156c82df6292920028807808039.1920x1080.jpg?t=1526657256"
-  ],
-  "details": {
-    "appID": 501180,
-    "Title": "Acan's Call: Act 1",
-    "Genre": [
-      "Action",
-      "Adventure",
-      "RPG"
-    ],
-    "Developer": "Cyberith GmbH",
-    "Publisher": "Cyberith GmbH",
-    "Release Date": "11 Aug, 2016"
-  },
-  "description": "Sword and Shield in hand, fight your way along this sword-fighting experience, exclusively for VR."
-  },
-  {
-    "appID": 501190,
-    "title": "Axis Football 2016",
+    "appID": 1924820,
+    "title": "StudioS Fighters: Climax Champions",
     "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256667361/movie480.webm?t=1469202998",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501190/ss_c970a557421a4daa3445f2a05d2b61347a07bf70.1920x1080.jpg?t=1470059285",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501190/ss_09bf6e32cb5db845827e24a0f4ebfcbadba038b4.1920x1080.jpg?t=1470059285",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501190/ss_7cc1f9d8aacc53d935a6803ab69d06f029d5bb7f.1920x1080.jpg?t=1470059285"
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876018/movie480_vp9.webm?t=1651484896",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_4366f5b5702238813499ed51b8f3b150a9db8f5b.1920x1080.jpg?t=1656034711",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_8190b6d226f2cc7898eebcdb20afe5cc612de370.1920x1080.jpg?t=1656034711",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_cb618213dd7dec3c047b3c11b0e0b4deabca4ce9.1920x1080.jpg?t=1656034711"
     ],
     "details": {
-      "appID": 501190,
-      "Title": "Axis Football 2016",
-      "Genre": [
-        "Simulation",
-        "Sports"
-      ],
-      "Developer": "Axis Games",
-      "Publisher": "Axis Games",
-      "Release Date": "29 Jul, 2016"
-    },
-    "description": "Axis Football is a an American football simulation featuring innovative aimed passing and massive customization."
-  },
-  {
-    "appID": 501210,
-    "title": "Reign of Darkness",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256808837/movie480_vp9.webm?t=1606460505",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501210/ss_be7de58b260ed813da5df248ca987736e7a53009.1920x1080.jpg?t=1611365936",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501210/ss_7460ed0bffec55648d99be41a6dfc0a3a27f6de1.1920x1080.jpg?t=1611365936",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501210/ss_6064e8d1b74fe8360ce4093b066172693c069ab9.1920x1080.jpg?t=1611365936"
-    ],
-    "details": {
-      "appID": 501210,
-      "Title": "Reign of Darkness",
-      "Genre": [
-        "Adventure",
-        "Casual",
-        "Indie",
-        "Massively Multiplayer",
-        "RPG",
-        "Strategy",
-        "Early Access"
-      ],
-      "Developer": "Unorthodox Studio",
-      "Publisher": "Unorthodox Studio",
-      "Release Date": "20 Nov, 2019",
-      "Early Access Release Date": "20 Nov, 2019"
-    },
-    "description": "Reign of Darkness still very much being developed but currently is a \"Tab Target\", \"Theory-Crafting\", \"Dungeon Runner\", and Online Role Playing Game. Being based on classic D&D principles & concepts, where every attack is a virtual roll of the dice, players can \"Build\" or..."
-  },
-  {
-    "appID": 501220,
-    "title": "Space Ribbon - Slipstream to the Extreme",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256687971/movie480.webm?t=1546614758",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501220/ss_fc749afabcc1ea3c8e3f4d8fec8504c9a673cfdf.1920x1080.jpg?t=1643280895",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501220/ss_12626c800e82f16ca0bbad2db6695e344e90c2e6.1920x1080.jpg?t=1643280895",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501220/ss_e28e9a910e223cbcb5e5bdb6f1954fa516ebae37.1920x1080.jpg?t=1643280895"
-    ],
-    "details": {
-      "appID": 501220,
-      "Title": "Space Ribbon - Slipstream to the Extreme",
+      "appID": 1924820,
+      "Title": "StudioS Fighters: Climax Champions",
       "Genre": [
         "Action",
-        "Casual",
-        "Indie",
-        "Racing",
-        "Simulation",
-        "Sports"
-      ],
-      "Developer": "Onteca Ltd",
-      "Publisher": "Applaud Productions, Onteca Ltd",
-      "Release Date": "4 Jan, 2019"
-    },
-    "description": "The ultimate slipstream racer! Chase down a giant space beast and race to enter the creature’s mouth as it spews out a series of psychedelic racetracks. Slipstream to the extreme! Modify your junked up classic car and race to the finish line as you compete to become the intergalactic winner."
-  },
-  {
-    "appID": 501240,
-    "title": "Mervils: A VR Adventure",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256673168/movie480.webm?t=1477414155",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/497460/ss_9464bda573eadc1a1c11e33c62e905e6df18263f.1920x1080.jpg?t=1507833301",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/497460/ss_cdd304a024bcd9db0e0a69330326e223f89edf84.1920x1080.jpg?t=1507833301",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/497460/ss_7320a5220963943323cdd025b0753995cf7dcc4f.1920x1080.jpg?t=1507833301"
-    ],
-    "details": {
-      "appID": 501240,
-      "Title": "Mervils: A VR Adventure",
-      "Genre": [
-        "Adventure",
-        "RPG"
-      ],
-      "Developer": "VitruviusVR",
-      "Publisher": "VitruviusVR",
-      "Release Date": "25 Oct, 2016"
-    },
-    "description": "Mervils is an open world RPG platformer built specifically for third-person VR with over 6-8 hours of gameplay. In Mervils, you are tasked to defeat Balazar the Evil and save the four picturesque Mervil worlds from imminent destruction."
-  },
-  {
-    "appID": 501270,
-    "title": "Robots In The Wild",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256677411/movie480.webm?t=1485945311",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501270/ss_fc286c42d2af21b3390e272f93fd39faf818f5a8.1920x1080.jpg?t=1488924395",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501270/ss_2b8c9bbc9cf19d00b15b3bbbdf10792a8db3fa5d.1920x1080.jpg?t=1488924395",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501270/ss_79503954fa1368e0d247e2003b60dbd8dc8e0869.1920x1080.jpg?t=1488924395"
-    ],
-    "details": {
-      "appID": 501270,
-      "Title": "Robots In The Wild",
-      "Genre": [
-        "Indie",
-        "Strategy",
-        "Early Access"
-      ],
-      "Developer": "Heatbox Games",
-      "Publisher": "Heatbox Games",
-      "Release Date": "14 Feb, 2017"
-    },
-    "description": "Robots In The Wild is a challenging puzzle/strategy game about creatively dropping Blocks to build Robot fortresses. Travel to distant planets and construct huge, interconnected Robot strongholds to protect and rescue the HEARTS from the Monsters of the Wild."
-  },
-  {
-    "appID": 501280,
-    "title": "VirZOOM Gamepad Emulator",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256667119/movie480.webm?t=1468955198",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501280/ss_3504466f33a0533bd9f07a98cf25f236ad8d5145.1920x1080.jpg?t=1469824681",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501280/ss_2f898fcbb97c4b4cb3ba0fdbc55318aac766c43e.1920x1080.jpg?t=1469824681",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501280/ss_eeb2fff06d1ecd4fd275b3b2999b43f3205009b3.1920x1080.jpg?t=1469824681"
-    ],
-    "details": {
-      "appID": 501280,
-      "Title": "VirZOOM Gamepad Emulator",
-      "Genre": [
-        "Utilities"
-      ],
-      "Developer": "VirZOOM",
-      "Publisher": "VirZOOM",
-      "Release Date": "15 Jul, 2016"
-    },
-    "description": "A tool that allows the VirZOOM bike controller to act like a normal gamepad for other games."
-  },
-  {
-    "appID": 501300,
-    "title": "What Remains of Edith Finch",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256720203/movie480.webm?t=1529339369",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/ss_5e17b98cf2effabcb74aedc537ef3d68578b5c66.1920x1080.jpg?t=1656608849",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/ss_b33a742463deb8564a382e1744febceaa91a5bab.1920x1080.jpg?t=1656608849",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/ss_cc50bb10f1858d16a4df684f4dd264bda5d432ba.1920x1080.jpg?t=1656608849"
-    ],
-    "details": {
-      "appID": 501300,
-      "Title": "What Remains of Edith Finch",
-      "Genre": [
-        "Adventure",
         "Indie"
       ],
-      "Developer": "Giant Sparrow",
-      "Publisher": "Annapurna Interactive",
-      "Franchise": "Annapurna Interactive",
-      "Release Date": "24 Apr, 2017"
+      "Developer": "StudioS",
+      "Publisher": "Eroge Japan",
+      "Franchise": "Eroge Japan",
+      "Release Date": "17 Jun, 2022"
     },
-    "description": "What Remains of Edith Finch is a collection of strange tales about a family in Washington state. As Edith, you’ll explore the colossal Finch house, searching for stories as she explores her family history and tries to figure out why she's the last one in her family left alive."
+    "languages": [
+      "English",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "description": "An entire generation of StudioS characters all fighting to be #1! Fight your way to the top with satisfying and easy to execute combos! A unique retro-style game inspired by 90s era handheld fighting games!"
   },
   {
-    "appID": 501310,
-    "title": "Venture Forth",
+    "appID": 1924850,
+    "title": "天狼星奇谭 Tales of Sirius",
     "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256671830/movie480.webm?t=1477037617",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501310/ss_7327a762d09d0ef6446cd96a1b24d4452b30789f.1920x1080.jpg?t=1498000772",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501310/ss_f742cee25e0ed825ea75d828c02cf6032c15d0d9.1920x1080.jpg?t=1498000772",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/501310/ss_cdae4982254d46b448bff5f17864203923d5e2ed.1920x1080.jpg?t=1498000772"
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876456/movie480_vp9.webm?t=1646982689",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924850/ss_45003df1574d30a9f8c9291f0613089305af0fc9.1920x1080.jpg?t=1655873112",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924850/ss_854f4a91164c40386039bf89806df6dd65c69e13.1920x1080.jpg?t=1655873112",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924850/ss_b1bb9323be10b3fd9a3ff07b7e863a5bba1e0588.1920x1080.jpg?t=1655873112"
     ],
     "details": {
-      "appID": 501310,
-      "Title": "Venture Forth",
+      "appID": 1924850,
+      "Title": "天狼星奇谭 Tales of Sirius",
       "Genre": [
-        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "Developer": "WindField Games",
+      "Publisher": "WindField Games",
+      "Release Date": "2022 欢迎关注愿望单"
+    },
+    "languages": [
+      "English",
+      "Simplified Chinese"
+    ],
+    "description": "《天狼星奇谭》是一款像素风格的轻解谜+冒险ARPG。 玩家在游戏中将扮演M市市立中学的普通高中生七叶，因一通神秘的匿名电话而起，由此踏上了寻找自己神秘失踪姐姐的冒险之旅。 在游戏时间为一个假期的游戏流程中，七叶将与自己社团“神研部”的小伙伴们一起穿梭在城市之中，解开谜题，进行战斗，与各方势力周旋，逐渐探寻到事情的真相。 但是，事态真的会像普通的热血冒险故事一样发展吗？"
+  },
+  {
+    "appID": 1924910,
+    "title": "Dr. Chatelet: Faith 神医",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256891021/movie480_vp9.webm?t=1655343882",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924910/ss_a96c420fdad45c7ac46455f158dd58eb942c7d27.1920x1080.jpg?t=1655343891",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924910/ss_30aecfe94b6e20388f50575f33d79697ed82efcc.1920x1080.jpg?t=1655343891",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924910/ss_5f01a5c2d791bc8435f3bbdcfa05027edefe054b.1920x1080.jpg?t=1655343891"
+    ],
+    "details": {
+      "appID": 1924910,
+      "Title": "Dr. Chatelet: Faith 神医",
+      "Genre": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
+      "Developer": "MuccyGames",
+      "Publisher": "MuccyGames",
+      "Release Date": "2022"
+    },
+    "languages": [
+      "English",
+      "Simplified Chinese"
+    ],
+    "description": "Amputations, bloodletting, alchemy - all of which seem unthinkable today - were the treatment options that medieval doctors revered. You must face challenges one after another and experience gains and losses in the course of your constant adventures"
+  },
+  {
+    "appID": 1924930,
+    "title": "Anode Heart",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876141/movie480_vp9.webm?t=1646384465",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1592750/ss_fd6aeb1b3d0cdf5b46e3bb5257e0b11ef66ed829.1920x1080.jpg?t=1646840606",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1592750/ss_4a0ab291482c5f6e77e28147f19f2744860f814b.1920x1080.jpg?t=1646840606",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1592750/ss_57af6f1c8f202de256119afde9508de765f06281.1920x1080.jpg?t=1646840606"
+    ],
+    "details": {
+      "appID": 1924930,
+      "Title": "Anode Heart",
+      "Genre": [
         "Adventure",
         "Indie",
         "RPG"
       ],
-      "Developer": "Arclight Worlds",
-      "Publisher": "Indie Voyage",
-      "Release Date": "20 Jun, 2017"
+      "Developer": "Stochastic",
+      "Publisher": "Stochastic",
+      "Release Date": "End of 2023"
     },
-    "description": "Venture Forth is an extremely challenging adventure game with a retro 90s shooter vibe. Forge your own path within its labyrinthine caves but beware the danger lurking around every corner."
+    "languages": [
+      "English"
+    ],
+    "description": "A semi-open world monster tamer RPG, set in a futuristic environment where digital and analog reality have become indistinguishable from one another."
+  },
+  {
+    "appID": 1924960,
+    "title": "Never Out Of Time",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876352/movie480_vp9.webm?t=1646648629",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924960/ss_d206c9f707188ca5fcae437bf50ee0c8a15b046c.1920x1080.jpg?t=1655368337",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924960/ss_213b42403e7d468fabda27bb92813de1c415e437.1920x1080.jpg?t=1655368337",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924960/ss_1ce5ee26780d64f9c98050a6599e5ade44935018.1920x1080.jpg?t=1655368337"
+    ],
+    "details": {
+      "appID": 1924960,
+      "Title": "Never Out Of Time",
+      "Genre": [
+        "Action",
+        "Indie"
+      ],
+      "Developer": "Refolded Games",
+      "Publisher": "Refolded Games",
+      "Release Date": "When it's done"
+    },
+    "languages": [
+      "English"
+    ],
+    "description": "Survive in an ocean of bullets by dodging, shooting at your foes and manipulating time. You can take as much time as you need and even \"do over\": YOU set the tempo of the action. Will you be able to conquer the space station?"
   }
 ]

@@ -33,12 +33,10 @@ async function scrapePage(appID) {
         const details = await detailsBox.evaluate(el => el.textContent)
 
         const languageBox = await page.$('.game_language_options');
-        const languages = await languageBox.evaluate(el => el.textContent)
-
-        console.log(languages)
+        const languages = await languageBox.evaluate(el => el.innerHTML)
 
         await browser.close()
-        return Promise.all([movLink, img1Link, img2Link, img3Link, description, details, appID])
+        return Promise.all([movLink, img1Link, img2Link, img3Link, description, details, appID, languages])
     }
     catch(err) {await browser.close()}
 
@@ -46,16 +44,17 @@ async function scrapePage(appID) {
 
 
 async function assignMedia() {
+    const validLanguages = ['English', 'Spanish', 'Portuguese', 'German', 'French', 'Italian', 'Czech', 'Danish', 'Dutch', 'Finnish', 'Greek', 'Hungarian', 'Japanese', 'Korean', 'Norwegian', 'Polish', 'Romanian', 'Russian', 'Simplified Chinese', 'Swedish', 'Traditional Chinese', 'Turkish', 'Ukranian', 'Vietnamese', 'Lithuanian', 'Arabic', 'Thai']
     try {
         getAllApps()
         .then(async (response) => {
             const games = response.data.applist.apps
-            for(let i = 3700; i < games.length; i++) {
+            for(let i = 25; i < games.length; i++) {
                 console.log(i)
                 console.log(games[i])
                 try {
                     const game = games[i]
-                    const [movLink, img1Link, img2Link, img3Link, description, details, appID] = await scrapePage(game.appid)
+                    const [movLink, img1Link, img2Link, img3Link, description, details, appID, languages] = await scrapePage(game.appid)
 
                     const detailsArray = details.replace(/\t/g, '').split('\n').map(el => el.trim()).filter(el => el !== '')
                     for (let i = 0; i < detailsArray.length; i++) {
@@ -72,7 +71,13 @@ async function assignMedia() {
                         if (key === 'Genre') detailsObject[key] = value.split(', ')
                         else detailsObject[key] = value
                     })
+                    const supported_languages = []
+                    validLanguages.forEach(language => {
+                        if (languages.indexOf(language) !== -1) supported_languages.push(language)
+                    })
                     console.log(detailsObject)
+
+
                     fs.readFile(`${__dirname}/seeding/data/games.json`, "utf-8")
                     .then(file => {
                         const currentList = JSON.parse(file)
@@ -80,7 +85,7 @@ async function assignMedia() {
 
                         if (!lookup.hasOwnProperty(`${detailsObject.appID}`)) {
                             lookup[detailsObject.appID] = true
-                            currentList.push({appID: detailsObject.appID, title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, description})
+                            currentList.push({appID: detailsObject.appID, title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, languages: supported_languages, description})
                         }
                         fs.writeFile(`${__dirname}/seeding/data/games.json`, JSON.stringify(currentList, null, 2), "utf-8")
                     }).catch(err => console.log('uh oh'))
