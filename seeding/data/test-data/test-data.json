@@ -3,8 +3,7 @@
     "1924820": true,
     "1924850": true,
     "1924910": true,
-    "1924930": true,
-    "1924960": true
+    "1924930": true
   },
   {
     "appID": 1924820,
@@ -25,14 +24,14 @@
       "Developer": "StudioS",
       "Publisher": "Eroge Japan",
       "Franchise": "Eroge Japan",
-      "Release Date": "17 Jun, 2022"
+      "Release Date": "17 Jun, 2022",
+      "languages": [
+        "English",
+        "Japanese",
+        "Simplified Chinese",
+        "Traditional Chinese"
+      ]
     },
-    "languages": [
-      "English",
-      "Japanese",
-      "Simplified Chinese",
-      "Traditional Chinese"
-    ],
     "description": "An entire generation of StudioS characters all fighting to be #1! Fight your way to the top with satisfying and easy to execute combos! A unique retro-style game inspired by 90s era handheld fighting games!"
   },
   {
@@ -53,12 +52,11 @@
       ],
       "Developer": "WindField Games",
       "Publisher": "WindField Games",
-      "Release Date": "2022 欢迎关注愿望单"
+      "Release Date": "2022 欢迎关注愿望单",
+      "languages": [
+        "Simplified Chinese"
+      ]
     },
-    "languages": [
-      "English",
-      "Simplified Chinese"
-    ],
     "description": "《天狼星奇谭》是一款像素风格的轻解谜+冒险ARPG。 玩家在游戏中将扮演M市市立中学的普通高中生七叶，因一通神秘的匿名电话而起，由此踏上了寻找自己神秘失踪姐姐的冒险之旅。 在游戏时间为一个假期的游戏流程中，七叶将与自己社团“神研部”的小伙伴们一起穿梭在城市之中，解开谜题，进行战斗，与各方势力周旋，逐渐探寻到事情的真相。 但是，事态真的会像普通的热血冒险故事一样发展吗？"
   },
   {
@@ -81,12 +79,12 @@
       ],
       "Developer": "MuccyGames",
       "Publisher": "MuccyGames",
-      "Release Date": "2022"
+      "Release Date": "2022",
+      "languages": [
+        "English",
+        "Simplified Chinese"
+      ]
     },
-    "languages": [
-      "English",
-      "Simplified Chinese"
-    ],
     "description": "Amputations, bloodletting, alchemy - all of which seem unthinkable today - were the treatment options that medieval doctors revered. You must face challenges one after another and experience gains and losses in the course of your constant adventures"
   },
   {
@@ -108,36 +106,11 @@
       ],
       "Developer": "Stochastic",
       "Publisher": "Stochastic",
-      "Release Date": "End of 2023"
+      "Release Date": "End of 2023",
+      "languages": [
+        "English"
+      ]
     },
-    "languages": [
-      "English"
-    ],
     "description": "A semi-open world monster tamer RPG, set in a futuristic environment where digital and analog reality have become indistinguishable from one another."
-  },
-  {
-    "appID": 1924960,
-    "title": "Never Out Of Time",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876352/movie480_vp9.webm?t=1646648629",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924960/ss_d206c9f707188ca5fcae437bf50ee0c8a15b046c.1920x1080.jpg?t=1655368337",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924960/ss_213b42403e7d468fabda27bb92813de1c415e437.1920x1080.jpg?t=1655368337",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924960/ss_1ce5ee26780d64f9c98050a6599e5ade44935018.1920x1080.jpg?t=1655368337"
-    ],
-    "details": {
-      "appID": 1924960,
-      "Title": "Never Out Of Time",
-      "Genre": [
-        "Action",
-        "Indie"
-      ],
-      "Developer": "Refolded Games",
-      "Publisher": "Refolded Games",
-      "Release Date": "When it's done"
-    },
-    "languages": [
-      "English"
-    ],
-    "description": "Survive in an ocean of bullets by dodging, shooting at your foes and manipulating time. You can take as much time as you need and even \"do over\": YOU set the tempo of the action. Will you be able to conquer the space station?"
   }
 ]

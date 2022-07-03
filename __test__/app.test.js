@@ -27,10 +27,41 @@ describe('Endpoints', () => {
                 })
             })
         })
+        test('/api/games?language=english', () => {
+            return request(app).get('/api/games?language=english').expect(200).then(({body}) => {
+                expect(body.games.length).not.toBe(0)
+                body.games.forEach(game => {
+                    expect(game.details.languages).toEqual(expect.arrayContaining(['English']))
+                })
+            })
+        })
         test('/api/games/:gameID', () => {
             return request(app).get('/api/games/1924820').expect(200).then(({body}) => {
-                console.log(body)
                 expect(body.game.game_title).toBe("StudioS Fighters: Climax Champions")
+            })
+        })
+    })
+})
+
+describe('Error handling', () => {
+    describe('bad paths', () => {
+        test('Bad path', () => {
+            return request(app).get('/beans').expect(400).then(({body}) => {
+                expect(body.msg).toBe("Endpoint doesn't exist, please view documentation for valid endpoints")
+            })
+        })
+    })
+    describe('custom errors', () => {
+        test('Incorrect language query', () => {
+            return request(app).get('/api/games?language=beans').expect(400).then(({body}) => {
+                expect(body.msg).toBe("That isn't a valid language on Steam")
+            })
+        })
+    })
+    describe('psql errors', () => {
+        test('Incorrect data in param', () => {
+            return request(app).get('/api/games/beans').expect(400).then(({body}) => {
+                expect(body.msg).toBe("URL appID parametric entry of wrong type (expected integer, recieved string)")
             })
         })
     })
