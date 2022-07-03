@@ -1,6 +1,5 @@
 const db = require('../db/connection')
 const format = require('pg-format')
-const data = require('./data/test-data/test-data.json').slice(1)
 const {createRef} = require('../utils/createRef')
 
 
@@ -51,4 +50,4 @@ const seed = (data) => {
     }).then(({rows}) => console.log(rows))
 }
 
-seed(data)
+module.exports = seed

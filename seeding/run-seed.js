@@ -1,4 +1,4 @@
-const data = require('./data/games.json')
+const data = require('./data/games.json').slice(1)
 const seed = require('./seed')
 const db = require('../db/connection')
 
