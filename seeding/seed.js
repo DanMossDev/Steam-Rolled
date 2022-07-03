@@ -46,7 +46,7 @@ const seed = (data) => {
         }))
     
         return db.query(queryString)
-    }).then(({rows}) => console.log(rows))
+    })
 }
 
 module.exports = seed
