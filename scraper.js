@@ -75,7 +75,9 @@ async function assignMedia() {
                     validLanguages.forEach(language => {
                         if (languages.indexOf(language) !== -1) supported_languages.push(language)
                     })
+                    detailsObject.languages = supported_languages
                     console.log(detailsObject)
+
 
 
                     fs.readFile(`${__dirname}/seeding/data/games.json`, "utf-8")
@@ -85,7 +87,7 @@ async function assignMedia() {
 
                         if (!lookup.hasOwnProperty(`${detailsObject.appID}`)) {
                             lookup[detailsObject.appID] = true
-                            currentList.push({appID: detailsObject.appID, title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, languages: supported_languages, description})
+                            currentList.push({appID: detailsObject.appID, title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, description})
                         }
                         fs.writeFile(`${__dirname}/seeding/data/games.json`, JSON.stringify(currentList, null, 2), "utf-8")
                     }).catch(err => console.log('uh oh'))

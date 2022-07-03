@@ -33,7 +33,6 @@ const seed = (data) => {
         }))
         return db.query(linkString)
     }).then(({rows}) => {
-
         const linkRefObj = createRef(rows)
 
         const queryString = format(`
@@ -47,7 +46,7 @@ const seed = (data) => {
         }))
     
         return db.query(queryString)
-    })
+    }).then(({rows}) => console.log(rows))
 }
 
 module.exports = seed
