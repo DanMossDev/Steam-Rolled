@@ -31,6 +31,12 @@ async function scrapePage(appID) {
 
         const detailsBox = await page.$('#genresAndManufacturer')
         const details = await detailsBox.evaluate(el => el.textContent)
+
+        const languageBox = await page.$('.game_language_options');
+        const languages = await languageBox.evaluate(el => el.textContent)
+
+        console.log(languages)
+
         await browser.close()
         return Promise.all([movLink, img1Link, img2Link, img3Link, description, details, appID])
     }
