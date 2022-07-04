@@ -1,38 +1,11 @@
 [
   {
+    "1924730": true,
+    "1924740": true,
+    "1924750": true,
+    "1924810": true,
     "1924820": true,
-    "1924850": true,
-    "1924910": true,
-    "1924930": true
-  },
-  {
-    "appID": 1924820,
-    "title": "StudioS Fighters: Climax Champions",
-    "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876018/movie480_vp9.webm?t=1651484896",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_4366f5b5702238813499ed51b8f3b150a9db8f5b.1920x1080.jpg?t=1656034711",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_8190b6d226f2cc7898eebcdb20afe5cc612de370.1920x1080.jpg?t=1656034711",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_cb618213dd7dec3c047b3c11b0e0b4deabca4ce9.1920x1080.jpg?t=1656034711"
-    ],
-    "details": {
-      "appID": 1924820,
-      "Title": "StudioS Fighters: Climax Champions",
-      "Genre": [
-        "Action",
-        "Indie"
-      ],
-      "Developer": "StudioS",
-      "Publisher": "Eroge Japan",
-      "Franchise": "Eroge Japan",
-      "Release Date": "17 Jun, 2022",
-      "languages": [
-        "English",
-        "Japanese",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ]
-    },
-    "description": "An entire generation of StudioS characters all fighting to be #1! Fight your way to the top with satisfying and easy to execute combos! A unique retro-style game inspired by 90s era handheld fighting games!"
+    "1924850": true
   },
   {
     "appID": 1924850,
@@ -46,72 +19,153 @@
     "details": {
       "appID": 1924850,
       "Title": "天狼星奇谭 Tales of Sirius",
-      "Genre": [
-        "Adventure",
-        "RPG"
-      ],
       "Developer": "WindField Games",
       "Publisher": "WindField Games",
-      "Release Date": "2022 欢迎关注愿望单",
-      "languages": [
-        "English",
-        "Simplified Chinese"
-      ]
+      "Release Date": "2022 欢迎关注愿望单"
     },
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "languages": [
+      "English",
+      "Simplified Chinese"
+    ],
     "description": "《天狼星奇谭》是一款像素风格的轻解谜+冒险ARPG。 玩家在游戏中将扮演M市市立中学的普通高中生七叶，因一通神秘的匿名电话而起，由此踏上了寻找自己神秘失踪姐姐的冒险之旅。 在游戏时间为一个假期的游戏流程中，七叶将与自己社团“神研部”的小伙伴们一起穿梭在城市之中，解开谜题，进行战斗，与各方势力周旋，逐渐探寻到事情的真相。 但是，事态真的会像普通的热血冒险故事一样发展吗？"
   },
   {
-    "appID": 1924910,
-    "title": "Dr. Chatelet: Faith 神医",
+    "appID": 1924730,
+    "title": "M-1グランプリへの道　～俺たちの出囃子はもう鳴っている～",
     "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256891021/movie480_vp9.webm?t=1655343882",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924910/ss_a96c420fdad45c7ac46455f158dd58eb942c7d27.1920x1080.jpg?t=1655343891",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924910/ss_30aecfe94b6e20388f50575f33d79697ed82efcc.1920x1080.jpg?t=1655343891",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924910/ss_5f01a5c2d791bc8435f3bbdcfa05027edefe054b.1920x1080.jpg?t=1655343891"
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256877746/movie480_vp9.webm?t=1647633565",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924730/ss_db22bdea945b68de8281f08322f1b7c16c7e9fa3.1920x1080.jpg?t=1648105919",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924730/ss_5906825ac37425e80b46513e3de661b6ad751c40.1920x1080.jpg?t=1648105919",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924730/ss_652753fbaf74d8e42e21f6fb37c02e0cb496336d.1920x1080.jpg?t=1648105919"
     ],
     "details": {
-      "appID": 1924910,
-      "Title": "Dr. Chatelet: Faith 神医",
-      "Genre": [
-        "Casual",
-        "Indie",
-        "RPG",
-        "Simulation"
-      ],
-      "Developer": "MuccyGames",
-      "Publisher": "MuccyGames",
-      "Release Date": "2022",
-      "languages": [
-        "English",
-        "Simplified Chinese"
-      ]
+      "appID": 1924730,
+      "Title": "M-1グランプリへの道　～俺たちの出囃子はもう鳴っている～",
+      "Developer": "FANY GAMES",
+      "Publisher": "YOSHIMOTO KOGYO CO., LTD.",
+      "Release Date": "24 Mar, 2022"
     },
-    "description": "Amputations, bloodletting, alchemy - all of which seem unthinkable today - were the treatment options that medieval doctors revered. You must face challenges one after another and experience gains and losses in the course of your constant adventures"
+    "genres": [
+      "Action"
+    ],
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "description": "This is an exciting horizontal scrolling action game set in the world of \"M-1 Grand Prix\". Numerous rivals stand in the way stopping you, a comedian duo, from reaching the stage. Who will be waiting for you when they reach the final stage?"
   },
   {
-    "appID": 1924930,
-    "title": "Anode Heart",
+    "appID": 1924740,
+    "title": "捍卫SafeGuard",
     "links": [
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876141/movie480_vp9.webm?t=1646384465",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1592750/ss_fd6aeb1b3d0cdf5b46e3bb5257e0b11ef66ed829.1920x1080.jpg?t=1646840606",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1592750/ss_4a0ab291482c5f6e77e28147f19f2744860f814b.1920x1080.jpg?t=1646840606",
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1592750/ss_57af6f1c8f202de256119afde9508de765f06281.1920x1080.jpg?t=1646840606"
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876017/movie480_vp9.webm?t=1647752456",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924740/ss_18c4c6914acecebaed48166ae0051f08d0e11e0a.1920x1080.jpg?t=1650883871",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924740/ss_33b825e7440a8100b079f587747f7a10d240a581.1920x1080.jpg?t=1650883871",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924740/ss_8c9a5bfd4f050bb772bf2082b47d2653b6dd4da3.1920x1080.jpg?t=1650883871"
     ],
     "details": {
-      "appID": 1924930,
-      "Title": "Anode Heart",
-      "Genre": [
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
-      "Developer": "Stochastic",
-      "Publisher": "Stochastic",
-      "Release Date": "End of 2023",
-      "languages": [
-        "English"
-      ]
+      "appID": 1924740,
+      "Title": "捍卫SafeGuard",
+      "Developer": "Sat.Ind",
+      "Publisher": "Sat.Ind",
+      "Release Date": "16 Mar, 2022",
+      "Early Access Release Date": "16 Mar, 2022"
     },
-    "description": "A semi-open world monster tamer RPG, set in a futuristic environment where digital and analog reality have become indistinguishable from one another."
+    "genres": [
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "languages": [
+      "English",
+      "Simplified Chinese"
+    ],
+    "description": "This game is a first person shooting game, players could choose different characters to join match, cooperate to occupy the stronghold."
+  },
+  {
+    "appID": 1924750,
+    "title": "Rainboy",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256891468/movie480_vp9.webm?t=1655095646",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1758250/ss_be03caa692e156a8552e80931f429ef4c88eadfc.1920x1080.jpg?t=1655095656",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1758250/ss_58b1fea9d27cd47de20eea93d3acbaf2ccd3f958.1920x1080.jpg?t=1655095656",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1758250/ss_3d24a7cb185ebb3d41bc663a19a0e0901c53201a.1920x1080.jpg?t=1655095656"
+    ],
+    "details": {
+      "appID": 1924750,
+      "Title": "Rainboy",
+      "Developer": "seallliogames, seallliogames",
+      "Publisher": "seallliogames",
+      "Release Date": "Coming Soon"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "languages": [
+      "English"
+    ],
+    "description": "Rainboy is a precision platformer with 100s of exhilarating levels! You were brought into this universe knowing nothing... Join Rainboy and Dart on a journey around the world as they discover the meaning of their existence!"
+  },
+  {
+    "appID": 1924810,
+    "title": "Kamiwaza: Way of the Thief",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256880331/movie480_vp9.webm?t=1648740523",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924810/ss_74af954d9e443356e1645fcbbb4364b248544229.1920x1080.jpg?t=1655944675",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924810/ss_6cb4cb4f90a42721b361812d3507a0af999e59fd.1920x1080.jpg?t=1655944675",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924810/ss_05fca082b7f6bbb3c922d648bbcfb57c9bf1e1b1.1920x1080.jpg?t=1655944675"
+    ],
+    "details": {
+      "appID": 1924810,
+      "Title": "Kamiwaza: Way of the Thief",
+      "Developer": "ACQUIRE Corp.",
+      "Publisher": "NIS America, Inc.",
+      "Release Date": "11 Oct, 2022"
+    },
+    "genres": [
+      "Action"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "Korean",
+      "Traditional Chinese"
+    ],
+    "description": "Join honorable thief Ebizo on the streets of Mikado, and put your thieving skills to the test! Will you walk the path of honor for the sake of family? The choice is yours to make."
+  },
+  {
+    "appID": 1924820,
+    "title": "StudioS Fighters: Climax Champions",
+    "links": [
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/256876018/movie480_vp9.webm?t=1651484896",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_4366f5b5702238813499ed51b8f3b150a9db8f5b.1920x1080.jpg?t=1656034711",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_8190b6d226f2cc7898eebcdb20afe5cc612de370.1920x1080.jpg?t=1656034711",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_cb618213dd7dec3c047b3c11b0e0b4deabca4ce9.1920x1080.jpg?t=1656034711"
+    ],
+    "details": {
+      "appID": 1924820,
+      "Title": "StudioS Fighters: Climax Champions",
+      "Developer": "StudioS",
+      "Publisher": "Eroge Japan",
+      "Franchise": "Eroge Japan",
+      "Release Date": "17 Jun, 2022"
+    },
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "description": "An entire generation of StudioS characters all fighting to be #1! Fight your way to the top with satisfying and easy to execute combos! A unique retro-style game inspired by 90s era handheld fighting games!"
   }
 ]

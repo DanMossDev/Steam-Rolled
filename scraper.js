@@ -49,7 +49,7 @@ async function assignMedia() {
         getAllApps()
         .then(async (response) => {
             const games = response.data.applist.apps
-            for(let i = 25; i < games.length; i++) {
+            for(let i = 20; i < games.length; i++) {
                 console.log(i)
                 console.log(games[i])
                 try {

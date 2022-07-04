@@ -50,12 +50,12 @@
       "Publisher": "WindField Games",
       "Release Date": "2022 欢迎关注愿望单"
     },
-    "languages": [
-      "Simplified Chinese"
-    ],
     "genres": [
       "Adventure",
       "RPG"
+    ],
+    "languages": [
+      "Simplified Chinese"
     ],
     "description": "《天狼星奇谭》是一款像素风格的轻解谜+冒险ARPG。 玩家在游戏中将扮演M市市立中学的普通高中生七叶，因一通神秘的匿名电话而起，由此踏上了寻找自己神秘失踪姐姐的冒险之旅。 在游戏时间为一个假期的游戏流程中，七叶将与自己社团“神研部”的小伙伴们一起穿梭在城市之中，解开谜题，进行战斗，与各方势力周旋，逐渐探寻到事情的真相。 但是，事态真的会像普通的热血冒险故事一样发展吗？"
   },
@@ -75,15 +75,15 @@
       "Publisher": "MuccyGames",
       "Release Date": "2022"
     },
-    "languages": [
-      "English",
-      "Simplified Chinese"
-    ],
     "genres": [
       "Casual",
       "Indie",
       "RPG",
       "Simulation"
+    ],
+    "languages": [
+      "English",
+      "Simplified Chinese"
     ],
     "description": "Amputations, bloodletting, alchemy - all of which seem unthinkable today - were the treatment options that medieval doctors revered. You must face challenges one after another and experience gains and losses in the course of your constant adventures"
   },
@@ -103,13 +103,13 @@
       "Publisher": "Stochastic",
       "Release Date": "End of 2023"
     },
-    "languages": [
-      "English"
-    ],
     "genres": [
       "Adventure",
       "Indie",
       "RPG"
+    ],
+    "languages": [
+      "English"
     ],
     "description": "A semi-open world monster tamer RPG, set in a futuristic environment where digital and analog reality have become indistinguishable from one another."
   }
