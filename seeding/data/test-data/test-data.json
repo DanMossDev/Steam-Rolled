@@ -17,21 +17,21 @@
     "details": {
       "appID": 1924820,
       "Title": "StudioS Fighters: Climax Champions",
-      "Genre": [
-        "Action",
-        "Indie"
-      ],
       "Developer": "StudioS",
       "Publisher": "Eroge Japan",
       "Franchise": "Eroge Japan",
-      "Release Date": "17 Jun, 2022",
-      "languages": [
-        "English",
-        "Japanese",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ]
+      "Release Date": "17 Jun, 2022"
     },
+    "languages": [
+      "English",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
     "description": "An entire generation of StudioS characters all fighting to be #1! Fight your way to the top with satisfying and easy to execute combos! A unique retro-style game inspired by 90s era handheld fighting games!"
   },
   {
@@ -46,17 +46,17 @@
     "details": {
       "appID": 1924850,
       "Title": "天狼星奇谭 Tales of Sirius",
-      "Genre": [
-        "Adventure",
-        "RPG"
-      ],
       "Developer": "WindField Games",
       "Publisher": "WindField Games",
-      "Release Date": "2022 欢迎关注愿望单",
-      "languages": [
-        "Simplified Chinese"
-      ]
+      "Release Date": "2022 欢迎关注愿望单"
     },
+    "languages": [
+      "Simplified Chinese"
+    ],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
     "description": "《天狼星奇谭》是一款像素风格的轻解谜+冒险ARPG。 玩家在游戏中将扮演M市市立中学的普通高中生七叶，因一通神秘的匿名电话而起，由此踏上了寻找自己神秘失踪姐姐的冒险之旅。 在游戏时间为一个假期的游戏流程中，七叶将与自己社团“神研部”的小伙伴们一起穿梭在城市之中，解开谜题，进行战斗，与各方势力周旋，逐渐探寻到事情的真相。 但是，事态真的会像普通的热血冒险故事一样发展吗？"
   },
   {
@@ -71,20 +71,20 @@
     "details": {
       "appID": 1924910,
       "Title": "Dr. Chatelet: Faith 神医",
-      "Genre": [
-        "Casual",
-        "Indie",
-        "RPG",
-        "Simulation"
-      ],
       "Developer": "MuccyGames",
       "Publisher": "MuccyGames",
-      "Release Date": "2022",
-      "languages": [
-        "English",
-        "Simplified Chinese"
-      ]
+      "Release Date": "2022"
     },
+    "languages": [
+      "English",
+      "Simplified Chinese"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
     "description": "Amputations, bloodletting, alchemy - all of which seem unthinkable today - were the treatment options that medieval doctors revered. You must face challenges one after another and experience gains and losses in the course of your constant adventures"
   },
   {
@@ -99,18 +99,18 @@
     "details": {
       "appID": 1924930,
       "Title": "Anode Heart",
-      "Genre": [
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
       "Developer": "Stochastic",
       "Publisher": "Stochastic",
-      "Release Date": "End of 2023",
-      "languages": [
-        "English"
-      ]
+      "Release Date": "End of 2023"
     },
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
     "description": "A semi-open world monster tamer RPG, set in a futuristic environment where digital and analog reality have become indistinguishable from one another."
   }
 ]

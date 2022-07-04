@@ -44,7 +44,7 @@ async function scrapePage(appID) {
 
 
 async function assignMedia() {
-    const validLanguages = ['English', 'Spanish', 'Portuguese', 'German', 'French', 'Italian', 'Czech', 'Danish', 'Dutch', 'Finnish', 'Greek', 'Hungarian', 'Japanese', 'Korean', 'Norwegian', 'Polish', 'Romanian', 'Russian', 'Simplified Chinese', 'Swedish', 'Traditional Chinese', 'Turkish', 'Ukranian', 'Vietnamese', 'Lithuanian', 'Arabic', 'Thai']
+    const validLanguages = require('./utils/tags').languages
     try {
         getAllApps()
         .then(async (response) => {
@@ -75,7 +75,6 @@ async function assignMedia() {
                     validLanguages.forEach(language => {
                         if (languages.indexOf(language) !== -1) supported_languages.push(language)
                     })
-                    detailsObject.languages = supported_languages
                     const genres = detailsObject.Genre
                     delete detailsObject.Genre
                     console.log(detailsObject)
@@ -89,7 +88,7 @@ async function assignMedia() {
 
                         if (!lookup.hasOwnProperty(`${detailsObject.appID}`)) {
                             lookup[detailsObject.appID] = true
-                            currentList.push({appID: detailsObject.appID, title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, genres, description})
+                            currentList.push({appID: detailsObject.appID, title: detailsObject.Title, links: [movLink, img1Link, img2Link, img3Link], details: detailsObject, genres, languages: supported_languages, description})
                         }
                         fs.writeFile(`${__dirname}/seeding/data/games.json`, JSON.stringify(currentList, null, 2), "utf-8")
                     }).catch(err => console.log('uh oh'))

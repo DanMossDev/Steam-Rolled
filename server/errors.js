@@ -13,7 +13,9 @@ exports.psqlError = (err, req, res, next) => {
     switch (err.code) {
         case '22P02':
             res.status(400).send({msg: "URL appID parametric entry of wrong type (expected integer, recieved string)"})
-        default:
+        case '23503': //POST to a valid but nonexistent location
+            res.status(404).send({msg: err.detail})
+            default:
             next(err)
             break;
     }

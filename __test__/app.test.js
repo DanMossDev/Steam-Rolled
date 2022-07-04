@@ -24,21 +24,39 @@ describe('Endpoints', () => {
                     expect(Array.isArray(game.links)).toBe(true)
                     expect(game.hasOwnProperty('details')).toBe(true)
                     expect(game.hasOwnProperty('description')).toBe(true)
+                    expect(game.hasOwnProperty('genres')).toBe(true)
+                    expect(game.hasOwnProperty('languages')).toBe(true)
                 })
-            })
-        })
-        test('/api/games?language=english', () => {
-            return request(app).get('/api/games?language=english').expect(200).then(({body}) => {
-                expect(body.games.length).not.toBe(0)
-                body.games.forEach(game => {
-                    expect(game.details.languages).toEqual(expect.arrayContaining(['English']))
-                })
+                expect(body.games[0].links).toEqual([
+                    [
+                      'https://cdn.cloudflare.steamstatic.com/steam/apps/256876018/movie480_vp9.webm?t=1651484896',
+                      'https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_4366f5b5702238813499ed51b8f3b150a9db8f5b.1920x1080.jpg?t=1656034711',
+                      'https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_8190b6d226f2cc7898eebcdb20afe5cc612de370.1920x1080.jpg?t=1656034711',
+                      'https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_cb618213dd7dec3c047b3c11b0e0b4deabca4ce9.1920x1080.jpg?t=1656034711'
+                    ]
+                  ])
             })
         })
         test('/api/games/:gameID', () => {
             return request(app).get('/api/games/1924820').expect(200).then(({body}) => {
                 expect(body.game.game_title).toBe("StudioS Fighters: Climax Champions")
             })
+        })
+    })
+})
+
+describe('Optional queries', () => {
+    describe('GET /api/games', () => {
+        test('/api/games?language=___', () => {
+            return request(app).get('/api/games?language=english').expect(200).then(({body}) => {
+                expect(body.games.length).not.toBe(0)
+                body.games.forEach(game => {
+                    expect(game.languages).toEqual(expect.arrayContaining(['English']))
+                })
+            })
+        })
+        test('/api/games?genre=___', () => {
+            return request(app).get('/api/games?genre=')
         })
     })
 })
