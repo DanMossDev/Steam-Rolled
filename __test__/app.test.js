@@ -17,7 +17,7 @@ describe('Endpoints', () => {
     describe('GET', () => {
         test('/api/games', () => {
             return request(app).get('/api/games').expect(200).then(({body}) => {
-                body.games.forEach(game => {
+                body.forEach(game => {
                     expect(game.hasOwnProperty('app_id')).toBe(true)
                     expect(game.hasOwnProperty('game_title')).toBe(true)
                     expect(game.hasOwnProperty('links')).toBe(true)
@@ -27,7 +27,7 @@ describe('Endpoints', () => {
                     expect(game.hasOwnProperty('genres')).toBe(true)
                     expect(game.hasOwnProperty('languages')).toBe(true)
                 })
-                expect(body.games[0].links).toEqual([
+                expect(body[0].links).toEqual([
                     [
                       'https://cdn.cloudflare.steamstatic.com/steam/apps/256876018/movie480_vp9.webm?t=1651484896',
                       'https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_4366f5b5702238813499ed51b8f3b150a9db8f5b.1920x1080.jpg?t=1656034711',
@@ -39,7 +39,17 @@ describe('Endpoints', () => {
         })
         test('/api/games/:gameID', () => {
             return request(app).get('/api/games/1924820').expect(200).then(({body}) => {
-                expect(body.game.game_title).toBe("StudioS Fighters: Climax Champions")
+                expect(body.game_title).toBe("StudioS Fighters: Climax Champions")
+            })
+        })
+        test('/api/games/:gameID/links', () => {
+            return request(app).get('/api/games/1924820/links').expect(200).then(({body}) => {
+                expect(body).toEqual({
+                    link1: 'https://cdn.cloudflare.steamstatic.com/steam/apps/256876018/movie480_vp9.webm?t=1651484896',
+                    link2: 'https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_4366f5b5702238813499ed51b8f3b150a9db8f5b.1920x1080.jpg?t=1656034711',
+                    link3: 'https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_8190b6d226f2cc7898eebcdb20afe5cc612de370.1920x1080.jpg?t=1656034711',
+                    link4: 'https://cdn.cloudflare.steamstatic.com/steam/apps/1924820/ss_cb618213dd7dec3c047b3c11b0e0b4deabca4ce9.1920x1080.jpg?t=1656034711'
+                  })
             })
         })
     })
@@ -49,8 +59,8 @@ describe('Optional queries', () => {
     describe('GET /api/games', () => {
         test('/api/games?language=___', () => {
             return request(app).get('/api/games?language=english').expect(200).then(({body}) => {
-                expect(body.games.length).not.toBe(0)
-                body.games.forEach(game => {
+                expect(body.length).not.toBe(0)
+                body.forEach(game => {
                     expect(game.languages).toEqual(expect.arrayContaining(['English']))
                 })
             })
@@ -60,6 +70,8 @@ describe('Optional queries', () => {
         })
     })
 })
+
+
 
 describe('Error handling', () => {
     describe('bad paths', () => {
@@ -77,8 +89,13 @@ describe('Error handling', () => {
         })
     })
     describe('psql errors', () => {
-        test('Incorrect data in param', () => {
+        test('Incorrect app_ID for get/api/games/:app_ID', () => {
             return request(app).get('/api/games/beans').expect(400).then(({body}) => {
+                expect(body.msg).toBe("URL appID parametric entry of wrong type (expected integer, recieved string)")
+            })
+        })
+        test('Incorrect app_ID for get/api/games/:app_ID/links', () => {
+            return request(app).get('/api/games/beans/links').expect(400).then(({body}) => {
                 expect(body.msg).toBe("URL appID parametric entry of wrong type (expected integer, recieved string)")
             })
         })

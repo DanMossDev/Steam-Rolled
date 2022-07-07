@@ -1,5 +1,6 @@
 const db = require('../db/connection')
 const {languages} = require('../utils/tags')
+const app = require('./app')
 
 exports.fetchGames = (language) => {
     let query = `
@@ -28,6 +29,15 @@ exports.fetchGameByID = (app_ID) => {
     JOIN games_languages ON games_languages.app_id = games.app_id
     WHERE games.app_id = $1
     GROUP BY games.app_id
+    `, [app_ID])
+    .then(({rows}) => rows[0])
+}
+
+exports.fetchLinksByID = (app_ID) => {
+    return db.query(`
+    SELECT link1, link2, link3, link4 FROM links
+    JOIN games ON games.links = links.link_id
+    WHERE app_id = $1
     `, [app_ID])
     .then(({rows}) => rows[0])
 }

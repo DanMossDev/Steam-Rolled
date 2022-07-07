@@ -1,8 +1,5 @@
 const express = require('express')
-const {
-    getGames,
-    getGameByID
-} = require('./controller')
+const router = require('./router')
 
 const {
     badEndpoint,
@@ -14,10 +11,8 @@ const app = express();
 
 app.use(express.json());
 
-//endpoints
-app.get('/api/games', getGames)
-
-app.get('/api/games/:app_ID', getGameByID)
+//Routing
+app.use('/api/games', router)
 
 //error handling
 app.use('*', badEndpoint)

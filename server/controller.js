@@ -1,22 +1,29 @@
 const {
     fetchGames,
-    fetchGameByID
+    fetchGameByID,
+    fetchLinksByID
 } = require('./model')
 
-exports.getGames = (req, res, next) => {
+exports.getGames = async (req, res, next) => {
     const {language} = req.query
-    fetchGames(language)
-    .then(games => {
-        res.send({games})
-    })
-    .catch(err => next(err))
+    try {
+    const games = await fetchGames(language)
+    res.status(200).send(games)
+    } catch(err) { next(err) }
 }
 
-exports.getGameByID = (req, res, next) => {
+exports.getGameByID = async (req, res, next) => {
     const {app_ID} = req.params
-    fetchGameByID(app_ID)
-    .then(game => {
-        res.send({game})
-    })
-    .catch(err => next(err))
+    try {
+    const game = await fetchGameByID(app_ID)
+    res.status(200).send(game)
+    } catch(err) { next(err) }
+}
+
+exports.getLinksByID = async (req, res, next) => {
+    const {app_ID} = req.params
+    try {
+    const links = await fetchLinksByID(app_ID)
+    res.status(200).send(links)
+    } catch(err) { next(err) }
 }
