@@ -49,7 +49,8 @@ async function assignMedia() {
         getAllApps()
         .then(async (response) => {
             const games = response.data.applist.apps
-            for(let i = 1300; i < games.length; i++) {
+            //const games = [{appid: 312530}] allows scraping of specific game
+            for(let i = 20000; i < games.length; i++) { // SCRAPED: 0-3444 || 20000-27000
                 console.log(i)
                 console.log(games[i])
                 try {
