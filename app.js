@@ -1,11 +1,11 @@
 const express = require('express')
-const router = require('./router')
+const router = require('./server/router')
 
 const {
     badEndpoint,
     customError, 
     psqlError
-} = require('./errors')
+} = require('./server/errors')
 
 const app = express();
 

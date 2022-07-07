@@ -1,5 +1,5 @@
 const request = require('supertest')
-const app = require('../server/app')
+const app = require('../app')
 const db = require('../db/connection')
 const seed = require('../seeding/seed.js')
 const testData = require('../seeding/data/test-data/test-data.json').slice(1)

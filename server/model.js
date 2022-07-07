@@ -1,6 +1,5 @@
 const db = require('../db/connection')
 const {languages} = require('../utils/tags')
-const app = require('./app')
 
 exports.fetchGames = (language) => {
     let query = `
