@@ -87,6 +87,11 @@ describe('Error handling', () => {
                 expect(body.msg).toBe("That isn't a valid language on Steam")
             })
         })
+        test('Valid but nonexistent query of app_ID', () => {
+            return request(app).get('/api/games/12345').expect(404).then(({body}) => {
+                expect(body.msg).toBe("Sorry, there is no game with that ID in our database.")
+            })
+        })
     })
     describe('psql errors', () => {
         test('Incorrect app_ID for get/api/games/:app_ID', () => {

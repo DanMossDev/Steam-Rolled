@@ -29,7 +29,10 @@ exports.fetchGameByID = (app_ID) => {
     WHERE games.app_id = $1
     GROUP BY games.app_id
     `, [app_ID])
-    .then(({rows}) => rows[0])
+    .then(({rows}) => {
+        if (rows[0]) return rows[0]
+        else return Promise.reject({statusCode: 404, msg: "Sorry, there is no game with that ID in our database."})
+    })
 }
 
 exports.fetchLinksByID = (app_ID) => {
