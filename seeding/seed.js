@@ -84,8 +84,7 @@ const seed = (data) => {
     })
     .then(() => {
         const gamesGenresArray = []
-
-        data.forEach(game => {
+        data.forEach((game, i) => {
             game.genres.forEach(genrePresent => {
                 gamesGenresArray.push([game.appID, `${genrePresent}`])
             })
