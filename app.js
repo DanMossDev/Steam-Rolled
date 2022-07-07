@@ -11,8 +11,12 @@ const app = express();
 
 app.use(express.json());
 
+//Entry end points
+app.get('/', (req, res) => res.status(200).send({msg: "Welcome to Steam Rolled! For a list of available end points, try a GET request to /api"}))
+
 //Routing
-app.use('/api/games', router)
+app.use('/api', router)
+
 
 //error handling
 app.use('*', badEndpoint)

@@ -1,8 +1,17 @@
+const fs = require('fs/promises')
 const {
     fetchGames,
     fetchGameByID,
     fetchLinksByID
 } = require('./model')
+
+exports.getEndpoints = async (req, res, next) => {
+    try {
+    const endpoints = await fs.readFile(`${__dirname}/../endpoints.json`, "utf-8")
+    console.log(endpoints)
+    res.status(200).send(endpoints)
+    } catch (err) { next(err) }
+}
 
 exports.getGames = async (req, res, next) => {
     const {language} = req.query

@@ -1,0 +1,12 @@
+{
+    "GET /api/games": {
+        "description": "Serves an array of all games, can be sorted by various queries",
+        "queries": ["language", "genre"]
+    },
+    "GET /api/games/:app_ID": {
+        "description": "Serves an object containing the game with the passed app_ID, that being the ID from Steam (i.e. 1174180 = Red Dead Redemption 2)"
+    },
+    "GET /api/games/:app_ID/links": {
+        "description": "Serves an object containing a link to the first video on the Steam profile of the requested game, and the first 3 images"
+    }
+}
