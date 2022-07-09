@@ -28,12 +28,17 @@ exports.verifyUser = (email, password) => {
             WHERE user_id = $1
             `, [currentUser])
         }
-    }).then(({rows}) => {rows, currentUser})
+    }).then(({rows}) => {
+        return {games: rows, currentUser}
+    })
 }
 
 exports.addNewGameForUser = (app_id, user_id) => {
     return db.query(`
     INSERT INTO users_games
     (app_id, user_id)
+    VALUES
+    ($1, $2)
     `, [app_id, user_id])
 }
+
