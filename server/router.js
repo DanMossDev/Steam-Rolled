@@ -9,7 +9,8 @@ const {
 const {
     getAllUsernames,
     userLogin,
-    postNewUser
+    postNewUser,
+    postNewGameForUser
 } = require('./userController')
 
 const router = express.Router()
