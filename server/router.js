@@ -44,5 +44,9 @@ router
     .post(postNewUser)
     //.delete(deleteUser)
 
+router
+    .route('/users/games')
+    .post(postNewGameForUser)
+
 
 module.exports = router

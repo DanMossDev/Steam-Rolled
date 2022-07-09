@@ -15,11 +15,25 @@ exports.createNewUser = (username, email, password) => {
 }
 
 exports.verifyUser = (email, password) => {
+    let currentUser
     return db.query(`
     SELECT user_id, username, email FROM users
     WHERE email = $1 AND password = $2
     `, [email, password]).then(({rows}) => {
-        if (rows[0]) return rows[0]
-        else return Promise.reject({statusCode: 400, msg: "Incorrect email or password"})
-    })
+        if (!rows[0]) return Promise.reject({statusCode: 400, msg: "Incorrect email or password"})
+        else {
+            currentUser = rows[0].user_id
+            return db.query(`
+            SELECT app_id FROM users_games
+            WHERE user_id = $1
+            `, [currentUser])
+        }
+    }).then(({rows}) => {rows, currentUser})
+}
+
+exports.addNewGameForUser = (app_id, user_id) => {
+    return db.query(`
+    INSERT INTO users_games
+    (app_id, user_id)
+    `, [app_id, user_id])
 }

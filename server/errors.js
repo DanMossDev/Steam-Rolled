@@ -24,5 +24,5 @@ exports.psqlError = (err, req, res, next) => {
 }
 
 exports.unhandledError = (err, req, res, next) => {
-    res.status(500).send({msg: "Sorry, looks like something broke!"})
+    return res.status(500).send({msg: "Sorry, looks like something broke!"})
 }

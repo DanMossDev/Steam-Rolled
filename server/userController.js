@@ -3,7 +3,8 @@ const crypto = require('crypto')
 const {
     fetchAllUsernames,
     createNewUser,
-    verifyUser
+    verifyUser,
+    addNewGameForUser
 } = require('./userModel')
 
 exports.getAllUsernames = async (req, res, next) => {
@@ -34,5 +35,14 @@ exports.userLogin = async (req, res, next) => {
     try {
     const userDetails = await verifyUser(email, hashedWord)
     res.status(200).send(userDetails)
+    } catch (err) { next(err) }
+}
+
+exports.postNewGameForUser = async (req, res, next) => {
+    const {app_id, user_id} = req.body
+    if (!app_id) return next({statusCode: 400, msg: "No app_id found"})
+    try {
+    await addNewGameForUser(app_id, user_id)
+    res.status(204).send()
     } catch (err) { next(err) }
 }
