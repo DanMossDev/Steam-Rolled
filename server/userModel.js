@@ -29,7 +29,8 @@ exports.verifyUser = (email, password) => {
             `, [currentUser])
         }
     }).then(({rows}) => {
-        return {games: rows, currentUser}
+        const games = rows.map(el => el.app_id)
+        return {user_id: currentUser, games}
     })
 }
 
