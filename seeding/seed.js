@@ -38,16 +38,17 @@ const seed = (data) => {
     CREATE TABLE games_languages (
         app_id INT REFERENCES games(app_id),
         language VARCHAR(100) REFERENCES languages(language)
-    );
-    CREATE TABLE users (
-        user_id BIGSERIAL PRIMARY KEY,
-        email VARCHAR(200) UNIQUE,
-        password VARCHAR(200)
-    );
-    CREATE TABLE users_games (
-        user_id INT REFERENCES users(user_id),
-        app_id INT REFERENCES games(app_id)
-    )`
+    );`
+    // CREATE TABLE users (
+    //     user_id BIGSERIAL PRIMARY KEY,
+    //     email VARCHAR(200) UNIQUE,
+    //     password VARCHAR(200)
+    // );
+    // CREATE TABLE users_games (
+    //     user_id INT REFERENCES users(user_id),
+    //     app_id INT REFERENCES games(app_id)
+    // )
+    // ALTER TABLE users ADD username VARCHAR(200)
     ).then(() => {
         const genresString = format(`
         INSERT INTO genres
