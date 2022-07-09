@@ -26,7 +26,7 @@ app.use('/api', router)
 app.use('*', badEndpoint)
 app.use(customError)
 app.use(psqlError)
-app.use(unhandledError)
+//app.use(unhandledError)
  
 
 module.exports = app
