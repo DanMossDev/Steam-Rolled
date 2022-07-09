@@ -1,7 +1,8 @@
 const crypto = require('crypto')
 
 const {
-    fetchAllUsernames
+    fetchAllUsernames,
+    createNewUser
 } = require('./userModel')
 
 exports.getAllUsernames = async (req, res, next) => {
