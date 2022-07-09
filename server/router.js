@@ -36,13 +36,13 @@ router
 
 router
     .route('/users/login')
-    .post(userLogin)
+    //.post(userLogin)
     //.patch(changePassword)
 
 router
     .route('/users/register')
     .post(postNewUser)
-    .delete(deleteUser)
+    //.delete(deleteUser)
 
 
 module.exports = router
