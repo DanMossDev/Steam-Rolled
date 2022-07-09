@@ -36,7 +36,7 @@ router
 
 router
     .route('/users/login')
-    //.post(userLogin)
+    .post(userLogin)
     //.patch(changePassword)
 
 router

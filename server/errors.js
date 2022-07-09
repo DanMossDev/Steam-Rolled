@@ -15,8 +15,14 @@ exports.psqlError = (err, req, res, next) => {
             res.status(400).send({msg: "URL appID parametric entry of wrong type (expected integer, recieved string)"})
         case '23503': //POST to a valid but nonexistent location
             res.status(404).send({msg: err.detail})
-            default:
+        case '23505':
+            res.status(400).send({msg: "That email address has already been registered."})
+        default:
             next(err)
             break;
     }
+}
+
+exports.unhandledError = (err, req, res, next) => {
+    res.status(500).send({msg: "Sorry, looks like something broke!"})
 }

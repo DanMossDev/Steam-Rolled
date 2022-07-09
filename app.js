@@ -5,7 +5,8 @@ const router = require('./server/router')
 const {
     badEndpoint,
     customError, 
-    psqlError
+    psqlError,
+    unhandledError
 } = require('./server/errors')
 
 const app = express();
@@ -23,10 +24,9 @@ app.use('/api', router)
 
 //error handling
 app.use('*', badEndpoint)
-
 app.use(customError)
-
 app.use(psqlError)
+app.use(unhandledError)
  
 
 module.exports = app
